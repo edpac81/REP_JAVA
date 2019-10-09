@@ -1,0 +1,122 @@
+CPF1124: Trabajo 429345/QUSER/QZRCSRVS arrancado el 10/10/17 a las 11:56:52 en el subsistema QUSRWRK en QSYS. Trabajo introducido en el sistema el 10/10/17 a las 11:56:52.
+CPIAD02: El usuario BCOINFEPC del cliente 10.126.248.246 está conectado a un servidor.
+CPC2196: Biblioteca QSYS2931 añadida a la lista de bibliotecas.
+CPC2206: Se ha modificado la propiedad del objeto ZRCRPCSPC en QTEMP del tipo *USRSPC.
+CPF5C61: Petición de cliente - ejecutar programa QSYS/QWCRTVCA.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca BCOCYFILES añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPF2103: La biblioteca QGPL ya existe en la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPF2103: La biblioteca ADCMDATPRO ya existe en la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPF2103: La biblioteca ADCMLIBPRO ya existe en la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPF2103: La biblioteca P$CMDATPRO ya existe en la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPF2103: La biblioteca P$CMLIBPRO ya existe en la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPF2103: La biblioteca COMLIB ya existe en la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPF2103: La biblioteca QTEMP ya existe en la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPF2103: La biblioteca PTCMLIBPRO ya existe en la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca BCOUSRLIB añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca ZFUNC añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca ZSNTB añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca BCOUSRCRI añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca IBSUSRR04 añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca IBSSCRR04 añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca IBSLIBR04 añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca RLCMLIBPRO añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca QS36F añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca EIBSR04M03 añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca QZRDSSRV añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca TFBSLIBPRO añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca QMQM añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca PSLIB36 añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca CCGITOOLS añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca RPGNEXTLIB añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca CMQASRV añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca CMQMDAT añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca CPRTLOGSRV añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca CIFSSRV añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca CXMLSRV añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca CMQMCLS añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca BBCOSRC añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca BBCOCLS añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca CCNTSRV añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca CSRCSRV añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca CBASICSSRV añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca CSYSTOOLS añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca RPGBEANLIB añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca CNBSSRV añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca BBCOSRV añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca BBCOAPL añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca CSYSTSRV añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca CCORSRV añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca ICCMSRVPRO añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca ADCMCLSPRO añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca TCCMLIBPRO añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca TCCMDATPRO añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca CHTTSRV añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca TTRDDAT añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca TTRDLIB añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca PDE400 añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca CUBDDAT añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato ADDLIBLE.
+CPC2196: Biblioteca RPGUNIT añadida a la lista de bibliotecas.
+CPF5C62: Petición de cliente - ejecutar mandato CHGCURLIB.
+CPC2198: Biblioteca actual cambiada por LIBEPC.
+CPF5C62: Petición de cliente - ejecutar mandato DLTSPLF.
+CPC3305: 19 archivos suprimidos. 0 archivos no suprimidos.
+CPF5C62: Petición de cliente - ejecutar mandato CRTBNDRPG.
+CPF4102: No se ha encontrado el archivo Ñ009SRCPGM de la biblioteca LIBEPC con el miembro DDP1004.
+RNS9306: Imposible abrir el miembro DDP1004 del archivo Ñ009SRCPGM en la biblioteca LIBEPC.
+CPC2206: Se ha modificado la propiedad del objeto RETURNCODE en QTEMP del tipo *DTAARA.
+CPC0904: Área de datos RETURNCODE creada en biblioteca QTEMP.
+RNS9310: Ha fallado la compilación. No se ha creado el programa DDP1004 en la biblioteca LIBEPC.
+CPF5C61: Petición de cliente - ejecutar programa QGY/QGYOLJBL.

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: eparajeles
+Class-Path: . lib/jt400-6.7.jar lib/log4j-api-2.2.jar lib/log4j-core-2
+ .2.jar
+Build-Jdk: 1.8.0_60
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="muscle.xsd">
+	<release>PLT-20157-0003</release>
+	<analist>Exon Parajeles Corrales</analist>
+	<systemUser>BCOINFEPC</systemUser>
+	<build>
+		<currentLibrary>LIBEPC</currentLibrary>
+		<libraryList>
+			<library sequence="1" name="BCOCYFILES" />
+			<library sequence="2" name="QGPL" />
+			<library sequence="3" name="ADCMDATPRO" />
+			<library sequence="4" name="ADCMLIBPRO" />
+			<library sequence="5" name="P$CMDATPRO" />
+			<library sequence="6" name="P$CMLIBPRO" />
+			<library sequence="7" name="COMLIB" />
+			<library sequence="8" name="QTEMP" />
+			<library sequence="9" name="PTCMLIBPRO" />
+			<library sequence="10" name="BCOUSRLIB" />
+			<library sequence="11" name="ZFUNC" />
+			<library sequence="12" name="ZSNTB" />
+			<library sequence="13" name="BCOUSRCRI" />
+			<library sequence="14" name="IBSUSRR04" />
+			<library sequence="15" name="IBSSCRR04" />
+			<library sequence="16" name="IBSLIBR04" />
+			<library sequence="17" name="RLCMLIBPRO" />
+			<library sequence="18" name="QS36F" />
+			<library sequence="19" name="EIBSR04M03" />
+			<library sequence="20" name="QZRDSSRV" />
+			<library sequence="21" name="TFBSLIBPRO" />
+			<library sequence="22" name="QMQM" />
+			<library sequence="23" name="PSLIB36" />
+			<library sequence="24" name="CCGITOOLS" />
+			<library sequence="25" name="RPGNEXTLIB" />
+			<library sequence="26" name="CMQASRV" />
+			<library sequence="27" name="CMQMDAT" />
+			<library sequence="28" name="CPRTLOGSRV" />
+			<library sequence="29" name="CIFSSRV" />
+			<library sequence="30" name="CXMLSRV" />
+			<library sequence="31" name="CMQMCLS" />
+			<library sequence="32" name="BBCOSRC" />
+			<library sequence="33" name="BBCOCLS" />
+			<library sequence="34" name="CCNTSRV" />
+			<library sequence="35" name="CSRCSRV" />
+			<library sequence="36" name="CBASICSSRV" />
+			<library sequence="37" name="CSYSTOOLS" />
+			<library sequence="38" name="RPGBEANLIB" />
+			<library sequence="39" name="CNBSSRV" />
+			<library sequence="40" name="BBCOSRV" />
+			<library sequence="41" name="BBCOAPL" />
+			<library sequence="42" name="CSYSTSRV" />
+			<library sequence="43" name="CCORSRV" />
+			<library sequence="44" name="ICCMSRVPRO" />
+			<library sequence="45" name="ADCMCLSPRO" />
+			<library sequence="46" name="TCCMLIBPRO" />
+			<library sequence="47" name="TCCMDATPRO" />
+			<library sequence="48" name="CHTTSRV" />
+			<library sequence="49" name="TTRDDAT" />
+			<library sequence="50" name="TTRDLIB" />
+			<library sequence="51" name="PDE400" />
+			<library sequence="52" name="CUBDDAT" />
+			<library sequence="53" name="RPGUNIT" />
+		</libraryList>
+		<bindingDirectory>ENRBNDDIR</bindingDirectory>
+		<pdeProyectList>
+			<pdeProject>
+				<avpNumber>311</avpNumber>
+				<projectNumber>3203</projectNumber>
+				<sourceNumber>011</sourceNumber>
+				<buildOrder>2</buildOrder>
+				<description>BCO,1,BCOCYFILES</description>
+				<items>
+					<item>
+						<sourceFileName>Ñ011SRCSQL</sourceFileName>
+						<memberName>BITAR11036</memberName>
+						<sourceType>SQL</sourceType>
+						<objectType>*FILE</objectType>
+						<buildOrder>1</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ011SRCSQL</sourceFileName>
+						<memberName>BITAR12075</memberName>
+						<sourceType>SQL</sourceType>
+						<objectType>*FILE</objectType>
+						<buildOrder>2</buildOrder>
+					</item>
+				</items>
+			</pdeProject>
+			<pdeProject>
+				<avpNumber>791</avpNumber>
+				<projectNumber>295</projectNumber>
+				<sourceNumber>010</sourceNumber>
+				<buildOrder>3</buildOrder>
+				<description>BCO,1,BBCOCLS</description>
+				<items>
+					<item>
+						<sourceFileName>Ñ010SRCMOD</sourceFileName>
+						<memberName>BITAR11036</memberName>
+						<sourceType>SQLRPGLE</sourceType>
+						<objectType>*MODULE</objectType>
+						<buildOrder>1</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ010SRCSRV</sourceFileName>
+						<memberName>BITAR11036</memberName>
+						<sourceType>BND</sourceType>
+						<objectType>*SRVPGM</objectType>
+						<buildOrder>2</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ010SRCMOD</sourceFileName>
+						<memberName>BITAR12075</memberName>
+						<sourceType>SQLRPGLE</sourceType>
+						<objectType>*MODULE</objectType>
+						<buildOrder>1</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ010SRCSRV</sourceFileName>
+						<memberName>BITAR12075</memberName>
+						<sourceType>BND</sourceType>
+						<objectType>*SRVPGM</objectType>
+						<buildOrder>2</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ010SRCMOD</sourceFileName>
+						<memberName>CUMSTTB</memberName>
+						<sourceType>SQLRPGLE</sourceType>
+						<objectType>*MODULE</objectType>
+						<buildOrder>3</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ010SRCSRV</sourceFileName>
+						<memberName>CUMSTTB</memberName>
+						<sourceType>BND</sourceType>
+						<objectType>*SRVPGM</objectType>
+						<buildOrder>4</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ010SRCMOD</sourceFileName>
+						<memberName>EMLCTE</memberName>
+						<sourceType>SQLRPGLE</sourceType>
+						<objectType>*MODULE</objectType>
+						<buildOrder>5</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ010SRCSRV</sourceFileName>
+						<memberName>EMLCTE</memberName>
+						<sourceType>BND</sourceType>
+						<objectType>*SRVPGM</objectType>
+						<buildOrder>6</buildOrder>
+					</item>
+				</items>
+			</pdeProject>
+			<pdeProject>
+				<avpNumber>793</avpNumber>
+				<projectNumber>377</projectNumber>
+				<sourceNumber>007</sourceNumber>
+				<buildOrder>4</buildOrder>
+				<description>BCO,1,BBCOSRV</description>
+				<items>
+					<item>
+						<sourceFileName>Ñ007SRCSRV</sourceFileName>
+						<memberName>BACC36</memberName>
+						<sourceType>BND</sourceType>
+						<objectType>*SRVPGM</objectType>
+						<buildOrder>5</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ007SRCMOD</sourceFileName>
+						<memberName>BACC36CNTL</memberName>
+						<sourceType>RPGLE</sourceType>
+						<objectType>*MODULE</objectType>
+						<buildOrder>6</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ007SRCSRV</sourceFileName>
+						<memberName>BACC36CNTL</memberName>
+						<sourceType>BND</sourceType>
+						<objectType>*SRVPGM</objectType>
+						<buildOrder>7</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ007SRCMOD</sourceFileName>
+						<memberName>BPPPS00301</memberName>
+						<sourceType>RPGLE</sourceType>
+						<objectType>*MODULE</objectType>
+						<buildOrder>1</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ007SRCMOD</sourceFileName>
+						<memberName>BPPPS00302</memberName>
+						<sourceType>RPGLE</sourceType>
+						<objectType>*MODULE</objectType>
+						<buildOrder>2</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ007SRCSRV</sourceFileName>
+						<memberName>BPPPS003</memberName>
+						<sourceType>BND</sourceType>
+						<objectType>*SRVPGM</objectType>
+						<buildOrder>3</buildOrder>
+						<buildCommand>CRTSRVPGM SRVPGM(BPPPS003) MODULE(*LIBL/BPPPS00300 *LIBL/BPPPS00301 *LIBL/BPPPS00302 *LIBL/BPPPS00303 *LIBL/BPPPS00304 *LIBL/BPPPS00305 *LIBL/BPPPS00306 *LIBL/BPPPS00307 *LIBL/BPPPS00308) EXPORT(*SRCFILE) SRCFILE(LIBEPC/Ñ007SRCSRV) TEXT('PPP-UTILIDADES MULTIPLE FORMATOS') OPTION(*DUPPROC) TGTRLS(*CURRENT)</buildCommand>
+					</item>
+					<item>
+						<sourceFileName>Ñ007SRCMOD</sourceFileName>
+						<memberName>BACC36</memberName>
+						<sourceType>SQLRPGLE</sourceType>
+						<objectType>*MODULE</objectType>
+						<buildOrder>4</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ007SRCMOD</sourceFileName>
+						<memberName>BCUM75</memberName>
+						<sourceType>SQLRPGLE</sourceType>
+						<objectType>*MODULE</objectType>
+						<buildOrder>8</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ007SRCSRV</sourceFileName>
+						<memberName>BCUM75</memberName>
+						<sourceType>BND</sourceType>
+						<objectType>*SRVPGM</objectType>
+						<buildOrder>9</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ007SRCMOD</sourceFileName>
+						<memberName>BCUM75CNTL</memberName>
+						<sourceType>SQLRPGLE</sourceType>
+						<objectType>*MODULE</objectType>
+						<buildOrder>10</buildOrder>
+					</item>
+					<item>
+						<sourceFileName>Ñ007SRCSRV</sourceFileName>
+						<memberName>BCUM75CNTL</memberName>
+						<sourceType>BND</sourceType>
+						<objectType>*SRVPGM</objectType>
+						<buildOrder>11</buildOrder>
+					</item>
+				</items>
+			</pdeProject>
+			<pdeProject>
+				<avpNumber>307</avpNumber>
+				<projectNumber>3506</projectNumber>
+				<sourceNumber>009</sourceNumber>
+				<buildOrder>1</buildOrder>
+				<description>BCO,1,BCOUSRLIB</description>
+				<items>
+					<item>
+						<sourceFileName>Ñ009SRCPGM</sourceFileName>
+						<memberName>DDP1004</memberName>
+						<sourceType>RPGLE</sourceType>
+						<objectType>*PGM</objectType>
+						<buildOrder>1</buildOrder>
+					</item>
+				</items>
+			</pdeProject>
+		</pdeProyectList>
+	</build>
+	<install>
+		<tablesTargetLibrary>EPCCYFILES</tablesTargetLibrary>
+		<programsTargetLibrary>EPCUSRLIB</programsTargetLibrary>
+		<tasks>
+			<task>
+				<taskType>CL</taskType>
+				<taskCommand></taskCommand>
+			</task>
+			<task>
+				<taskType>SQL</taskType>
+				<taskCommand></taskCommand>
+			</task>
+		</tasks>
+	</install>
+</projectModel>

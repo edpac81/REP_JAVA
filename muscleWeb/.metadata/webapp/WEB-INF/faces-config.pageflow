@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pageflow:Pageflow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pageflow="http://www.sybase.com/suade/pageflow" id="pf14901374277100" configfile="/muscleWeb/webapp/WEB-INF/faces-config.xml">
+  <nodes xsi:type="pageflow:PFPage" name="login.xhtml" x="48" y="72" id="pf149026402024210" referenceLink="//@navigationRule.0/@fromViewId|" outlinks="pf149026402024211" path="/login.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="view/default.xhtml" x="264" y="72" id="pf149026402024212" referenceLink="//@navigationRule.0/@navigationCase.0/@toViewId|" path="/view/default.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="view/projectList.xhtml" x="301" y="248" id="pf14903131612560" inlinks="pf149026402024211" path="/view/projectList.xhtml"/>
+  <links id="pf149026402024211" target="pf14903131612560" source="pf149026402024210" outcome="projectList"/>
+</pageflow:Pageflow>

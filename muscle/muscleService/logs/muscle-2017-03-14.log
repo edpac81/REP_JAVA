@@ -1,0 +1,1450 @@
+[INFO ] 2017-03-14 08:19:53.464 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 08:20:38.543 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 09:13:20.822 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 09:16:42.994 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 09:17:55.208 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 09:23:18.032 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 09:24:41.819 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 09:33:23.332 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 09:33:23.709 [main] SpooledFileWriter - Spooled File writed: C:\workspace_java\muscle\muscleJAR\spooled\BCUM75CNTL-1254-QPRTJOB-.txt
+[INFO ] 2017-03-14 09:34:56.143 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 09:34:56.603 [main] SpooledFileWriter - Spooled File writed: C:\workspace_java\muscle\muscleJAR\spooled\BCUM75CNTL-1254-QPRTJOB-BCOINFEPC-998907.txt
+[INFO ] 2017-03-14 09:43:43.355 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 09:43:43.410 [main] CommandExecute - Connected to job: 115523/QUSER/QZRCSRVS
+[INFO ] 2017-03-14 09:43:43.410 [main] BuildController - Build Started.
+[INFO ] 2017-03-14 09:43:43.410 [main] BuildController - Loading Library List
+[DEBUG] 2017-03-14 09:43:43.410 [main] CommandExecute - Command: ADDLIBLE BCOCYFILES *LAST
+[DEBUG] 2017-03-14 09:43:43.417 [main] CommandExecute - CPC2196: Biblioteca BCOCYFILES añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.417 [main] CommandExecute - Command: ADDLIBLE QGPL *LAST
+[WARN ] 2017-03-14 09:43:43.424 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QGPL ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.424 [main] CommandExecute - Command: ADDLIBLE ADCMDATPRO *LAST
+[WARN ] 2017-03-14 09:43:43.430 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.430 [main] CommandExecute - Command: ADDLIBLE ADCMLIBPRO *LAST
+[WARN ] 2017-03-14 09:43:43.435 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.435 [main] CommandExecute - Command: ADDLIBLE P$CMDATPRO *LAST
+[WARN ] 2017-03-14 09:43:43.443 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.443 [main] CommandExecute - Command: ADDLIBLE P$CMLIBPRO *LAST
+[WARN ] 2017-03-14 09:43:43.449 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.449 [main] CommandExecute - Command: ADDLIBLE COMLIB *LAST
+[WARN ] 2017-03-14 09:43:43.455 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca COMLIB ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.455 [main] CommandExecute - Command: ADDLIBLE QTEMP *LAST
+[WARN ] 2017-03-14 09:43:43.462 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QTEMP ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.462 [main] CommandExecute - Command: ADDLIBLE PTCMLIBPRO *LAST
+[WARN ] 2017-03-14 09:43:43.468 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca PTCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.468 [main] CommandExecute - Command: ADDLIBLE BCOUSRLIB *LAST
+[DEBUG] 2017-03-14 09:43:43.473 [main] CommandExecute - CPC2196: Biblioteca BCOUSRLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.473 [main] CommandExecute - Command: ADDLIBLE ZFUNC *LAST
+[DEBUG] 2017-03-14 09:43:43.479 [main] CommandExecute - CPC2196: Biblioteca ZFUNC añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.479 [main] CommandExecute - Command: ADDLIBLE ZSNTB *LAST
+[DEBUG] 2017-03-14 09:43:43.485 [main] CommandExecute - CPC2196: Biblioteca ZSNTB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.485 [main] CommandExecute - Command: ADDLIBLE BCOUSRCRI *LAST
+[DEBUG] 2017-03-14 09:43:43.491 [main] CommandExecute - CPC2196: Biblioteca BCOUSRCRI añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.491 [main] CommandExecute - Command: ADDLIBLE IBSUSRR04 *LAST
+[DEBUG] 2017-03-14 09:43:43.496 [main] CommandExecute - CPC2196: Biblioteca IBSUSRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.497 [main] CommandExecute - Command: ADDLIBLE IBSSCRR04 *LAST
+[DEBUG] 2017-03-14 09:43:43.502 [main] CommandExecute - CPC2196: Biblioteca IBSSCRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.502 [main] CommandExecute - Command: ADDLIBLE IBSLIBR04 *LAST
+[DEBUG] 2017-03-14 09:43:43.507 [main] CommandExecute - CPC2196: Biblioteca IBSLIBR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.508 [main] CommandExecute - Command: ADDLIBLE RLCMLIBPRO *LAST
+[DEBUG] 2017-03-14 09:43:43.514 [main] CommandExecute - CPC2196: Biblioteca RLCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.514 [main] CommandExecute - Command: ADDLIBLE QS36F *LAST
+[DEBUG] 2017-03-14 09:43:43.519 [main] CommandExecute - CPC2196: Biblioteca QS36F añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.519 [main] CommandExecute - Command: ADDLIBLE EIBSR04M03 *LAST
+[DEBUG] 2017-03-14 09:43:43.524 [main] CommandExecute - CPC2196: Biblioteca EIBSR04M03 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.524 [main] CommandExecute - Command: ADDLIBLE QZRDSSRV *LAST
+[DEBUG] 2017-03-14 09:43:43.530 [main] CommandExecute - CPC2196: Biblioteca QZRDSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.530 [main] CommandExecute - Command: ADDLIBLE TFBSLIBPRO *LAST
+[DEBUG] 2017-03-14 09:43:43.535 [main] CommandExecute - CPC2196: Biblioteca TFBSLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.535 [main] CommandExecute - Command: ADDLIBLE QMQM *LAST
+[DEBUG] 2017-03-14 09:43:43.541 [main] CommandExecute - CPC2196: Biblioteca QMQM añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.541 [main] CommandExecute - Command: ADDLIBLE PSLIB36 *LAST
+[DEBUG] 2017-03-14 09:43:43.547 [main] CommandExecute - CPC2196: Biblioteca PSLIB36 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.547 [main] CommandExecute - Command: ADDLIBLE CCGITOOLS *LAST
+[DEBUG] 2017-03-14 09:43:43.552 [main] CommandExecute - CPC2196: Biblioteca CCGITOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.552 [main] CommandExecute - Command: ADDLIBLE RPGNEXTLIB *LAST
+[DEBUG] 2017-03-14 09:43:43.559 [main] CommandExecute - CPC2196: Biblioteca RPGNEXTLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.559 [main] CommandExecute - Command: ADDLIBLE CMQASRV *LAST
+[DEBUG] 2017-03-14 09:43:43.565 [main] CommandExecute - CPC2196: Biblioteca CMQASRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.565 [main] CommandExecute - Command: ADDLIBLE CMQMDAT *LAST
+[DEBUG] 2017-03-14 09:43:43.570 [main] CommandExecute - CPC2196: Biblioteca CMQMDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.571 [main] CommandExecute - Command: ADDLIBLE CPRTLOGSRV *LAST
+[DEBUG] 2017-03-14 09:43:43.578 [main] CommandExecute - CPC2196: Biblioteca CPRTLOGSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.578 [main] CommandExecute - Command: ADDLIBLE CIFSSRV *LAST
+[DEBUG] 2017-03-14 09:43:43.583 [main] CommandExecute - CPC2196: Biblioteca CIFSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.584 [main] CommandExecute - Command: ADDLIBLE CXMLSRV *LAST
+[DEBUG] 2017-03-14 09:43:43.589 [main] CommandExecute - CPC2196: Biblioteca CXMLSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.589 [main] CommandExecute - Command: ADDLIBLE CMQMCLS *LAST
+[DEBUG] 2017-03-14 09:43:43.595 [main] CommandExecute - CPC2196: Biblioteca CMQMCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.595 [main] CommandExecute - Command: ADDLIBLE BBCOSRC *LAST
+[DEBUG] 2017-03-14 09:43:43.600 [main] CommandExecute - CPC2196: Biblioteca BBCOSRC añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.600 [main] CommandExecute - Command: ADDLIBLE BBCOCLS *LAST
+[DEBUG] 2017-03-14 09:43:43.606 [main] CommandExecute - CPC2196: Biblioteca BBCOCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.607 [main] CommandExecute - Command: ADDLIBLE CCNTSRV *LAST
+[DEBUG] 2017-03-14 09:43:43.612 [main] CommandExecute - CPC2196: Biblioteca CCNTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.612 [main] CommandExecute - Command: ADDLIBLE CSRCSRV *LAST
+[DEBUG] 2017-03-14 09:43:43.617 [main] CommandExecute - CPC2196: Biblioteca CSRCSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.618 [main] CommandExecute - Command: ADDLIBLE CBASICSSRV *LAST
+[DEBUG] 2017-03-14 09:43:43.623 [main] CommandExecute - CPC2196: Biblioteca CBASICSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.623 [main] CommandExecute - Command: ADDLIBLE CSYSTOOLS *LAST
+[DEBUG] 2017-03-14 09:43:43.628 [main] CommandExecute - CPC2196: Biblioteca CSYSTOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.628 [main] CommandExecute - Command: ADDLIBLE RPGBEANLIB *LAST
+[DEBUG] 2017-03-14 09:43:43.634 [main] CommandExecute - CPC2196: Biblioteca RPGBEANLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.634 [main] CommandExecute - Command: ADDLIBLE CNBSSRV *LAST
+[DEBUG] 2017-03-14 09:43:43.639 [main] CommandExecute - CPC2196: Biblioteca CNBSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.639 [main] CommandExecute - Command: ADDLIBLE BBCOSRV *LAST
+[DEBUG] 2017-03-14 09:43:43.644 [main] CommandExecute - CPC2196: Biblioteca BBCOSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.644 [main] CommandExecute - Command: ADDLIBLE BBCOAPL *LAST
+[DEBUG] 2017-03-14 09:43:43.649 [main] CommandExecute - CPC2196: Biblioteca BBCOAPL añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.649 [main] CommandExecute - Command: ADDLIBLE CSYSTSRV *LAST
+[DEBUG] 2017-03-14 09:43:43.654 [main] CommandExecute - CPC2196: Biblioteca CSYSTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.655 [main] CommandExecute - Command: ADDLIBLE CCORSRV *LAST
+[DEBUG] 2017-03-14 09:43:43.659 [main] CommandExecute - CPC2196: Biblioteca CCORSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.660 [main] CommandExecute - Command: ADDLIBLE ICCMSRVPRO *LAST
+[DEBUG] 2017-03-14 09:43:43.665 [main] CommandExecute - CPC2196: Biblioteca ICCMSRVPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.665 [main] CommandExecute - Command: ADDLIBLE ADCMCLSPRO *LAST
+[DEBUG] 2017-03-14 09:43:43.670 [main] CommandExecute - CPC2196: Biblioteca ADCMCLSPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.670 [main] CommandExecute - Command: ADDLIBLE TCCMLIBPRO *LAST
+[DEBUG] 2017-03-14 09:43:43.676 [main] CommandExecute - CPC2196: Biblioteca TCCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.676 [main] CommandExecute - Command: ADDLIBLE TCCMDATPRO *LAST
+[DEBUG] 2017-03-14 09:43:43.681 [main] CommandExecute - CPC2196: Biblioteca TCCMDATPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.681 [main] CommandExecute - Command: ADDLIBLE CHTTSRV *LAST
+[DEBUG] 2017-03-14 09:43:43.686 [main] CommandExecute - CPC2196: Biblioteca CHTTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.687 [main] CommandExecute - Command: ADDLIBLE TTRDDAT *LAST
+[DEBUG] 2017-03-14 09:43:43.692 [main] CommandExecute - CPC2196: Biblioteca TTRDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.692 [main] CommandExecute - Command: ADDLIBLE TTRDLIB *LAST
+[DEBUG] 2017-03-14 09:43:43.698 [main] CommandExecute - CPC2196: Biblioteca TTRDLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.698 [main] CommandExecute - Command: ADDLIBLE PDE400 *LAST
+[DEBUG] 2017-03-14 09:43:43.705 [main] CommandExecute - CPC2196: Biblioteca PDE400 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.705 [main] CommandExecute - Command: ADDLIBLE CUBDDAT *LAST
+[DEBUG] 2017-03-14 09:43:43.711 [main] CommandExecute - CPC2196: Biblioteca CUBDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.712 [main] CommandExecute - Command: ADDLIBLE RPGUNIT *LAST
+[DEBUG] 2017-03-14 09:43:43.717 [main] CommandExecute - CPC2196: Biblioteca RPGUNIT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:43:43.717 [main] CommandExecute - Command: CHGCURLIB LIBEPC
+[DEBUG] 2017-03-14 09:43:43.722 [main] CommandExecute - CPC2198: Biblioteca actual cambiada por LIBEPC.
+[DEBUG] 2017-03-14 09:43:43.722 [main] CommandExecute - Command: DLTSPLF FILE(*SELECT)
+[DEBUG] 2017-03-14 09:43:43.849 [main] CommandExecute - CPC3305: 27 archivos suprimidos. 0 archivos no suprimidos.
+[INFO ] 2017-03-14 09:43:43.850 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3506, avpNumber=307, sourceNumber=009, description=BCO,1,BCOUSRLIB, buildOrder=1]
+[DEBUG] 2017-03-14 09:43:43.850 [main] CommandExecute - Command: CRTBNDRPG PGM(LIBEPC/DDP1004) SRCFILE(LIBEPC/Ñ009SRCPGM) SRCMBR(DDP1004) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:43:44.270 [main] CommandExecute - RNS9304: El programa DDP1004 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:42:08.
+[INFO ] 2017-03-14 09:43:44.270 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3203, avpNumber=311, sourceNumber=011, description=BCO,1,BCOCYFILES, buildOrder=2]
+[DEBUG] 2017-03-14 09:43:44.270 [main] CommandExecute - Command: RUNSQLTAG BIB(LIBEPC) SRC(Ñ011SRCSQL) MBR(BITAR11036) BIBPROD(LIBEPC) ELIM(S)
+[DEBUG] 2017-03-14 09:43:44.652 [main] CommandExecute -        : 
+[DEBUG] 2017-03-14 09:43:44.652 [main] CommandExecute - Command: RUNSQLTAG BIB(LIBEPC) SRC(Ñ011SRCSQL) MBR(BITAR12075) BIBPROD(LIBEPC) ELIM(S)
+[DEBUG] 2017-03-14 09:43:44.933 [main] CommandExecute -        : 
+[INFO ] 2017-03-14 09:43:44.933 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=295, avpNumber=791, sourceNumber=010, description=BCO,1,BBCOCLS, buildOrder=3]
+[DEBUG] 2017-03-14 09:43:44.933 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BITAR11036) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(BITAR11036) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:43:45.828 [main] CommandExecute - RNS9305: El módulo BITAR11036 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:42:09.
+[DEBUG] 2017-03-14 09:43:45.829 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BITAR12075) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(BITAR12075) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:43:46.326 [main] CommandExecute - RNS9305: El módulo BITAR12075 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:42:10.
+[DEBUG] 2017-03-14 09:43:46.327 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BITAR11036) MODULE(*LIBL/BITAR11036) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:43:46.781 [main] CommandExecute - CPC5D0B: Programa de servicio BITAR11036 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:43:46.781 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BITAR11036)
+[DEBUG] 2017-03-14 09:43:46.798 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:43:46.798 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BITAR12075) MODULE(*LIBL/BITAR12075) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:43:46.944 [main] CommandExecute - CPC5D0B: Programa de servicio BITAR12075 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:43:46.944 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BITAR12075)
+[DEBUG] 2017-03-14 09:43:46.950 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:43:46.950 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/CUMSTTB) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(CUMSTTB) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:43:49.128 [main] CommandExecute - RNS9305: El módulo CUMSTTB se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:42:12.
+[DEBUG] 2017-03-14 09:43:49.129 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/CUMSTTB) MODULE(*LIBL/CUMSTTB) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:43:49.447 [main] CommandExecute - CPC5D0B: Programa de servicio CUMSTTB creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:43:49.448 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(CUMSTTB)
+[DEBUG] 2017-03-14 09:43:49.453 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:43:49.454 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/EMLCTE) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(EMLCTE) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:43:50.381 [main] CommandExecute - RNS9305: El módulo EMLCTE se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:42:14.
+[DEBUG] 2017-03-14 09:43:50.381 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/EMLCTE) MODULE(*LIBL/EMLCTE) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:43:50.660 [main] CommandExecute - CPC5D0B: Programa de servicio EMLCTE creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:43:50.660 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(EMLCTE)
+[DEBUG] 2017-03-14 09:43:50.666 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[INFO ] 2017-03-14 09:43:50.666 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=377, avpNumber=793, sourceNumber=007, description=BCO,1,BBCOSRV, buildOrder=4]
+[DEBUG] 2017-03-14 09:43:50.666 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BPPPS00301) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BPPPS00301) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:43:51.082 [main] CommandExecute - RNS9305: El módulo BPPPS00301 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:42:14.
+[DEBUG] 2017-03-14 09:43:51.083 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BPPPS00302) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BPPPS00302) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:43:51.346 [main] CommandExecute - RNS9305: El módulo BPPPS00302 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:42:15.
+[DEBUG] 2017-03-14 09:43:51.346 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(BPPPS003) MODULE(*LIBL/BPPPS00300 *LIBL/BPPPS00301 *LIBL/BPPPS00302 *LIBL/BPPPS00303 *LIBL/BPPPS00304 *LIBL/BPPPS00305 *LIBL/BPPPS00306 *LIBL/BPPPS00307 *LIBL/BPPPS00308) EXPORT(*SRCFILE) SRCFILE(LIBEPC/Ñ007SRCSRV) TEXT('PPP-UTILIDADES MULTIPLE FORMATOS') OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:43:52.119 [main] CommandExecute - CPC5D0B: Programa de servicio BPPPS003 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:43:52.119 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BPPPS003)
+[DEBUG] 2017-03-14 09:43:52.125 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:43:52.126 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BACC36) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BACC36) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:43:53.495 [main] CommandExecute - RNS9305: El módulo BACC36 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:42:17.
+[DEBUG] 2017-03-14 09:43:53.495 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BACC36) MODULE(*LIBL/BACC36) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:43:53.738 [main] CommandExecute - CPC5D0B: Programa de servicio BACC36 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:43:53.739 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BACC36)
+[DEBUG] 2017-03-14 09:43:53.744 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:43:53.745 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BACC36CNTL) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BACC36CNTL) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:43:53.943 [main] CommandExecute - RNS9305: El módulo BACC36CNTL se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:42:17.
+[DEBUG] 2017-03-14 09:43:53.944 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BACC36CNTL) MODULE(*LIBL/BACC36CNTL) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:43:54.183 [main] CommandExecute - CPC5D0B: Programa de servicio BACC36CNTL creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:43:54.183 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BACC36CNTL)
+[DEBUG] 2017-03-14 09:43:54.189 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:43:54.189 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BCUM75) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BCUM75) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:43:55.543 [main] CommandExecute - RNS9305: El módulo BCUM75 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:42:19.
+[DEBUG] 2017-03-14 09:43:55.543 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BCUM75) MODULE(*LIBL/BCUM75) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:43:55.660 [main] CommandExecute - CPC5D0B: Programa de servicio BCUM75 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:43:55.660 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BCUM75)
+[DEBUG] 2017-03-14 09:43:55.666 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:43:55.666 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BCUM75CNTL) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BCUM75CNTL) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:43:56.066 [main] CommandExecute - RNS9305: El módulo BCUM75CNTL se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:42:19.
+[DEBUG] 2017-03-14 09:43:56.066 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BCUM75CNTL) MODULE(*LIBL/BCUM75CNTL) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:43:56.163 [main] CommandExecute - CPC5D0B: Programa de servicio BCUM75CNTL creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:43:56.163 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BCUM75CNTL)
+[DEBUG] 2017-03-14 09:43:56.169 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[INFO ] 2017-03-14 09:43:56.170 [main] BuildController - Build Ended.
+[INFO ] 2017-03-14 09:48:27.168 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 09:48:27.226 [main] CommandExecute - Connected to job: 115934/QUSER/QZRCSRVS
+[INFO ] 2017-03-14 09:48:27.226 [main] BuildController - Build Started.
+[INFO ] 2017-03-14 09:48:27.226 [main] BuildController - Loading Library List
+[DEBUG] 2017-03-14 09:48:27.226 [main] CommandExecute - Command: ADDLIBLE BCOCYFILES *LAST
+[DEBUG] 2017-03-14 09:48:27.234 [main] CommandExecute - CPC2196: Biblioteca BCOCYFILES añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.234 [main] CommandExecute - Command: ADDLIBLE QGPL *LAST
+[WARN ] 2017-03-14 09:48:27.240 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QGPL ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.240 [main] CommandExecute - Command: ADDLIBLE ADCMDATPRO *LAST
+[WARN ] 2017-03-14 09:48:27.246 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.246 [main] CommandExecute - Command: ADDLIBLE ADCMLIBPRO *LAST
+[WARN ] 2017-03-14 09:48:27.251 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.252 [main] CommandExecute - Command: ADDLIBLE P$CMDATPRO *LAST
+[WARN ] 2017-03-14 09:48:27.258 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.258 [main] CommandExecute - Command: ADDLIBLE P$CMLIBPRO *LAST
+[WARN ] 2017-03-14 09:48:27.264 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.264 [main] CommandExecute - Command: ADDLIBLE COMLIB *LAST
+[WARN ] 2017-03-14 09:48:27.270 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca COMLIB ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.270 [main] CommandExecute - Command: ADDLIBLE QTEMP *LAST
+[WARN ] 2017-03-14 09:48:27.276 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QTEMP ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.277 [main] CommandExecute - Command: ADDLIBLE PTCMLIBPRO *LAST
+[WARN ] 2017-03-14 09:48:27.282 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca PTCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.283 [main] CommandExecute - Command: ADDLIBLE BCOUSRLIB *LAST
+[DEBUG] 2017-03-14 09:48:27.289 [main] CommandExecute - CPC2196: Biblioteca BCOUSRLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.289 [main] CommandExecute - Command: ADDLIBLE ZFUNC *LAST
+[DEBUG] 2017-03-14 09:48:27.296 [main] CommandExecute - CPC2196: Biblioteca ZFUNC añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.296 [main] CommandExecute - Command: ADDLIBLE ZSNTB *LAST
+[DEBUG] 2017-03-14 09:48:27.303 [main] CommandExecute - CPC2196: Biblioteca ZSNTB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.303 [main] CommandExecute - Command: ADDLIBLE BCOUSRCRI *LAST
+[DEBUG] 2017-03-14 09:48:27.311 [main] CommandExecute - CPC2196: Biblioteca BCOUSRCRI añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.311 [main] CommandExecute - Command: ADDLIBLE IBSUSRR04 *LAST
+[DEBUG] 2017-03-14 09:48:27.317 [main] CommandExecute - CPC2196: Biblioteca IBSUSRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.318 [main] CommandExecute - Command: ADDLIBLE IBSSCRR04 *LAST
+[DEBUG] 2017-03-14 09:48:27.323 [main] CommandExecute - CPC2196: Biblioteca IBSSCRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.324 [main] CommandExecute - Command: ADDLIBLE IBSLIBR04 *LAST
+[DEBUG] 2017-03-14 09:48:27.330 [main] CommandExecute - CPC2196: Biblioteca IBSLIBR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.330 [main] CommandExecute - Command: ADDLIBLE RLCMLIBPRO *LAST
+[DEBUG] 2017-03-14 09:48:27.336 [main] CommandExecute - CPC2196: Biblioteca RLCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.336 [main] CommandExecute - Command: ADDLIBLE QS36F *LAST
+[DEBUG] 2017-03-14 09:48:27.342 [main] CommandExecute - CPC2196: Biblioteca QS36F añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.343 [main] CommandExecute - Command: ADDLIBLE EIBSR04M03 *LAST
+[DEBUG] 2017-03-14 09:48:27.348 [main] CommandExecute - CPC2196: Biblioteca EIBSR04M03 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.348 [main] CommandExecute - Command: ADDLIBLE QZRDSSRV *LAST
+[DEBUG] 2017-03-14 09:48:27.353 [main] CommandExecute - CPC2196: Biblioteca QZRDSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.354 [main] CommandExecute - Command: ADDLIBLE TFBSLIBPRO *LAST
+[DEBUG] 2017-03-14 09:48:27.360 [main] CommandExecute - CPC2196: Biblioteca TFBSLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.360 [main] CommandExecute - Command: ADDLIBLE QMQM *LAST
+[DEBUG] 2017-03-14 09:48:27.365 [main] CommandExecute - CPC2196: Biblioteca QMQM añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.365 [main] CommandExecute - Command: ADDLIBLE PSLIB36 *LAST
+[DEBUG] 2017-03-14 09:48:27.371 [main] CommandExecute - CPC2196: Biblioteca PSLIB36 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.371 [main] CommandExecute - Command: ADDLIBLE CCGITOOLS *LAST
+[DEBUG] 2017-03-14 09:48:27.377 [main] CommandExecute - CPC2196: Biblioteca CCGITOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.377 [main] CommandExecute - Command: ADDLIBLE RPGNEXTLIB *LAST
+[DEBUG] 2017-03-14 09:48:27.383 [main] CommandExecute - CPC2196: Biblioteca RPGNEXTLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.384 [main] CommandExecute - Command: ADDLIBLE CMQASRV *LAST
+[DEBUG] 2017-03-14 09:48:27.390 [main] CommandExecute - CPC2196: Biblioteca CMQASRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.391 [main] CommandExecute - Command: ADDLIBLE CMQMDAT *LAST
+[DEBUG] 2017-03-14 09:48:27.397 [main] CommandExecute - CPC2196: Biblioteca CMQMDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.398 [main] CommandExecute - Command: ADDLIBLE CPRTLOGSRV *LAST
+[DEBUG] 2017-03-14 09:48:27.405 [main] CommandExecute - CPC2196: Biblioteca CPRTLOGSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.405 [main] CommandExecute - Command: ADDLIBLE CIFSSRV *LAST
+[DEBUG] 2017-03-14 09:48:27.411 [main] CommandExecute - CPC2196: Biblioteca CIFSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.411 [main] CommandExecute - Command: ADDLIBLE CXMLSRV *LAST
+[DEBUG] 2017-03-14 09:48:27.417 [main] CommandExecute - CPC2196: Biblioteca CXMLSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.417 [main] CommandExecute - Command: ADDLIBLE CMQMCLS *LAST
+[DEBUG] 2017-03-14 09:48:27.422 [main] CommandExecute - CPC2196: Biblioteca CMQMCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.422 [main] CommandExecute - Command: ADDLIBLE BBCOSRC *LAST
+[DEBUG] 2017-03-14 09:48:27.428 [main] CommandExecute - CPC2196: Biblioteca BBCOSRC añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.428 [main] CommandExecute - Command: ADDLIBLE BBCOCLS *LAST
+[DEBUG] 2017-03-14 09:48:27.435 [main] CommandExecute - CPC2196: Biblioteca BBCOCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.436 [main] CommandExecute - Command: ADDLIBLE CCNTSRV *LAST
+[DEBUG] 2017-03-14 09:48:27.442 [main] CommandExecute - CPC2196: Biblioteca CCNTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.442 [main] CommandExecute - Command: ADDLIBLE CSRCSRV *LAST
+[DEBUG] 2017-03-14 09:48:27.448 [main] CommandExecute - CPC2196: Biblioteca CSRCSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.448 [main] CommandExecute - Command: ADDLIBLE CBASICSSRV *LAST
+[DEBUG] 2017-03-14 09:48:27.454 [main] CommandExecute - CPC2196: Biblioteca CBASICSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.455 [main] CommandExecute - Command: ADDLIBLE CSYSTOOLS *LAST
+[DEBUG] 2017-03-14 09:48:27.460 [main] CommandExecute - CPC2196: Biblioteca CSYSTOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.461 [main] CommandExecute - Command: ADDLIBLE RPGBEANLIB *LAST
+[DEBUG] 2017-03-14 09:48:27.466 [main] CommandExecute - CPC2196: Biblioteca RPGBEANLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.467 [main] CommandExecute - Command: ADDLIBLE CNBSSRV *LAST
+[DEBUG] 2017-03-14 09:48:27.472 [main] CommandExecute - CPC2196: Biblioteca CNBSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.473 [main] CommandExecute - Command: ADDLIBLE BBCOSRV *LAST
+[DEBUG] 2017-03-14 09:48:27.479 [main] CommandExecute - CPC2196: Biblioteca BBCOSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.480 [main] CommandExecute - Command: ADDLIBLE BBCOAPL *LAST
+[DEBUG] 2017-03-14 09:48:27.486 [main] CommandExecute - CPC2196: Biblioteca BBCOAPL añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.487 [main] CommandExecute - Command: ADDLIBLE CSYSTSRV *LAST
+[DEBUG] 2017-03-14 09:48:27.493 [main] CommandExecute - CPC2196: Biblioteca CSYSTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.493 [main] CommandExecute - Command: ADDLIBLE CCORSRV *LAST
+[DEBUG] 2017-03-14 09:48:27.499 [main] CommandExecute - CPC2196: Biblioteca CCORSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.500 [main] CommandExecute - Command: ADDLIBLE ICCMSRVPRO *LAST
+[DEBUG] 2017-03-14 09:48:27.506 [main] CommandExecute - CPC2196: Biblioteca ICCMSRVPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.507 [main] CommandExecute - Command: ADDLIBLE ADCMCLSPRO *LAST
+[DEBUG] 2017-03-14 09:48:27.513 [main] CommandExecute - CPC2196: Biblioteca ADCMCLSPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.513 [main] CommandExecute - Command: ADDLIBLE TCCMLIBPRO *LAST
+[DEBUG] 2017-03-14 09:48:27.519 [main] CommandExecute - CPC2196: Biblioteca TCCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.519 [main] CommandExecute - Command: ADDLIBLE TCCMDATPRO *LAST
+[DEBUG] 2017-03-14 09:48:27.525 [main] CommandExecute - CPC2196: Biblioteca TCCMDATPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.525 [main] CommandExecute - Command: ADDLIBLE CHTTSRV *LAST
+[DEBUG] 2017-03-14 09:48:27.531 [main] CommandExecute - CPC2196: Biblioteca CHTTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.531 [main] CommandExecute - Command: ADDLIBLE TTRDDAT *LAST
+[DEBUG] 2017-03-14 09:48:27.537 [main] CommandExecute - CPC2196: Biblioteca TTRDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.537 [main] CommandExecute - Command: ADDLIBLE TTRDLIB *LAST
+[DEBUG] 2017-03-14 09:48:27.543 [main] CommandExecute - CPC2196: Biblioteca TTRDLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.543 [main] CommandExecute - Command: ADDLIBLE PDE400 *LAST
+[DEBUG] 2017-03-14 09:48:27.549 [main] CommandExecute - CPC2196: Biblioteca PDE400 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.549 [main] CommandExecute - Command: ADDLIBLE CUBDDAT *LAST
+[DEBUG] 2017-03-14 09:48:27.556 [main] CommandExecute - CPC2196: Biblioteca CUBDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.556 [main] CommandExecute - Command: ADDLIBLE RPGUNIT *LAST
+[DEBUG] 2017-03-14 09:48:27.562 [main] CommandExecute - CPC2196: Biblioteca RPGUNIT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:48:27.562 [main] CommandExecute - Command: CHGCURLIB LIBEPC
+[DEBUG] 2017-03-14 09:48:27.567 [main] CommandExecute - CPC2198: Biblioteca actual cambiada por LIBEPC.
+[DEBUG] 2017-03-14 09:48:27.567 [main] CommandExecute - Command: DLTSPLF FILE(*SELECT)
+[DEBUG] 2017-03-14 09:48:27.735 [main] CommandExecute - CPC3305: 27 archivos suprimidos. 0 archivos no suprimidos.
+[INFO ] 2017-03-14 09:48:27.735 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3506, avpNumber=307, sourceNumber=009, description=BCO,1,BCOUSRLIB, buildOrder=1]
+[DEBUG] 2017-03-14 09:48:27.736 [main] CommandExecute - Command: CRTBNDRPG PGM(LIBEPC/DDP1004) SRCFILE(LIBEPC/Ñ009SRCPGM) SRCMBR(DDP1004) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:48:28.058 [main] CommandExecute - RNS9304: El programa DDP1004 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:46:51.
+[INFO ] 2017-03-14 09:48:28.058 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3203, avpNumber=311, sourceNumber=011, description=BCO,1,BCOCYFILES, buildOrder=2]
+[DEBUG] 2017-03-14 09:48:28.059 [main] CommandExecute - Command: RUNSQLTAG BIB(LIBEPC) SRC(Ñ011SRCSQL) MBR(BITAR11036) BIBPROD(LIBEPC) ELIM(S)
+[DEBUG] 2017-03-14 09:48:28.322 [main] CommandExecute -        : 
+[DEBUG] 2017-03-14 09:48:28.323 [main] CommandExecute - Command: RUNSQLTAG BIB(LIBEPC) SRC(Ñ011SRCSQL) MBR(BITAR12075) BIBPROD(LIBEPC) ELIM(S)
+[DEBUG] 2017-03-14 09:48:28.549 [main] CommandExecute -        : 
+[INFO ] 2017-03-14 09:48:28.549 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=295, avpNumber=791, sourceNumber=010, description=BCO,1,BBCOCLS, buildOrder=3]
+[DEBUG] 2017-03-14 09:48:28.550 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BITAR11036) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(BITAR11036) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:48:29.083 [main] CommandExecute - RNS9305: El módulo BITAR11036 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:46:52.
+[DEBUG] 2017-03-14 09:48:29.084 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BITAR12075) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(BITAR12075) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:48:29.540 [main] CommandExecute - RNS9305: El módulo BITAR12075 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:46:53.
+[DEBUG] 2017-03-14 09:48:29.541 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BITAR11036) MODULE(*LIBL/BITAR11036) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:48:29.679 [main] CommandExecute - CPC5D0B: Programa de servicio BITAR11036 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:48:29.680 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BITAR11036)
+[DEBUG] 2017-03-14 09:48:29.686 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:48:29.686 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BITAR12075) MODULE(*LIBL/BITAR12075) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:48:29.881 [main] CommandExecute - CPC5D0B: Programa de servicio BITAR12075 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:48:29.881 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BITAR12075)
+[DEBUG] 2017-03-14 09:48:29.904 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:48:29.904 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/CUMSTTB) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(CUMSTTB) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:48:31.964 [main] CommandExecute - RNS9305: El módulo CUMSTTB se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:46:55.
+[DEBUG] 2017-03-14 09:48:31.964 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/CUMSTTB) MODULE(*LIBL/CUMSTTB) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:48:32.232 [main] CommandExecute - CPC5D0B: Programa de servicio CUMSTTB creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:48:32.232 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(CUMSTTB)
+[DEBUG] 2017-03-14 09:48:32.239 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:48:32.239 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/EMLCTE) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(EMLCTE) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:48:33.261 [main] CommandExecute - RNS9305: El módulo EMLCTE se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:46:57.
+[DEBUG] 2017-03-14 09:48:33.261 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/EMLCTE) MODULE(*LIBL/EMLCTE) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:48:33.413 [main] CommandExecute - CPC5D0B: Programa de servicio EMLCTE creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:48:33.414 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(EMLCTE)
+[DEBUG] 2017-03-14 09:48:33.420 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[INFO ] 2017-03-14 09:48:33.422 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=377, avpNumber=793, sourceNumber=007, description=BCO,1,BBCOSRV, buildOrder=4]
+[DEBUG] 2017-03-14 09:48:33.423 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BPPPS00301) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BPPPS00301) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:48:33.770 [main] CommandExecute - RNS9305: El módulo BPPPS00301 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:46:57.
+[DEBUG] 2017-03-14 09:48:33.770 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BPPPS00302) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BPPPS00302) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:48:34.091 [main] CommandExecute - RNS9305: El módulo BPPPS00302 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:46:57.
+[DEBUG] 2017-03-14 09:48:34.092 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(BPPPS003) MODULE(*LIBL/BPPPS00300 *LIBL/BPPPS00301 *LIBL/BPPPS00302 *LIBL/BPPPS00303 *LIBL/BPPPS00304 *LIBL/BPPPS00305 *LIBL/BPPPS00306 *LIBL/BPPPS00307 *LIBL/BPPPS00308) EXPORT(*SRCFILE) SRCFILE(LIBEPC/Ñ007SRCSRV) TEXT('PPP-UTILIDADES MULTIPLE FORMATOS') OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:48:34.517 [main] CommandExecute - CPC5D0B: Programa de servicio BPPPS003 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:48:34.518 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BPPPS003)
+[DEBUG] 2017-03-14 09:48:34.525 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:48:34.526 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BACC36) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BACC36) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:48:36.019 [main] CommandExecute - RNS9305: El módulo BACC36 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:46:59.
+[DEBUG] 2017-03-14 09:48:36.020 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BACC36) MODULE(*LIBL/BACC36) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:48:36.171 [main] CommandExecute - CPC5D0B: Programa de servicio BACC36 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:48:36.172 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BACC36)
+[DEBUG] 2017-03-14 09:48:36.178 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:48:36.179 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BACC36CNTL) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BACC36CNTL) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:48:36.415 [main] CommandExecute - RNS9305: El módulo BACC36CNTL se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:47:00.
+[DEBUG] 2017-03-14 09:48:36.415 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BACC36CNTL) MODULE(*LIBL/BACC36CNTL) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:48:36.483 [main] CommandExecute - CPC5D0B: Programa de servicio BACC36CNTL creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:48:36.483 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BACC36CNTL)
+[DEBUG] 2017-03-14 09:48:36.490 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:48:36.490 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BCUM75) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BCUM75) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[INFO ] 2017-03-14 09:48:37.992 [main] JobLogPrinter - jobLogFile Writed: C:\workspace_java\muscle\muscleJAR\joblogs\QZRCSRVS-QUSER-115934.txt
+[INFO ] 2017-03-14 09:48:43.381 [main] SpooledFileWriter - Spooled File writed: C:\workspace_java\muscle\muscleJAR\spooled\BCUM75-1306-QPRTJOB-BCOINFEPC-998907.txt
+[ERROR] 2017-03-14 09:48:43.381 [main] MainController - java.lang.Exception: RNS9308: La compilación se ha detenido. Se han encontrado errores de gravedad 30 en el programa.
+[INFO ] 2017-03-14 09:51:25.548 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 09:51:25.595 [main] CommandExecute - Connected to job: 116123/QUSER/QZRCSRVS
+[INFO ] 2017-03-14 09:51:25.595 [main] BuildController - Build Started.
+[INFO ] 2017-03-14 09:51:25.595 [main] BuildController - Loading Library List
+[DEBUG] 2017-03-14 09:51:25.595 [main] CommandExecute - Command: ADDLIBLE BCOCYFILES *LAST
+[DEBUG] 2017-03-14 09:51:25.602 [main] CommandExecute - CPC2196: Biblioteca BCOCYFILES añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.602 [main] CommandExecute - Command: ADDLIBLE QGPL *LAST
+[WARN ] 2017-03-14 09:51:25.608 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QGPL ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.609 [main] CommandExecute - Command: ADDLIBLE ADCMDATPRO *LAST
+[WARN ] 2017-03-14 09:51:25.614 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.614 [main] CommandExecute - Command: ADDLIBLE ADCMLIBPRO *LAST
+[WARN ] 2017-03-14 09:51:25.620 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.620 [main] CommandExecute - Command: ADDLIBLE P$CMDATPRO *LAST
+[WARN ] 2017-03-14 09:51:25.625 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.625 [main] CommandExecute - Command: ADDLIBLE P$CMLIBPRO *LAST
+[WARN ] 2017-03-14 09:51:25.630 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.631 [main] CommandExecute - Command: ADDLIBLE COMLIB *LAST
+[WARN ] 2017-03-14 09:51:25.636 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca COMLIB ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.636 [main] CommandExecute - Command: ADDLIBLE QTEMP *LAST
+[WARN ] 2017-03-14 09:51:25.642 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QTEMP ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.643 [main] CommandExecute - Command: ADDLIBLE PTCMLIBPRO *LAST
+[WARN ] 2017-03-14 09:51:25.649 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca PTCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.649 [main] CommandExecute - Command: ADDLIBLE BCOUSRLIB *LAST
+[DEBUG] 2017-03-14 09:51:25.654 [main] CommandExecute - CPC2196: Biblioteca BCOUSRLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.654 [main] CommandExecute - Command: ADDLIBLE ZFUNC *LAST
+[DEBUG] 2017-03-14 09:51:25.662 [main] CommandExecute - CPC2196: Biblioteca ZFUNC añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.662 [main] CommandExecute - Command: ADDLIBLE ZSNTB *LAST
+[DEBUG] 2017-03-14 09:51:25.667 [main] CommandExecute - CPC2196: Biblioteca ZSNTB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.667 [main] CommandExecute - Command: ADDLIBLE BCOUSRCRI *LAST
+[DEBUG] 2017-03-14 09:51:25.672 [main] CommandExecute - CPC2196: Biblioteca BCOUSRCRI añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.673 [main] CommandExecute - Command: ADDLIBLE IBSUSRR04 *LAST
+[DEBUG] 2017-03-14 09:51:25.678 [main] CommandExecute - CPC2196: Biblioteca IBSUSRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.679 [main] CommandExecute - Command: ADDLIBLE IBSSCRR04 *LAST
+[DEBUG] 2017-03-14 09:51:25.684 [main] CommandExecute - CPC2196: Biblioteca IBSSCRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.684 [main] CommandExecute - Command: ADDLIBLE IBSLIBR04 *LAST
+[DEBUG] 2017-03-14 09:51:25.690 [main] CommandExecute - CPC2196: Biblioteca IBSLIBR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.691 [main] CommandExecute - Command: ADDLIBLE RLCMLIBPRO *LAST
+[DEBUG] 2017-03-14 09:51:25.697 [main] CommandExecute - CPC2196: Biblioteca RLCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.697 [main] CommandExecute - Command: ADDLIBLE QS36F *LAST
+[DEBUG] 2017-03-14 09:51:25.702 [main] CommandExecute - CPC2196: Biblioteca QS36F añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.702 [main] CommandExecute - Command: ADDLIBLE EIBSR04M03 *LAST
+[DEBUG] 2017-03-14 09:51:25.708 [main] CommandExecute - CPC2196: Biblioteca EIBSR04M03 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.708 [main] CommandExecute - Command: ADDLIBLE QZRDSSRV *LAST
+[DEBUG] 2017-03-14 09:51:25.714 [main] CommandExecute - CPC2196: Biblioteca QZRDSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.714 [main] CommandExecute - Command: ADDLIBLE TFBSLIBPRO *LAST
+[DEBUG] 2017-03-14 09:51:25.720 [main] CommandExecute - CPC2196: Biblioteca TFBSLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.720 [main] CommandExecute - Command: ADDLIBLE QMQM *LAST
+[DEBUG] 2017-03-14 09:51:25.725 [main] CommandExecute - CPC2196: Biblioteca QMQM añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.725 [main] CommandExecute - Command: ADDLIBLE PSLIB36 *LAST
+[DEBUG] 2017-03-14 09:51:25.731 [main] CommandExecute - CPC2196: Biblioteca PSLIB36 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.731 [main] CommandExecute - Command: ADDLIBLE CCGITOOLS *LAST
+[DEBUG] 2017-03-14 09:51:25.736 [main] CommandExecute - CPC2196: Biblioteca CCGITOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.736 [main] CommandExecute - Command: ADDLIBLE RPGNEXTLIB *LAST
+[DEBUG] 2017-03-14 09:51:25.742 [main] CommandExecute - CPC2196: Biblioteca RPGNEXTLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.742 [main] CommandExecute - Command: ADDLIBLE CMQASRV *LAST
+[DEBUG] 2017-03-14 09:51:25.748 [main] CommandExecute - CPC2196: Biblioteca CMQASRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.748 [main] CommandExecute - Command: ADDLIBLE CMQMDAT *LAST
+[DEBUG] 2017-03-14 09:51:25.753 [main] CommandExecute - CPC2196: Biblioteca CMQMDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.753 [main] CommandExecute - Command: ADDLIBLE CPRTLOGSRV *LAST
+[DEBUG] 2017-03-14 09:51:25.759 [main] CommandExecute - CPC2196: Biblioteca CPRTLOGSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.760 [main] CommandExecute - Command: ADDLIBLE CIFSSRV *LAST
+[DEBUG] 2017-03-14 09:51:25.766 [main] CommandExecute - CPC2196: Biblioteca CIFSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.766 [main] CommandExecute - Command: ADDLIBLE CXMLSRV *LAST
+[DEBUG] 2017-03-14 09:51:25.772 [main] CommandExecute - CPC2196: Biblioteca CXMLSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.772 [main] CommandExecute - Command: ADDLIBLE CMQMCLS *LAST
+[DEBUG] 2017-03-14 09:51:25.779 [main] CommandExecute - CPC2196: Biblioteca CMQMCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.779 [main] CommandExecute - Command: ADDLIBLE BBCOSRC *LAST
+[DEBUG] 2017-03-14 09:51:25.784 [main] CommandExecute - CPC2196: Biblioteca BBCOSRC añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.785 [main] CommandExecute - Command: ADDLIBLE BBCOCLS *LAST
+[DEBUG] 2017-03-14 09:51:25.790 [main] CommandExecute - CPC2196: Biblioteca BBCOCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.791 [main] CommandExecute - Command: ADDLIBLE CCNTSRV *LAST
+[DEBUG] 2017-03-14 09:51:25.796 [main] CommandExecute - CPC2196: Biblioteca CCNTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.796 [main] CommandExecute - Command: ADDLIBLE CSRCSRV *LAST
+[DEBUG] 2017-03-14 09:51:25.802 [main] CommandExecute - CPC2196: Biblioteca CSRCSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.802 [main] CommandExecute - Command: ADDLIBLE CBASICSSRV *LAST
+[DEBUG] 2017-03-14 09:51:25.808 [main] CommandExecute - CPC2196: Biblioteca CBASICSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.808 [main] CommandExecute - Command: ADDLIBLE CSYSTOOLS *LAST
+[DEBUG] 2017-03-14 09:51:25.815 [main] CommandExecute - CPC2196: Biblioteca CSYSTOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.816 [main] CommandExecute - Command: ADDLIBLE RPGBEANLIB *LAST
+[DEBUG] 2017-03-14 09:51:25.821 [main] CommandExecute - CPC2196: Biblioteca RPGBEANLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.821 [main] CommandExecute - Command: ADDLIBLE CNBSSRV *LAST
+[DEBUG] 2017-03-14 09:51:25.826 [main] CommandExecute - CPC2196: Biblioteca CNBSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.826 [main] CommandExecute - Command: ADDLIBLE BBCOSRV *LAST
+[DEBUG] 2017-03-14 09:51:25.833 [main] CommandExecute - CPC2196: Biblioteca BBCOSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.834 [main] CommandExecute - Command: ADDLIBLE BBCOAPL *LAST
+[DEBUG] 2017-03-14 09:51:25.840 [main] CommandExecute - CPC2196: Biblioteca BBCOAPL añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.840 [main] CommandExecute - Command: ADDLIBLE CSYSTSRV *LAST
+[DEBUG] 2017-03-14 09:51:25.845 [main] CommandExecute - CPC2196: Biblioteca CSYSTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.845 [main] CommandExecute - Command: ADDLIBLE CCORSRV *LAST
+[DEBUG] 2017-03-14 09:51:25.851 [main] CommandExecute - CPC2196: Biblioteca CCORSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.851 [main] CommandExecute - Command: ADDLIBLE ICCMSRVPRO *LAST
+[DEBUG] 2017-03-14 09:51:25.856 [main] CommandExecute - CPC2196: Biblioteca ICCMSRVPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.856 [main] CommandExecute - Command: ADDLIBLE ADCMCLSPRO *LAST
+[DEBUG] 2017-03-14 09:51:25.862 [main] CommandExecute - CPC2196: Biblioteca ADCMCLSPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.862 [main] CommandExecute - Command: ADDLIBLE TCCMLIBPRO *LAST
+[DEBUG] 2017-03-14 09:51:25.868 [main] CommandExecute - CPC2196: Biblioteca TCCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.868 [main] CommandExecute - Command: ADDLIBLE TCCMDATPRO *LAST
+[DEBUG] 2017-03-14 09:51:25.873 [main] CommandExecute - CPC2196: Biblioteca TCCMDATPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.873 [main] CommandExecute - Command: ADDLIBLE CHTTSRV *LAST
+[DEBUG] 2017-03-14 09:51:25.879 [main] CommandExecute - CPC2196: Biblioteca CHTTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.879 [main] CommandExecute - Command: ADDLIBLE TTRDDAT *LAST
+[DEBUG] 2017-03-14 09:51:25.884 [main] CommandExecute - CPC2196: Biblioteca TTRDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.884 [main] CommandExecute - Command: ADDLIBLE TTRDLIB *LAST
+[DEBUG] 2017-03-14 09:51:25.889 [main] CommandExecute - CPC2196: Biblioteca TTRDLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.889 [main] CommandExecute - Command: ADDLIBLE PDE400 *LAST
+[DEBUG] 2017-03-14 09:51:25.895 [main] CommandExecute - CPC2196: Biblioteca PDE400 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.895 [main] CommandExecute - Command: ADDLIBLE CUBDDAT *LAST
+[DEBUG] 2017-03-14 09:51:25.901 [main] CommandExecute - CPC2196: Biblioteca CUBDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.901 [main] CommandExecute - Command: ADDLIBLE RPGUNIT *LAST
+[DEBUG] 2017-03-14 09:51:25.906 [main] CommandExecute - CPC2196: Biblioteca RPGUNIT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 09:51:25.906 [main] CommandExecute - Command: CHGCURLIB LIBEPC
+[DEBUG] 2017-03-14 09:51:25.911 [main] CommandExecute - CPC2198: Biblioteca actual cambiada por LIBEPC.
+[DEBUG] 2017-03-14 09:51:25.912 [main] CommandExecute - Command: DLTSPLF FILE(*SELECT)
+[DEBUG] 2017-03-14 09:51:25.948 [main] CommandExecute - CPC3305: 24 archivos suprimidos. 0 archivos no suprimidos.
+[INFO ] 2017-03-14 09:51:25.949 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3506, avpNumber=307, sourceNumber=009, description=BCO,1,BCOUSRLIB, buildOrder=1]
+[DEBUG] 2017-03-14 09:51:25.950 [main] CommandExecute - Command: CRTBNDRPG PGM(LIBEPC/DDP1004) SRCFILE(LIBEPC/Ñ009SRCPGM) SRCMBR(DDP1004) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:51:26.361 [main] CommandExecute - RNS9304: El programa DDP1004 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:49:50.
+[INFO ] 2017-03-14 09:51:26.362 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3203, avpNumber=311, sourceNumber=011, description=BCO,1,BCOCYFILES, buildOrder=2]
+[DEBUG] 2017-03-14 09:51:26.362 [main] CommandExecute - Command: RUNSQLTAG BIB(LIBEPC) SRC(Ñ011SRCSQL) MBR(BITAR11036) BIBPROD(LIBEPC) ELIM(S)
+[DEBUG] 2017-03-14 09:51:26.635 [main] CommandExecute -        : 
+[DEBUG] 2017-03-14 09:51:26.635 [main] CommandExecute - Command: RUNSQLTAG BIB(LIBEPC) SRC(Ñ011SRCSQL) MBR(BITAR12075) BIBPROD(LIBEPC) ELIM(S)
+[DEBUG] 2017-03-14 09:51:26.868 [main] CommandExecute -        : 
+[INFO ] 2017-03-14 09:51:26.869 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=295, avpNumber=791, sourceNumber=010, description=BCO,1,BBCOCLS, buildOrder=3]
+[DEBUG] 2017-03-14 09:51:26.869 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BITAR11036) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(BITAR11036) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:51:27.410 [main] CommandExecute - RNS9305: El módulo BITAR11036 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:49:51.
+[DEBUG] 2017-03-14 09:51:27.410 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BITAR12075) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(BITAR12075) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:51:27.870 [main] CommandExecute - RNS9305: El módulo BITAR12075 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:49:51.
+[DEBUG] 2017-03-14 09:51:27.870 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BITAR11036) MODULE(*LIBL/BITAR11036) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:51:28.006 [main] CommandExecute - CPC5D0B: Programa de servicio BITAR11036 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:51:28.006 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BITAR11036)
+[DEBUG] 2017-03-14 09:51:28.013 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:51:28.014 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BITAR12075) MODULE(*LIBL/BITAR12075) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:51:28.136 [main] CommandExecute - CPC5D0B: Programa de servicio BITAR12075 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:51:28.136 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BITAR12075)
+[DEBUG] 2017-03-14 09:51:28.144 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:51:28.145 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/CUMSTTB) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(CUMSTTB) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:51:30.434 [main] CommandExecute - RNS9305: El módulo CUMSTTB se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:49:54.
+[DEBUG] 2017-03-14 09:51:30.435 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/CUMSTTB) MODULE(*LIBL/CUMSTTB) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:51:30.703 [main] CommandExecute - CPC5D0B: Programa de servicio CUMSTTB creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:51:30.703 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(CUMSTTB)
+[DEBUG] 2017-03-14 09:51:30.709 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:51:30.709 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/EMLCTE) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(EMLCTE) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:51:31.728 [main] CommandExecute - RNS9305: El módulo EMLCTE se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:49:55.
+[DEBUG] 2017-03-14 09:51:31.729 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/EMLCTE) MODULE(*LIBL/EMLCTE) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:51:31.831 [main] CommandExecute - CPC5D0B: Programa de servicio EMLCTE creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:51:31.831 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(EMLCTE)
+[DEBUG] 2017-03-14 09:51:31.837 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[INFO ] 2017-03-14 09:51:31.837 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=377, avpNumber=793, sourceNumber=007, description=BCO,1,BBCOSRV, buildOrder=4]
+[DEBUG] 2017-03-14 09:51:31.838 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BPPPS00301) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BPPPS00301) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:51:32.214 [main] CommandExecute - RNS9305: El módulo BPPPS00301 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:49:56.
+[DEBUG] 2017-03-14 09:51:32.216 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BPPPS00302) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BPPPS00302) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:51:32.488 [main] CommandExecute - RNS9305: El módulo BPPPS00302 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:49:56.
+[DEBUG] 2017-03-14 09:51:32.489 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(BPPPS003) MODULE(*LIBL/BPPPS00300 *LIBL/BPPPS00301 *LIBL/BPPPS00302 *LIBL/BPPPS00303 *LIBL/BPPPS00304 *LIBL/BPPPS00305 *LIBL/BPPPS00306 *LIBL/BPPPS00307 *LIBL/BPPPS00308) EXPORT(*SRCFILE) SRCFILE(LIBEPC/Ñ007SRCSRV) TEXT('PPP-UTILIDADES MULTIPLE FORMATOS') OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:51:32.855 [main] CommandExecute - CPC5D0B: Programa de servicio BPPPS003 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:51:32.855 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BPPPS003)
+[DEBUG] 2017-03-14 09:51:32.861 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:51:32.862 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BACC36) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BACC36) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:51:34.221 [main] CommandExecute - RNS9305: El módulo BACC36 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:49:58.
+[DEBUG] 2017-03-14 09:51:34.222 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BACC36) MODULE(*LIBL/BACC36) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:51:34.377 [main] CommandExecute - CPC5D0B: Programa de servicio BACC36 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:51:34.377 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BACC36)
+[DEBUG] 2017-03-14 09:51:34.384 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:51:34.384 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BACC36CNTL) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BACC36CNTL) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:51:34.698 [main] CommandExecute - RNS9305: El módulo BACC36CNTL se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:49:58.
+[DEBUG] 2017-03-14 09:51:34.698 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BACC36CNTL) MODULE(*LIBL/BACC36CNTL) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:51:34.840 [main] CommandExecute - CPC5D0B: Programa de servicio BACC36CNTL creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:51:34.841 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BACC36CNTL)
+[DEBUG] 2017-03-14 09:51:34.848 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:51:34.848 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BCUM75) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BCUM75) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:51:36.545 [main] CommandExecute - RNS9305: El módulo BCUM75 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:50:00.
+[DEBUG] 2017-03-14 09:51:36.545 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BCUM75) MODULE(*LIBL/BCUM75) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:51:36.689 [main] CommandExecute - CPC5D0B: Programa de servicio BCUM75 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:51:36.689 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BCUM75)
+[DEBUG] 2017-03-14 09:51:36.696 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:51:36.696 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BCUM75CNTL) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BCUM75CNTL) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 09:51:37.110 [main] CommandExecute - RNS9305: El módulo BCUM75CNTL se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 09:50:00.
+[DEBUG] 2017-03-14 09:51:37.110 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BCUM75CNTL) MODULE(*LIBL/BCUM75CNTL) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 09:51:37.222 [main] CommandExecute - CPC5D0B: Programa de servicio BCUM75CNTL creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 09:51:37.222 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BCUM75CNTL)
+[DEBUG] 2017-03-14 09:51:37.228 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[INFO ] 2017-03-14 09:51:37.228 [main] BuildController - Build Ended.
+[INFO ] 2017-03-14 11:31:08.123 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 11:31:08.189 [main] CommandExecute - Connected to job: 122174/QUSER/QZRCSRVS
+[INFO ] 2017-03-14 11:31:08.190 [main] BuildController - Build Started.
+[INFO ] 2017-03-14 11:31:08.190 [main] BuildController - Loading Library List
+[DEBUG] 2017-03-14 11:31:08.190 [main] CommandExecute - Command: ADDLIBLE BCOCYFILES *LAST
+[DEBUG] 2017-03-14 11:31:08.200 [main] CommandExecute - CPC2196: Biblioteca BCOCYFILES añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.200 [main] CommandExecute - Command: ADDLIBLE QGPL *LAST
+[WARN ] 2017-03-14 11:31:08.209 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QGPL ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.210 [main] CommandExecute - Command: ADDLIBLE ADCMDATPRO *LAST
+[WARN ] 2017-03-14 11:31:08.217 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.217 [main] CommandExecute - Command: ADDLIBLE ADCMLIBPRO *LAST
+[WARN ] 2017-03-14 11:31:08.223 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.223 [main] CommandExecute - Command: ADDLIBLE P$CMDATPRO *LAST
+[WARN ] 2017-03-14 11:31:08.231 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.231 [main] CommandExecute - Command: ADDLIBLE P$CMLIBPRO *LAST
+[WARN ] 2017-03-14 11:31:08.249 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.250 [main] CommandExecute - Command: ADDLIBLE COMLIB *LAST
+[WARN ] 2017-03-14 11:31:08.258 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca COMLIB ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.258 [main] CommandExecute - Command: ADDLIBLE QTEMP *LAST
+[WARN ] 2017-03-14 11:31:08.267 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QTEMP ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.267 [main] CommandExecute - Command: ADDLIBLE PTCMLIBPRO *LAST
+[WARN ] 2017-03-14 11:31:08.275 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca PTCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.276 [main] CommandExecute - Command: ADDLIBLE BCOUSRLIB *LAST
+[DEBUG] 2017-03-14 11:31:08.288 [main] CommandExecute - CPC2196: Biblioteca BCOUSRLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.289 [main] CommandExecute - Command: ADDLIBLE ZFUNC *LAST
+[DEBUG] 2017-03-14 11:31:08.296 [main] CommandExecute - CPC2196: Biblioteca ZFUNC añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.296 [main] CommandExecute - Command: ADDLIBLE ZSNTB *LAST
+[DEBUG] 2017-03-14 11:31:08.305 [main] CommandExecute - CPC2196: Biblioteca ZSNTB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.305 [main] CommandExecute - Command: ADDLIBLE BCOUSRCRI *LAST
+[DEBUG] 2017-03-14 11:31:08.315 [main] CommandExecute - CPC2196: Biblioteca BCOUSRCRI añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.315 [main] CommandExecute - Command: ADDLIBLE IBSUSRR04 *LAST
+[DEBUG] 2017-03-14 11:31:08.323 [main] CommandExecute - CPC2196: Biblioteca IBSUSRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.323 [main] CommandExecute - Command: ADDLIBLE IBSSCRR04 *LAST
+[DEBUG] 2017-03-14 11:31:08.333 [main] CommandExecute - CPC2196: Biblioteca IBSSCRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.334 [main] CommandExecute - Command: ADDLIBLE IBSLIBR04 *LAST
+[DEBUG] 2017-03-14 11:31:08.344 [main] CommandExecute - CPC2196: Biblioteca IBSLIBR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.344 [main] CommandExecute - Command: ADDLIBLE RLCMLIBPRO *LAST
+[DEBUG] 2017-03-14 11:31:08.353 [main] CommandExecute - CPC2196: Biblioteca RLCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.353 [main] CommandExecute - Command: ADDLIBLE QS36F *LAST
+[DEBUG] 2017-03-14 11:31:08.362 [main] CommandExecute - CPC2196: Biblioteca QS36F añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.362 [main] CommandExecute - Command: ADDLIBLE EIBSR04M03 *LAST
+[DEBUG] 2017-03-14 11:31:08.369 [main] CommandExecute - CPC2196: Biblioteca EIBSR04M03 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.369 [main] CommandExecute - Command: ADDLIBLE QZRDSSRV *LAST
+[DEBUG] 2017-03-14 11:31:08.376 [main] CommandExecute - CPC2196: Biblioteca QZRDSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.376 [main] CommandExecute - Command: ADDLIBLE TFBSLIBPRO *LAST
+[DEBUG] 2017-03-14 11:31:08.385 [main] CommandExecute - CPC2196: Biblioteca TFBSLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.385 [main] CommandExecute - Command: ADDLIBLE QMQM *LAST
+[DEBUG] 2017-03-14 11:31:08.394 [main] CommandExecute - CPC2196: Biblioteca QMQM añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.394 [main] CommandExecute - Command: ADDLIBLE PSLIB36 *LAST
+[DEBUG] 2017-03-14 11:31:08.402 [main] CommandExecute - CPC2196: Biblioteca PSLIB36 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.402 [main] CommandExecute - Command: ADDLIBLE CCGITOOLS *LAST
+[DEBUG] 2017-03-14 11:31:08.411 [main] CommandExecute - CPC2196: Biblioteca CCGITOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.411 [main] CommandExecute - Command: ADDLIBLE RPGNEXTLIB *LAST
+[DEBUG] 2017-03-14 11:31:08.419 [main] CommandExecute - CPC2196: Biblioteca RPGNEXTLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.420 [main] CommandExecute - Command: ADDLIBLE CMQASRV *LAST
+[DEBUG] 2017-03-14 11:31:08.428 [main] CommandExecute - CPC2196: Biblioteca CMQASRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.428 [main] CommandExecute - Command: ADDLIBLE CMQMDAT *LAST
+[DEBUG] 2017-03-14 11:31:08.436 [main] CommandExecute - CPC2196: Biblioteca CMQMDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.436 [main] CommandExecute - Command: ADDLIBLE CPRTLOGSRV *LAST
+[DEBUG] 2017-03-14 11:31:08.447 [main] CommandExecute - CPC2196: Biblioteca CPRTLOGSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.447 [main] CommandExecute - Command: ADDLIBLE CIFSSRV *LAST
+[DEBUG] 2017-03-14 11:31:08.455 [main] CommandExecute - CPC2196: Biblioteca CIFSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.455 [main] CommandExecute - Command: ADDLIBLE CXMLSRV *LAST
+[DEBUG] 2017-03-14 11:31:08.465 [main] CommandExecute - CPC2196: Biblioteca CXMLSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.466 [main] CommandExecute - Command: ADDLIBLE CMQMCLS *LAST
+[DEBUG] 2017-03-14 11:31:08.474 [main] CommandExecute - CPC2196: Biblioteca CMQMCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.474 [main] CommandExecute - Command: ADDLIBLE BBCOSRC *LAST
+[DEBUG] 2017-03-14 11:31:08.482 [main] CommandExecute - CPC2196: Biblioteca BBCOSRC añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.482 [main] CommandExecute - Command: ADDLIBLE BBCOCLS *LAST
+[DEBUG] 2017-03-14 11:31:08.488 [main] CommandExecute - CPC2196: Biblioteca BBCOCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.489 [main] CommandExecute - Command: ADDLIBLE CCNTSRV *LAST
+[DEBUG] 2017-03-14 11:31:08.497 [main] CommandExecute - CPC2196: Biblioteca CCNTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.497 [main] CommandExecute - Command: ADDLIBLE CSRCSRV *LAST
+[DEBUG] 2017-03-14 11:31:08.503 [main] CommandExecute - CPC2196: Biblioteca CSRCSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.504 [main] CommandExecute - Command: ADDLIBLE CBASICSSRV *LAST
+[DEBUG] 2017-03-14 11:31:08.512 [main] CommandExecute - CPC2196: Biblioteca CBASICSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.512 [main] CommandExecute - Command: ADDLIBLE CSYSTOOLS *LAST
+[DEBUG] 2017-03-14 11:31:08.520 [main] CommandExecute - CPC2196: Biblioteca CSYSTOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.520 [main] CommandExecute - Command: ADDLIBLE RPGBEANLIB *LAST
+[DEBUG] 2017-03-14 11:31:08.529 [main] CommandExecute - CPC2196: Biblioteca RPGBEANLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.529 [main] CommandExecute - Command: ADDLIBLE CNBSSRV *LAST
+[DEBUG] 2017-03-14 11:31:08.537 [main] CommandExecute - CPC2196: Biblioteca CNBSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.537 [main] CommandExecute - Command: ADDLIBLE BBCOSRV *LAST
+[DEBUG] 2017-03-14 11:31:08.546 [main] CommandExecute - CPC2196: Biblioteca BBCOSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.546 [main] CommandExecute - Command: ADDLIBLE BBCOAPL *LAST
+[DEBUG] 2017-03-14 11:31:08.552 [main] CommandExecute - CPC2196: Biblioteca BBCOAPL añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.553 [main] CommandExecute - Command: ADDLIBLE CSYSTSRV *LAST
+[DEBUG] 2017-03-14 11:31:08.559 [main] CommandExecute - CPC2196: Biblioteca CSYSTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.560 [main] CommandExecute - Command: ADDLIBLE CCORSRV *LAST
+[DEBUG] 2017-03-14 11:31:08.566 [main] CommandExecute - CPC2196: Biblioteca CCORSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.566 [main] CommandExecute - Command: ADDLIBLE ICCMSRVPRO *LAST
+[DEBUG] 2017-03-14 11:31:08.574 [main] CommandExecute - CPC2196: Biblioteca ICCMSRVPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.574 [main] CommandExecute - Command: ADDLIBLE ADCMCLSPRO *LAST
+[DEBUG] 2017-03-14 11:31:08.583 [main] CommandExecute - CPC2196: Biblioteca ADCMCLSPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.583 [main] CommandExecute - Command: ADDLIBLE TCCMLIBPRO *LAST
+[DEBUG] 2017-03-14 11:31:08.589 [main] CommandExecute - CPC2196: Biblioteca TCCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.590 [main] CommandExecute - Command: ADDLIBLE TCCMDATPRO *LAST
+[DEBUG] 2017-03-14 11:31:08.598 [main] CommandExecute - CPC2196: Biblioteca TCCMDATPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.598 [main] CommandExecute - Command: ADDLIBLE CHTTSRV *LAST
+[DEBUG] 2017-03-14 11:31:08.607 [main] CommandExecute - CPC2196: Biblioteca CHTTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.607 [main] CommandExecute - Command: ADDLIBLE TTRDDAT *LAST
+[DEBUG] 2017-03-14 11:31:08.613 [main] CommandExecute - CPC2196: Biblioteca TTRDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.613 [main] CommandExecute - Command: ADDLIBLE TTRDLIB *LAST
+[DEBUG] 2017-03-14 11:31:08.621 [main] CommandExecute - CPC2196: Biblioteca TTRDLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.621 [main] CommandExecute - Command: ADDLIBLE PDE400 *LAST
+[DEBUG] 2017-03-14 11:31:08.629 [main] CommandExecute - CPC2196: Biblioteca PDE400 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.629 [main] CommandExecute - Command: ADDLIBLE CUBDDAT *LAST
+[DEBUG] 2017-03-14 11:31:08.636 [main] CommandExecute - CPC2196: Biblioteca CUBDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.636 [main] CommandExecute - Command: ADDLIBLE RPGUNIT *LAST
+[DEBUG] 2017-03-14 11:31:08.643 [main] CommandExecute - CPC2196: Biblioteca RPGUNIT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 11:31:08.643 [main] CommandExecute - Command: CHGCURLIB LIBEPC
+[DEBUG] 2017-03-14 11:31:08.650 [main] CommandExecute - CPC2198: Biblioteca actual cambiada por LIBEPC.
+[DEBUG] 2017-03-14 11:31:08.650 [main] CommandExecute - Command: DLTSPLF FILE(*SELECT)
+[DEBUG] 2017-03-14 11:31:09.193 [main] CommandExecute - CPC3305: 27 archivos suprimidos. 0 archivos no suprimidos.
+[INFO ] 2017-03-14 11:31:09.194 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3506, avpNumber=307, sourceNumber=009, description=BCO,1,BCOUSRLIB, buildOrder=1]
+[DEBUG] 2017-03-14 11:31:09.194 [main] CommandExecute - Command: CRTBNDRPG PGM(LIBEPC/DDP1004) SRCFILE(LIBEPC/Ñ009SRCPGM) SRCMBR(DDP1004) REPLACE(*YES)
+[DEBUG] 2017-03-14 11:31:09.921 [main] CommandExecute - RNS9304: El programa DDP1004 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 11:29:33.
+[INFO ] 2017-03-14 11:31:09.921 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3203, avpNumber=311, sourceNumber=011, description=BCO,1,BCOCYFILES, buildOrder=2]
+[DEBUG] 2017-03-14 11:31:09.922 [main] CommandExecute - Command: RUNSQLTAG BIB(LIBEPC) SRC(Ñ011SRCSQL) MBR(BITAR11036) BIBPROD(LIBEPC) ELIM(S)
+[DEBUG] 2017-03-14 11:31:10.495 [main] CommandExecute -        : 
+[DEBUG] 2017-03-14 11:31:10.496 [main] CommandExecute - Command: RUNSQLTAG BIB(LIBEPC) SRC(Ñ011SRCSQL) MBR(BITAR12075) BIBPROD(LIBEPC) ELIM(S)
+[DEBUG] 2017-03-14 11:31:10.830 [main] CommandExecute -        : 
+[INFO ] 2017-03-14 11:31:10.830 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=295, avpNumber=791, sourceNumber=010, description=BCO,1,BBCOCLS, buildOrder=3]
+[DEBUG] 2017-03-14 11:31:10.831 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BITAR11036) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(BITAR11036) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 11:31:11.504 [main] CommandExecute - RNS9305: El módulo BITAR11036 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 11:29:35.
+[DEBUG] 2017-03-14 11:31:11.505 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BITAR12075) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(BITAR12075) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 11:31:12.022 [main] CommandExecute - RNS9305: El módulo BITAR12075 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 11:29:35.
+[DEBUG] 2017-03-14 11:31:12.023 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BITAR11036) MODULE(*LIBL/BITAR11036) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 11:31:12.621 [main] CommandExecute - CPC5D0B: Programa de servicio BITAR11036 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 11:31:12.621 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BITAR11036)
+[DEBUG] 2017-03-14 11:31:12.629 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 11:31:12.629 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BITAR12075) MODULE(*LIBL/BITAR12075) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 11:31:12.758 [main] CommandExecute - CPC5D0B: Programa de servicio BITAR12075 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 11:31:12.758 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BITAR12075)
+[DEBUG] 2017-03-14 11:31:12.765 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 11:31:12.766 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/CUMSTTB) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(CUMSTTB) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 11:31:14.782 [main] CommandExecute - RNS9305: El módulo CUMSTTB se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 11:29:38.
+[DEBUG] 2017-03-14 11:31:14.783 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/CUMSTTB) MODULE(*LIBL/CUMSTTB) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 11:31:15.052 [main] CommandExecute - CPC5D0B: Programa de servicio CUMSTTB creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 11:31:15.052 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(CUMSTTB)
+[DEBUG] 2017-03-14 11:31:15.058 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 11:31:15.058 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/EMLCTE) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(EMLCTE) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 11:31:15.962 [main] CommandExecute - RNS9305: El módulo EMLCTE se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 11:29:39.
+[DEBUG] 2017-03-14 11:31:15.962 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/EMLCTE) MODULE(*LIBL/EMLCTE) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 11:31:16.306 [main] CommandExecute - CPC5D0B: Programa de servicio EMLCTE creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 11:31:16.306 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(EMLCTE)
+[DEBUG] 2017-03-14 11:31:16.313 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[INFO ] 2017-03-14 11:31:16.314 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=377, avpNumber=793, sourceNumber=007, description=BCO,1,BBCOSRV, buildOrder=4]
+[DEBUG] 2017-03-14 11:31:16.314 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BPPPS00301) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BPPPS00301) REPLACE(*YES)
+[DEBUG] 2017-03-14 11:31:16.844 [main] CommandExecute - RNS9305: El módulo BPPPS00301 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 11:29:40.
+[DEBUG] 2017-03-14 11:31:16.845 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BPPPS00302) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BPPPS00302) REPLACE(*YES)
+[DEBUG] 2017-03-14 11:31:17.099 [main] CommandExecute - RNS9305: El módulo BPPPS00302 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 11:29:40.
+[DEBUG] 2017-03-14 11:31:17.099 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(BPPPS003) MODULE(*LIBL/BPPPS00300 *LIBL/BPPPS00301 *LIBL/BPPPS00302 *LIBL/BPPPS00303 *LIBL/BPPPS00304 *LIBL/BPPPS00305 *LIBL/BPPPS00306 *LIBL/BPPPS00307 *LIBL/BPPPS00308) EXPORT(*SRCFILE) SRCFILE(LIBEPC/Ñ007SRCSRV) TEXT('PPP-UTILIDADES MULTIPLE FORMATOS') OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 11:31:17.880 [main] CommandExecute - CPC5D0B: Programa de servicio BPPPS003 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 11:31:17.880 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BPPPS003)
+[DEBUG] 2017-03-14 11:31:17.887 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 11:31:17.888 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BACC36) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BACC36) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 11:31:19.109 [main] CommandExecute - RNS9305: El módulo BACC36 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 11:29:42.
+[DEBUG] 2017-03-14 11:31:19.110 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BACC36) MODULE(*LIBL/BACC36) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 11:31:19.313 [main] CommandExecute - CPC5D0B: Programa de servicio BACC36 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 11:31:19.314 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BACC36)
+[DEBUG] 2017-03-14 11:31:19.323 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 11:31:19.323 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BACC36CNTL) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BACC36CNTL) REPLACE(*YES)
+[DEBUG] 2017-03-14 11:31:19.532 [main] CommandExecute - RNS9305: El módulo BACC36CNTL se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 11:29:43.
+[DEBUG] 2017-03-14 11:31:19.532 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BACC36CNTL) MODULE(*LIBL/BACC36CNTL) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 11:31:19.805 [main] CommandExecute - CPC5D0B: Programa de servicio BACC36CNTL creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 11:31:19.805 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BACC36CNTL)
+[DEBUG] 2017-03-14 11:31:19.812 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 11:31:19.813 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BCUM75) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BCUM75) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 11:31:21.068 [main] CommandExecute - RNS9305: El módulo BCUM75 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 11:29:44.
+[DEBUG] 2017-03-14 11:31:21.069 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BCUM75) MODULE(*LIBL/BCUM75) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 11:31:21.220 [main] CommandExecute - CPC5D0B: Programa de servicio BCUM75 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 11:31:21.220 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BCUM75)
+[DEBUG] 2017-03-14 11:31:21.228 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 11:31:21.228 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BCUM75CNTL) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BCUM75CNTL) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 11:31:21.633 [main] CommandExecute - RNS9305: El módulo BCUM75CNTL se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 11:29:45.
+[DEBUG] 2017-03-14 11:31:21.633 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BCUM75CNTL) MODULE(*LIBL/BCUM75CNTL) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 11:31:21.713 [main] CommandExecute - CPC5D0B: Programa de servicio BCUM75CNTL creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 11:31:21.713 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BCUM75CNTL)
+[DEBUG] 2017-03-14 11:31:21.722 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[INFO ] 2017-03-14 11:31:21.723 [main] BuildController - Build Ended.
+[INFO ] 2017-03-14 14:34:29.709 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 14:34:29.800 [main] CommandExecute - Connected to job: 133247/QUSER/QZRCSRVS
+[INFO ] 2017-03-14 14:34:29.800 [main] BuildController - Build Started.
+[INFO ] 2017-03-14 14:34:29.801 [main] BuildController - Loading Library List
+[DEBUG] 2017-03-14 14:34:29.801 [main] CommandExecute - Command: ADDLIBLE BCOCYFILES *LAST
+[DEBUG] 2017-03-14 14:34:29.809 [main] CommandExecute - CPC2196: Biblioteca BCOCYFILES añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.809 [main] CommandExecute - Command: ADDLIBLE QGPL *LAST
+[WARN ] 2017-03-14 14:34:29.816 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QGPL ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.817 [main] CommandExecute - Command: ADDLIBLE ADCMDATPRO *LAST
+[WARN ] 2017-03-14 14:34:29.823 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.823 [main] CommandExecute - Command: ADDLIBLE ADCMLIBPRO *LAST
+[WARN ] 2017-03-14 14:34:29.829 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.829 [main] CommandExecute - Command: ADDLIBLE P$CMDATPRO *LAST
+[WARN ] 2017-03-14 14:34:29.836 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.836 [main] CommandExecute - Command: ADDLIBLE P$CMLIBPRO *LAST
+[WARN ] 2017-03-14 14:34:29.841 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.842 [main] CommandExecute - Command: ADDLIBLE COMLIB *LAST
+[WARN ] 2017-03-14 14:34:29.848 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca COMLIB ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.848 [main] CommandExecute - Command: ADDLIBLE QTEMP *LAST
+[WARN ] 2017-03-14 14:34:29.855 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QTEMP ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.855 [main] CommandExecute - Command: ADDLIBLE PTCMLIBPRO *LAST
+[WARN ] 2017-03-14 14:34:29.860 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca PTCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.861 [main] CommandExecute - Command: ADDLIBLE BCOUSRLIB *LAST
+[DEBUG] 2017-03-14 14:34:29.866 [main] CommandExecute - CPC2196: Biblioteca BCOUSRLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.867 [main] CommandExecute - Command: ADDLIBLE ZFUNC *LAST
+[DEBUG] 2017-03-14 14:34:29.875 [main] CommandExecute - CPC2196: Biblioteca ZFUNC añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.875 [main] CommandExecute - Command: ADDLIBLE ZSNTB *LAST
+[DEBUG] 2017-03-14 14:34:29.881 [main] CommandExecute - CPC2196: Biblioteca ZSNTB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.881 [main] CommandExecute - Command: ADDLIBLE BCOUSRCRI *LAST
+[DEBUG] 2017-03-14 14:34:29.887 [main] CommandExecute - CPC2196: Biblioteca BCOUSRCRI añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.887 [main] CommandExecute - Command: ADDLIBLE IBSUSRR04 *LAST
+[DEBUG] 2017-03-14 14:34:29.893 [main] CommandExecute - CPC2196: Biblioteca IBSUSRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.893 [main] CommandExecute - Command: ADDLIBLE IBSSCRR04 *LAST
+[DEBUG] 2017-03-14 14:34:29.899 [main] CommandExecute - CPC2196: Biblioteca IBSSCRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.899 [main] CommandExecute - Command: ADDLIBLE IBSLIBR04 *LAST
+[DEBUG] 2017-03-14 14:34:29.905 [main] CommandExecute - CPC2196: Biblioteca IBSLIBR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.905 [main] CommandExecute - Command: ADDLIBLE RLCMLIBPRO *LAST
+[DEBUG] 2017-03-14 14:34:29.911 [main] CommandExecute - CPC2196: Biblioteca RLCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.911 [main] CommandExecute - Command: ADDLIBLE QS36F *LAST
+[DEBUG] 2017-03-14 14:34:29.916 [main] CommandExecute - CPC2196: Biblioteca QS36F añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.916 [main] CommandExecute - Command: ADDLIBLE EIBSR04M03 *LAST
+[DEBUG] 2017-03-14 14:34:29.923 [main] CommandExecute - CPC2196: Biblioteca EIBSR04M03 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.923 [main] CommandExecute - Command: ADDLIBLE QZRDSSRV *LAST
+[DEBUG] 2017-03-14 14:34:29.928 [main] CommandExecute - CPC2196: Biblioteca QZRDSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.928 [main] CommandExecute - Command: ADDLIBLE TFBSLIBPRO *LAST
+[DEBUG] 2017-03-14 14:34:29.934 [main] CommandExecute - CPC2196: Biblioteca TFBSLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.934 [main] CommandExecute - Command: ADDLIBLE QMQM *LAST
+[DEBUG] 2017-03-14 14:34:29.939 [main] CommandExecute - CPC2196: Biblioteca QMQM añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.940 [main] CommandExecute - Command: ADDLIBLE PSLIB36 *LAST
+[DEBUG] 2017-03-14 14:34:29.945 [main] CommandExecute - CPC2196: Biblioteca PSLIB36 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.946 [main] CommandExecute - Command: ADDLIBLE CCGITOOLS *LAST
+[DEBUG] 2017-03-14 14:34:29.952 [main] CommandExecute - CPC2196: Biblioteca CCGITOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.952 [main] CommandExecute - Command: ADDLIBLE RPGNEXTLIB *LAST
+[DEBUG] 2017-03-14 14:34:29.958 [main] CommandExecute - CPC2196: Biblioteca RPGNEXTLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.958 [main] CommandExecute - Command: ADDLIBLE CMQASRV *LAST
+[DEBUG] 2017-03-14 14:34:29.964 [main] CommandExecute - CPC2196: Biblioteca CMQASRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.964 [main] CommandExecute - Command: ADDLIBLE CMQMDAT *LAST
+[DEBUG] 2017-03-14 14:34:29.970 [main] CommandExecute - CPC2196: Biblioteca CMQMDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.970 [main] CommandExecute - Command: ADDLIBLE CPRTLOGSRV *LAST
+[DEBUG] 2017-03-14 14:34:29.978 [main] CommandExecute - CPC2196: Biblioteca CPRTLOGSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.978 [main] CommandExecute - Command: ADDLIBLE CIFSSRV *LAST
+[DEBUG] 2017-03-14 14:34:29.984 [main] CommandExecute - CPC2196: Biblioteca CIFSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.985 [main] CommandExecute - Command: ADDLIBLE CXMLSRV *LAST
+[DEBUG] 2017-03-14 14:34:29.990 [main] CommandExecute - CPC2196: Biblioteca CXMLSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.991 [main] CommandExecute - Command: ADDLIBLE CMQMCLS *LAST
+[DEBUG] 2017-03-14 14:34:29.997 [main] CommandExecute - CPC2196: Biblioteca CMQMCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:29.997 [main] CommandExecute - Command: ADDLIBLE BBCOSRC *LAST
+[DEBUG] 2017-03-14 14:34:30.003 [main] CommandExecute - CPC2196: Biblioteca BBCOSRC añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.003 [main] CommandExecute - Command: ADDLIBLE BBCOCLS *LAST
+[DEBUG] 2017-03-14 14:34:30.008 [main] CommandExecute - CPC2196: Biblioteca BBCOCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.009 [main] CommandExecute - Command: ADDLIBLE CCNTSRV *LAST
+[DEBUG] 2017-03-14 14:34:30.015 [main] CommandExecute - CPC2196: Biblioteca CCNTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.016 [main] CommandExecute - Command: ADDLIBLE CSRCSRV *LAST
+[DEBUG] 2017-03-14 14:34:30.021 [main] CommandExecute - CPC2196: Biblioteca CSRCSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.021 [main] CommandExecute - Command: ADDLIBLE CBASICSSRV *LAST
+[DEBUG] 2017-03-14 14:34:30.027 [main] CommandExecute - CPC2196: Biblioteca CBASICSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.027 [main] CommandExecute - Command: ADDLIBLE CSYSTOOLS *LAST
+[DEBUG] 2017-03-14 14:34:30.032 [main] CommandExecute - CPC2196: Biblioteca CSYSTOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.032 [main] CommandExecute - Command: ADDLIBLE RPGBEANLIB *LAST
+[DEBUG] 2017-03-14 14:34:30.039 [main] CommandExecute - CPC2196: Biblioteca RPGBEANLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.039 [main] CommandExecute - Command: ADDLIBLE CNBSSRV *LAST
+[DEBUG] 2017-03-14 14:34:30.044 [main] CommandExecute - CPC2196: Biblioteca CNBSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.044 [main] CommandExecute - Command: ADDLIBLE BBCOSRV *LAST
+[DEBUG] 2017-03-14 14:34:30.049 [main] CommandExecute - CPC2196: Biblioteca BBCOSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.050 [main] CommandExecute - Command: ADDLIBLE BBCOAPL *LAST
+[DEBUG] 2017-03-14 14:34:30.055 [main] CommandExecute - CPC2196: Biblioteca BBCOAPL añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.056 [main] CommandExecute - Command: ADDLIBLE CSYSTSRV *LAST
+[DEBUG] 2017-03-14 14:34:30.063 [main] CommandExecute - CPC2196: Biblioteca CSYSTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.063 [main] CommandExecute - Command: ADDLIBLE CCORSRV *LAST
+[DEBUG] 2017-03-14 14:34:30.069 [main] CommandExecute - CPC2196: Biblioteca CCORSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.070 [main] CommandExecute - Command: ADDLIBLE ICCMSRVPRO *LAST
+[DEBUG] 2017-03-14 14:34:30.075 [main] CommandExecute - CPC2196: Biblioteca ICCMSRVPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.075 [main] CommandExecute - Command: ADDLIBLE ADCMCLSPRO *LAST
+[DEBUG] 2017-03-14 14:34:30.080 [main] CommandExecute - CPC2196: Biblioteca ADCMCLSPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.081 [main] CommandExecute - Command: ADDLIBLE TCCMLIBPRO *LAST
+[DEBUG] 2017-03-14 14:34:30.087 [main] CommandExecute - CPC2196: Biblioteca TCCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.087 [main] CommandExecute - Command: ADDLIBLE TCCMDATPRO *LAST
+[DEBUG] 2017-03-14 14:34:30.092 [main] CommandExecute - CPC2196: Biblioteca TCCMDATPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.093 [main] CommandExecute - Command: ADDLIBLE CHTTSRV *LAST
+[DEBUG] 2017-03-14 14:34:30.098 [main] CommandExecute - CPC2196: Biblioteca CHTTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.099 [main] CommandExecute - Command: ADDLIBLE TTRDDAT *LAST
+[DEBUG] 2017-03-14 14:34:30.105 [main] CommandExecute - CPC2196: Biblioteca TTRDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.105 [main] CommandExecute - Command: ADDLIBLE TTRDLIB *LAST
+[DEBUG] 2017-03-14 14:34:30.111 [main] CommandExecute - CPC2196: Biblioteca TTRDLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.112 [main] CommandExecute - Command: ADDLIBLE PDE400 *LAST
+[DEBUG] 2017-03-14 14:34:30.118 [main] CommandExecute - CPC2196: Biblioteca PDE400 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.119 [main] CommandExecute - Command: ADDLIBLE CUBDDAT *LAST
+[DEBUG] 2017-03-14 14:34:30.126 [main] CommandExecute - CPC2196: Biblioteca CUBDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.126 [main] CommandExecute - Command: ADDLIBLE RPGUNIT *LAST
+[DEBUG] 2017-03-14 14:34:30.133 [main] CommandExecute - CPC2196: Biblioteca RPGUNIT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 14:34:30.133 [main] CommandExecute - Command: CHGCURLIB LIBEPC
+[DEBUG] 2017-03-14 14:34:30.139 [main] CommandExecute - CPC2198: Biblioteca actual cambiada por LIBEPC.
+[DEBUG] 2017-03-14 14:34:30.139 [main] CommandExecute - Command: DLTSPLF FILE(*SELECT)
+[DEBUG] 2017-03-14 14:34:30.507 [main] CommandExecute - CPC3305: 27 archivos suprimidos. 0 archivos no suprimidos.
+[INFO ] 2017-03-14 14:34:30.507 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3506, avpNumber=307, sourceNumber=009, description=BCO,1,BCOUSRLIB, buildOrder=1]
+[DEBUG] 2017-03-14 14:34:30.508 [main] CommandExecute - Command: CRTBNDRPG PGM(LIBEPC/DDP1004) SRCFILE(LIBEPC/Ñ009SRCPGM) SRCMBR(DDP1004) REPLACE(*YES)
+[DEBUG] 2017-03-14 14:34:30.974 [main] CommandExecute - RNS9304: El programa DDP1004 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 14:32:54.
+[INFO ] 2017-03-14 14:34:30.974 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3203, avpNumber=311, sourceNumber=011, description=BCO,1,BCOCYFILES, buildOrder=2]
+[DEBUG] 2017-03-14 14:34:30.974 [main] CommandExecute - Command: RUNSQLTAG BIB(LIBEPC) SRC(Ñ011SRCSQL) MBR(BITAR11036) BIBPROD(LIBEPC) ELIM(S)
+[DEBUG] 2017-03-14 14:34:31.404 [main] CommandExecute -        : 
+[DEBUG] 2017-03-14 14:34:31.405 [main] CommandExecute - Command: RUNSQLTAG BIB(LIBEPC) SRC(Ñ011SRCSQL) MBR(BITAR12075) BIBPROD(LIBEPC) ELIM(S)
+[DEBUG] 2017-03-14 14:34:31.677 [main] CommandExecute -        : 
+[INFO ] 2017-03-14 14:34:31.677 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=295, avpNumber=791, sourceNumber=010, description=BCO,1,BBCOCLS, buildOrder=3]
+[DEBUG] 2017-03-14 14:34:31.677 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BITAR11036) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(BITAR11036) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 14:34:32.406 [main] CommandExecute - RNS9305: El módulo BITAR11036 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 14:32:56.
+[DEBUG] 2017-03-14 14:34:32.406 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BITAR12075) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(BITAR12075) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 14:34:32.924 [main] CommandExecute - RNS9305: El módulo BITAR12075 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 14:32:56.
+[DEBUG] 2017-03-14 14:34:32.925 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BITAR11036) MODULE(*LIBL/BITAR11036) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 14:34:33.481 [main] CommandExecute - CPC5D0B: Programa de servicio BITAR11036 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 14:34:33.481 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BITAR11036)
+[DEBUG] 2017-03-14 14:34:33.498 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 14:34:33.498 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BITAR12075) MODULE(*LIBL/BITAR12075) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 14:34:33.617 [main] CommandExecute - CPC5D0B: Programa de servicio BITAR12075 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 14:34:33.617 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BITAR12075)
+[DEBUG] 2017-03-14 14:34:33.624 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 14:34:33.624 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/CUMSTTB) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(CUMSTTB) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 14:34:35.743 [main] CommandExecute - RNS9305: El módulo CUMSTTB se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 14:32:59.
+[DEBUG] 2017-03-14 14:34:35.743 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/CUMSTTB) MODULE(*LIBL/CUMSTTB) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 14:34:36.001 [main] CommandExecute - CPC5D0B: Programa de servicio CUMSTTB creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 14:34:36.001 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(CUMSTTB)
+[DEBUG] 2017-03-14 14:34:36.008 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 14:34:36.009 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/EMLCTE) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(EMLCTE) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 14:34:37.114 [main] CommandExecute - RNS9305: El módulo EMLCTE se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 14:33:00.
+[DEBUG] 2017-03-14 14:34:37.115 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/EMLCTE) MODULE(*LIBL/EMLCTE) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 14:34:37.550 [main] CommandExecute - CPC5D0B: Programa de servicio EMLCTE creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 14:34:37.550 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(EMLCTE)
+[DEBUG] 2017-03-14 14:34:37.557 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[INFO ] 2017-03-14 14:34:37.558 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=377, avpNumber=793, sourceNumber=007, description=BCO,1,BBCOSRV, buildOrder=4]
+[DEBUG] 2017-03-14 14:34:37.558 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BPPPS00301) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BPPPS00301) REPLACE(*YES)
+[DEBUG] 2017-03-14 14:34:37.950 [main] CommandExecute - RNS9305: El módulo BPPPS00301 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 14:33:01.
+[DEBUG] 2017-03-14 14:34:37.951 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BPPPS00302) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BPPPS00302) REPLACE(*YES)
+[DEBUG] 2017-03-14 14:34:38.252 [main] CommandExecute - RNS9305: El módulo BPPPS00302 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 14:33:02.
+[DEBUG] 2017-03-14 14:34:38.252 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(BPPPS003) MODULE(*LIBL/BPPPS00300 *LIBL/BPPPS00301 *LIBL/BPPPS00302 *LIBL/BPPPS00303 *LIBL/BPPPS00304 *LIBL/BPPPS00305 *LIBL/BPPPS00306 *LIBL/BPPPS00307 *LIBL/BPPPS00308) EXPORT(*SRCFILE) SRCFILE(LIBEPC/Ñ007SRCSRV) TEXT('PPP-UTILIDADES MULTIPLE FORMATOS') OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 14:34:39.329 [main] CommandExecute - CPC5D0B: Programa de servicio BPPPS003 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 14:34:39.329 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BPPPS003)
+[DEBUG] 2017-03-14 14:34:39.337 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 14:34:39.337 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BACC36) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BACC36) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 14:34:40.843 [main] CommandExecute - RNS9305: El módulo BACC36 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 14:33:04.
+[DEBUG] 2017-03-14 14:34:40.843 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BACC36) MODULE(*LIBL/BACC36) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 14:34:41.319 [main] CommandExecute - CPC5D0B: Programa de servicio BACC36 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 14:34:41.319 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BACC36)
+[DEBUG] 2017-03-14 14:34:41.329 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 14:34:41.329 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BACC36CNTL) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BACC36CNTL) REPLACE(*YES)
+[DEBUG] 2017-03-14 14:34:41.568 [main] CommandExecute - RNS9305: El módulo BACC36CNTL se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 14:33:05.
+[DEBUG] 2017-03-14 14:34:41.568 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BACC36CNTL) MODULE(*LIBL/BACC36CNTL) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 14:34:41.835 [main] CommandExecute - CPC5D0B: Programa de servicio BACC36CNTL creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 14:34:41.836 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BACC36CNTL)
+[DEBUG] 2017-03-14 14:34:41.842 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 14:34:41.842 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BCUM75) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BCUM75) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 14:34:43.103 [main] CommandExecute - RNS9305: El módulo BCUM75 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 14:33:06.
+[DEBUG] 2017-03-14 14:34:43.103 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BCUM75) MODULE(*LIBL/BCUM75) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 14:34:43.251 [main] CommandExecute - CPC5D0B: Programa de servicio BCUM75 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 14:34:43.251 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BCUM75)
+[DEBUG] 2017-03-14 14:34:43.258 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 14:34:43.258 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BCUM75CNTL) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BCUM75CNTL) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 14:34:43.753 [main] CommandExecute - RNS9305: El módulo BCUM75CNTL se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 14:33:07.
+[DEBUG] 2017-03-14 14:34:43.754 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BCUM75CNTL) MODULE(*LIBL/BCUM75CNTL) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 14:34:43.861 [main] CommandExecute - CPC5D0B: Programa de servicio BCUM75CNTL creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 14:34:43.861 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BCUM75CNTL)
+[DEBUG] 2017-03-14 14:34:43.867 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[INFO ] 2017-03-14 14:34:43.868 [main] BuildController - Build Ended.
+[INFO ] 2017-03-14 15:08:49.283 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 15:08:49.348 [main] CommandExecute - Connected to job: 135347/QUSER/QZRCSRVS
+[INFO ] 2017-03-14 15:08:49.348 [main] BuildController - Build Started.
+[INFO ] 2017-03-14 15:08:49.348 [main] BuildController - Loading Library List
+[DEBUG] 2017-03-14 15:08:49.349 [main] CommandExecute - Command: ADDLIBLE BCOCYFILES *LAST
+[DEBUG] 2017-03-14 15:08:49.356 [main] CommandExecute - CPC2196: Biblioteca BCOCYFILES añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.356 [main] CommandExecute - Command: ADDLIBLE QGPL *LAST
+[WARN ] 2017-03-14 15:08:49.362 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QGPL ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.363 [main] CommandExecute - Command: ADDLIBLE ADCMDATPRO *LAST
+[WARN ] 2017-03-14 15:08:49.368 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.368 [main] CommandExecute - Command: ADDLIBLE ADCMLIBPRO *LAST
+[WARN ] 2017-03-14 15:08:49.374 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.374 [main] CommandExecute - Command: ADDLIBLE P$CMDATPRO *LAST
+[WARN ] 2017-03-14 15:08:49.379 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.380 [main] CommandExecute - Command: ADDLIBLE P$CMLIBPRO *LAST
+[WARN ] 2017-03-14 15:08:49.385 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.385 [main] CommandExecute - Command: ADDLIBLE COMLIB *LAST
+[WARN ] 2017-03-14 15:08:49.392 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca COMLIB ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.392 [main] CommandExecute - Command: ADDLIBLE QTEMP *LAST
+[WARN ] 2017-03-14 15:08:49.398 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QTEMP ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.399 [main] CommandExecute - Command: ADDLIBLE PTCMLIBPRO *LAST
+[WARN ] 2017-03-14 15:08:49.405 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca PTCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.405 [main] CommandExecute - Command: ADDLIBLE BCOUSRLIB *LAST
+[DEBUG] 2017-03-14 15:08:49.410 [main] CommandExecute - CPC2196: Biblioteca BCOUSRLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.411 [main] CommandExecute - Command: ADDLIBLE ZFUNC *LAST
+[DEBUG] 2017-03-14 15:08:49.416 [main] CommandExecute - CPC2196: Biblioteca ZFUNC añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.416 [main] CommandExecute - Command: ADDLIBLE ZSNTB *LAST
+[DEBUG] 2017-03-14 15:08:49.422 [main] CommandExecute - CPC2196: Biblioteca ZSNTB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.422 [main] CommandExecute - Command: ADDLIBLE BCOUSRCRI *LAST
+[DEBUG] 2017-03-14 15:08:49.429 [main] CommandExecute - CPC2196: Biblioteca BCOUSRCRI añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.429 [main] CommandExecute - Command: ADDLIBLE IBSUSRR04 *LAST
+[DEBUG] 2017-03-14 15:08:49.434 [main] CommandExecute - CPC2196: Biblioteca IBSUSRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.434 [main] CommandExecute - Command: ADDLIBLE IBSSCRR04 *LAST
+[DEBUG] 2017-03-14 15:08:49.439 [main] CommandExecute - CPC2196: Biblioteca IBSSCRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.440 [main] CommandExecute - Command: ADDLIBLE IBSLIBR04 *LAST
+[DEBUG] 2017-03-14 15:08:49.445 [main] CommandExecute - CPC2196: Biblioteca IBSLIBR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.445 [main] CommandExecute - Command: ADDLIBLE RLCMLIBPRO *LAST
+[DEBUG] 2017-03-14 15:08:49.450 [main] CommandExecute - CPC2196: Biblioteca RLCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.450 [main] CommandExecute - Command: ADDLIBLE QS36F *LAST
+[DEBUG] 2017-03-14 15:08:49.456 [main] CommandExecute - CPC2196: Biblioteca QS36F añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.456 [main] CommandExecute - Command: ADDLIBLE EIBSR04M03 *LAST
+[DEBUG] 2017-03-14 15:08:49.461 [main] CommandExecute - CPC2196: Biblioteca EIBSR04M03 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.461 [main] CommandExecute - Command: ADDLIBLE QZRDSSRV *LAST
+[DEBUG] 2017-03-14 15:08:49.466 [main] CommandExecute - CPC2196: Biblioteca QZRDSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.466 [main] CommandExecute - Command: ADDLIBLE TFBSLIBPRO *LAST
+[DEBUG] 2017-03-14 15:08:49.472 [main] CommandExecute - CPC2196: Biblioteca TFBSLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.472 [main] CommandExecute - Command: ADDLIBLE QMQM *LAST
+[DEBUG] 2017-03-14 15:08:49.477 [main] CommandExecute - CPC2196: Biblioteca QMQM añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.477 [main] CommandExecute - Command: ADDLIBLE PSLIB36 *LAST
+[DEBUG] 2017-03-14 15:08:49.485 [main] CommandExecute - CPC2196: Biblioteca PSLIB36 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.485 [main] CommandExecute - Command: ADDLIBLE CCGITOOLS *LAST
+[DEBUG] 2017-03-14 15:08:49.490 [main] CommandExecute - CPC2196: Biblioteca CCGITOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.491 [main] CommandExecute - Command: ADDLIBLE RPGNEXTLIB *LAST
+[DEBUG] 2017-03-14 15:08:49.498 [main] CommandExecute - CPC2196: Biblioteca RPGNEXTLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.498 [main] CommandExecute - Command: ADDLIBLE CMQASRV *LAST
+[DEBUG] 2017-03-14 15:08:49.504 [main] CommandExecute - CPC2196: Biblioteca CMQASRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.505 [main] CommandExecute - Command: ADDLIBLE CMQMDAT *LAST
+[DEBUG] 2017-03-14 15:08:49.512 [main] CommandExecute - CPC2196: Biblioteca CMQMDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.513 [main] CommandExecute - Command: ADDLIBLE CPRTLOGSRV *LAST
+[DEBUG] 2017-03-14 15:08:49.520 [main] CommandExecute - CPC2196: Biblioteca CPRTLOGSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.520 [main] CommandExecute - Command: ADDLIBLE CIFSSRV *LAST
+[DEBUG] 2017-03-14 15:08:49.526 [main] CommandExecute - CPC2196: Biblioteca CIFSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.526 [main] CommandExecute - Command: ADDLIBLE CXMLSRV *LAST
+[DEBUG] 2017-03-14 15:08:49.531 [main] CommandExecute - CPC2196: Biblioteca CXMLSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.532 [main] CommandExecute - Command: ADDLIBLE CMQMCLS *LAST
+[DEBUG] 2017-03-14 15:08:49.537 [main] CommandExecute - CPC2196: Biblioteca CMQMCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.537 [main] CommandExecute - Command: ADDLIBLE BBCOSRC *LAST
+[DEBUG] 2017-03-14 15:08:49.542 [main] CommandExecute - CPC2196: Biblioteca BBCOSRC añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.543 [main] CommandExecute - Command: ADDLIBLE BBCOCLS *LAST
+[DEBUG] 2017-03-14 15:08:49.548 [main] CommandExecute - CPC2196: Biblioteca BBCOCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.549 [main] CommandExecute - Command: ADDLIBLE CCNTSRV *LAST
+[DEBUG] 2017-03-14 15:08:49.555 [main] CommandExecute - CPC2196: Biblioteca CCNTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.555 [main] CommandExecute - Command: ADDLIBLE CSRCSRV *LAST
+[DEBUG] 2017-03-14 15:08:49.560 [main] CommandExecute - CPC2196: Biblioteca CSRCSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.561 [main] CommandExecute - Command: ADDLIBLE CBASICSSRV *LAST
+[DEBUG] 2017-03-14 15:08:49.566 [main] CommandExecute - CPC2196: Biblioteca CBASICSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.566 [main] CommandExecute - Command: ADDLIBLE CSYSTOOLS *LAST
+[DEBUG] 2017-03-14 15:08:49.571 [main] CommandExecute - CPC2196: Biblioteca CSYSTOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.571 [main] CommandExecute - Command: ADDLIBLE RPGBEANLIB *LAST
+[DEBUG] 2017-03-14 15:08:49.576 [main] CommandExecute - CPC2196: Biblioteca RPGBEANLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.577 [main] CommandExecute - Command: ADDLIBLE CNBSSRV *LAST
+[DEBUG] 2017-03-14 15:08:49.582 [main] CommandExecute - CPC2196: Biblioteca CNBSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.583 [main] CommandExecute - Command: ADDLIBLE BBCOSRV *LAST
+[DEBUG] 2017-03-14 15:08:49.588 [main] CommandExecute - CPC2196: Biblioteca BBCOSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.588 [main] CommandExecute - Command: ADDLIBLE BBCOAPL *LAST
+[DEBUG] 2017-03-14 15:08:49.593 [main] CommandExecute - CPC2196: Biblioteca BBCOAPL añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.593 [main] CommandExecute - Command: ADDLIBLE CSYSTSRV *LAST
+[DEBUG] 2017-03-14 15:08:49.599 [main] CommandExecute - CPC2196: Biblioteca CSYSTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.599 [main] CommandExecute - Command: ADDLIBLE CCORSRV *LAST
+[DEBUG] 2017-03-14 15:08:49.604 [main] CommandExecute - CPC2196: Biblioteca CCORSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.604 [main] CommandExecute - Command: ADDLIBLE ICCMSRVPRO *LAST
+[DEBUG] 2017-03-14 15:08:49.609 [main] CommandExecute - CPC2196: Biblioteca ICCMSRVPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.609 [main] CommandExecute - Command: ADDLIBLE ADCMCLSPRO *LAST
+[DEBUG] 2017-03-14 15:08:49.615 [main] CommandExecute - CPC2196: Biblioteca ADCMCLSPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.615 [main] CommandExecute - Command: ADDLIBLE TCCMLIBPRO *LAST
+[DEBUG] 2017-03-14 15:08:49.620 [main] CommandExecute - CPC2196: Biblioteca TCCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.620 [main] CommandExecute - Command: ADDLIBLE TCCMDATPRO *LAST
+[DEBUG] 2017-03-14 15:08:49.625 [main] CommandExecute - CPC2196: Biblioteca TCCMDATPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.625 [main] CommandExecute - Command: ADDLIBLE CHTTSRV *LAST
+[DEBUG] 2017-03-14 15:08:49.631 [main] CommandExecute - CPC2196: Biblioteca CHTTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.631 [main] CommandExecute - Command: ADDLIBLE TTRDDAT *LAST
+[DEBUG] 2017-03-14 15:08:49.637 [main] CommandExecute - CPC2196: Biblioteca TTRDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.637 [main] CommandExecute - Command: ADDLIBLE TTRDLIB *LAST
+[DEBUG] 2017-03-14 15:08:49.642 [main] CommandExecute - CPC2196: Biblioteca TTRDLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.642 [main] CommandExecute - Command: ADDLIBLE PDE400 *LAST
+[DEBUG] 2017-03-14 15:08:49.648 [main] CommandExecute - CPC2196: Biblioteca PDE400 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.648 [main] CommandExecute - Command: ADDLIBLE CUBDDAT *LAST
+[DEBUG] 2017-03-14 15:08:49.654 [main] CommandExecute - CPC2196: Biblioteca CUBDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.654 [main] CommandExecute - Command: ADDLIBLE RPGUNIT *LAST
+[DEBUG] 2017-03-14 15:08:49.659 [main] CommandExecute - CPC2196: Biblioteca RPGUNIT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:08:49.659 [main] CommandExecute - Command: CHGCURLIB LIBEPC
+[DEBUG] 2017-03-14 15:08:49.665 [main] CommandExecute - CPC2198: Biblioteca actual cambiada por LIBEPC.
+[DEBUG] 2017-03-14 15:08:49.666 [main] CommandExecute - Command: DLTSPLF FILE(*SELECT)
+[DEBUG] 2017-03-14 15:08:49.876 [main] CommandExecute - CPC3305: 27 archivos suprimidos. 0 archivos no suprimidos.
+[INFO ] 2017-03-14 15:08:49.877 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3506, avpNumber=307, sourceNumber=009, description=BCO,1,BCOUSRLIB, buildOrder=1]
+[DEBUG] 2017-03-14 15:08:49.877 [main] CommandExecute - Command: CRTBNDRPG PGM(LIBEPC/DDP1004) SRCFILE(LIBEPC/Ñ009SRCPGM) SRCMBR(DDP1004) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:08:50.316 [main] CommandExecute - RNS9304: El programa DDP1004 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:07:14.
+[INFO ] 2017-03-14 15:08:50.316 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3203, avpNumber=311, sourceNumber=011, description=BCO,1,BCOCYFILES, buildOrder=2]
+[DEBUG] 2017-03-14 15:08:50.317 [main] CommandExecute - Command: RUNSQLTAG BIB(LIBEPC) SRC(Ñ011SRCSQL) MBR(BITAR11036) BIBPROD(LIBEPC) ELIM(S)
+[DEBUG] 2017-03-14 15:08:50.651 [main] CommandExecute -        : 
+[DEBUG] 2017-03-14 15:08:50.651 [main] CommandExecute - Command: RUNSQLTAG BIB(LIBEPC) SRC(Ñ011SRCSQL) MBR(BITAR12075) BIBPROD(LIBEPC) ELIM(S)
+[DEBUG] 2017-03-14 15:08:50.972 [main] CommandExecute -        : 
+[INFO ] 2017-03-14 15:08:50.972 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=295, avpNumber=791, sourceNumber=010, description=BCO,1,BBCOCLS, buildOrder=3]
+[DEBUG] 2017-03-14 15:08:50.972 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BITAR11036) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(BITAR11036) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:08:51.551 [main] CommandExecute - RNS9305: El módulo BITAR11036 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:07:15.
+[DEBUG] 2017-03-14 15:08:51.551 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BITAR12075) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(BITAR12075) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:08:52.051 [main] CommandExecute - RNS9305: El módulo BITAR12075 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:07:15.
+[DEBUG] 2017-03-14 15:08:52.052 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BITAR11036) MODULE(*LIBL/BITAR11036) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:08:52.152 [main] CommandExecute - CPC5D0B: Programa de servicio BITAR11036 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:08:52.152 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BITAR11036)
+[DEBUG] 2017-03-14 15:08:52.158 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:08:52.158 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BITAR12075) MODULE(*LIBL/BITAR12075) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:08:52.257 [main] CommandExecute - CPC5D0B: Programa de servicio BITAR12075 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:08:52.257 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BITAR12075)
+[DEBUG] 2017-03-14 15:08:52.263 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:08:52.263 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/CUMSTTB) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(CUMSTTB) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:08:54.401 [main] CommandExecute - RNS9305: El módulo CUMSTTB se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:07:18.
+[DEBUG] 2017-03-14 15:08:54.401 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/CUMSTTB) MODULE(*LIBL/CUMSTTB) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:08:54.671 [main] CommandExecute - CPC5D0B: Programa de servicio CUMSTTB creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:08:54.671 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(CUMSTTB)
+[DEBUG] 2017-03-14 15:08:54.677 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:08:54.678 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/EMLCTE) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(EMLCTE) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:08:55.815 [main] CommandExecute - RNS9305: El módulo EMLCTE se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:07:19.
+[DEBUG] 2017-03-14 15:08:55.815 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/EMLCTE) MODULE(*LIBL/EMLCTE) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:08:56.005 [main] CommandExecute - CPC5D0B: Programa de servicio EMLCTE creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:08:56.005 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(EMLCTE)
+[DEBUG] 2017-03-14 15:08:56.011 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[INFO ] 2017-03-14 15:08:56.011 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=377, avpNumber=793, sourceNumber=007, description=BCO,1,BBCOSRV, buildOrder=4]
+[DEBUG] 2017-03-14 15:08:56.012 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BPPPS00301) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BPPPS00301) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:08:56.603 [main] CommandExecute - RNS9305: El módulo BPPPS00301 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:07:20.
+[DEBUG] 2017-03-14 15:08:56.603 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BPPPS00302) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BPPPS00302) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:08:56.893 [main] CommandExecute - RNS9305: El módulo BPPPS00302 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:07:20.
+[DEBUG] 2017-03-14 15:08:56.894 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(BPPPS003) MODULE(*LIBL/BPPPS00300 *LIBL/BPPPS00301 *LIBL/BPPPS00302 *LIBL/BPPPS00303 *LIBL/BPPPS00304 *LIBL/BPPPS00305 *LIBL/BPPPS00306 *LIBL/BPPPS00307 *LIBL/BPPPS00308) EXPORT(*SRCFILE) SRCFILE(LIBEPC/Ñ007SRCSRV) TEXT('PPP-UTILIDADES MULTIPLE FORMATOS') OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:08:57.450 [main] CommandExecute - CPC5D0B: Programa de servicio BPPPS003 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:08:57.450 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BPPPS003)
+[DEBUG] 2017-03-14 15:08:57.457 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:08:57.457 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BACC36) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BACC36) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:08:59.204 [main] CommandExecute - RNS9305: El módulo BACC36 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:07:23.
+[DEBUG] 2017-03-14 15:08:59.204 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BACC36) MODULE(*LIBL/BACC36) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:08:59.355 [main] CommandExecute - CPC5D0B: Programa de servicio BACC36 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:08:59.355 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BACC36)
+[DEBUG] 2017-03-14 15:08:59.361 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:08:59.361 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BACC36CNTL) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BACC36CNTL) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:08:59.599 [main] CommandExecute - RNS9305: El módulo BACC36CNTL se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:07:23.
+[DEBUG] 2017-03-14 15:08:59.599 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BACC36CNTL) MODULE(*LIBL/BACC36CNTL) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:08:59.728 [main] CommandExecute - CPC5D0B: Programa de servicio BACC36CNTL creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:08:59.729 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BACC36CNTL)
+[DEBUG] 2017-03-14 15:08:59.734 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:08:59.735 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BCUM75) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BCUM75) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:09:01.238 [main] CommandExecute - RNS9305: El módulo BCUM75 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:07:25.
+[DEBUG] 2017-03-14 15:09:01.238 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BCUM75) MODULE(*LIBL/BCUM75) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:09:01.412 [main] CommandExecute - CPC5D0B: Programa de servicio BCUM75 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:09:01.413 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BCUM75)
+[DEBUG] 2017-03-14 15:09:01.419 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:09:01.419 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BCUM75CNTL) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BCUM75CNTL) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:09:01.934 [main] CommandExecute - RNS9305: El módulo BCUM75CNTL se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:07:25.
+[DEBUG] 2017-03-14 15:09:01.935 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BCUM75CNTL) MODULE(*LIBL/BCUM75CNTL) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:09:02.057 [main] CommandExecute - CPC5D0B: Programa de servicio BCUM75CNTL creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:09:02.057 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BCUM75CNTL)
+[DEBUG] 2017-03-14 15:09:02.064 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[INFO ] 2017-03-14 15:09:02.064 [main] BuildController - Build Ended.
+[INFO ] 2017-03-14 15:12:34.675 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 15:12:34.744 [main] CommandExecute - Connected to job: 135697/QUSER/QZRCSRVS
+[INFO ] 2017-03-14 15:12:34.744 [main] BuildController - Build Started.
+[INFO ] 2017-03-14 15:12:34.745 [main] BuildController - Loading Library List
+[DEBUG] 2017-03-14 15:12:34.745 [main] CommandExecute - Command: ADDLIBLE BCOCYFILES *LAST
+[DEBUG] 2017-03-14 15:12:34.753 [main] CommandExecute - CPC2196: Biblioteca BCOCYFILES añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.753 [main] CommandExecute - Command: ADDLIBLE QGPL *LAST
+[WARN ] 2017-03-14 15:12:34.760 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QGPL ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.760 [main] CommandExecute - Command: ADDLIBLE ADCMDATPRO *LAST
+[WARN ] 2017-03-14 15:12:34.766 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.767 [main] CommandExecute - Command: ADDLIBLE ADCMLIBPRO *LAST
+[WARN ] 2017-03-14 15:12:34.774 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.775 [main] CommandExecute - Command: ADDLIBLE P$CMDATPRO *LAST
+[WARN ] 2017-03-14 15:12:34.782 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.782 [main] CommandExecute - Command: ADDLIBLE P$CMLIBPRO *LAST
+[WARN ] 2017-03-14 15:12:34.789 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.789 [main] CommandExecute - Command: ADDLIBLE COMLIB *LAST
+[WARN ] 2017-03-14 15:12:34.795 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca COMLIB ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.796 [main] CommandExecute - Command: ADDLIBLE QTEMP *LAST
+[WARN ] 2017-03-14 15:12:34.818 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QTEMP ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.819 [main] CommandExecute - Command: ADDLIBLE PTCMLIBPRO *LAST
+[WARN ] 2017-03-14 15:12:34.826 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca PTCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.827 [main] CommandExecute - Command: ADDLIBLE BCOUSRLIB *LAST
+[DEBUG] 2017-03-14 15:12:34.833 [main] CommandExecute - CPC2196: Biblioteca BCOUSRLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.833 [main] CommandExecute - Command: ADDLIBLE ZFUNC *LAST
+[DEBUG] 2017-03-14 15:12:34.839 [main] CommandExecute - CPC2196: Biblioteca ZFUNC añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.840 [main] CommandExecute - Command: ADDLIBLE ZSNTB *LAST
+[DEBUG] 2017-03-14 15:12:34.846 [main] CommandExecute - CPC2196: Biblioteca ZSNTB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.846 [main] CommandExecute - Command: ADDLIBLE BCOUSRCRI *LAST
+[DEBUG] 2017-03-14 15:12:34.852 [main] CommandExecute - CPC2196: Biblioteca BCOUSRCRI añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.852 [main] CommandExecute - Command: ADDLIBLE IBSUSRR04 *LAST
+[DEBUG] 2017-03-14 15:12:34.858 [main] CommandExecute - CPC2196: Biblioteca IBSUSRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.859 [main] CommandExecute - Command: ADDLIBLE IBSSCRR04 *LAST
+[DEBUG] 2017-03-14 15:12:34.864 [main] CommandExecute - CPC2196: Biblioteca IBSSCRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.865 [main] CommandExecute - Command: ADDLIBLE IBSLIBR04 *LAST
+[DEBUG] 2017-03-14 15:12:34.872 [main] CommandExecute - CPC2196: Biblioteca IBSLIBR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.872 [main] CommandExecute - Command: ADDLIBLE RLCMLIBPRO *LAST
+[DEBUG] 2017-03-14 15:12:34.879 [main] CommandExecute - CPC2196: Biblioteca RLCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.879 [main] CommandExecute - Command: ADDLIBLE QS36F *LAST
+[DEBUG] 2017-03-14 15:12:34.885 [main] CommandExecute - CPC2196: Biblioteca QS36F añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.885 [main] CommandExecute - Command: ADDLIBLE EIBSR04M03 *LAST
+[DEBUG] 2017-03-14 15:12:34.892 [main] CommandExecute - CPC2196: Biblioteca EIBSR04M03 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.893 [main] CommandExecute - Command: ADDLIBLE QZRDSSRV *LAST
+[DEBUG] 2017-03-14 15:12:34.899 [main] CommandExecute - CPC2196: Biblioteca QZRDSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.900 [main] CommandExecute - Command: ADDLIBLE TFBSLIBPRO *LAST
+[DEBUG] 2017-03-14 15:12:34.906 [main] CommandExecute - CPC2196: Biblioteca TFBSLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.906 [main] CommandExecute - Command: ADDLIBLE QMQM *LAST
+[DEBUG] 2017-03-14 15:12:34.912 [main] CommandExecute - CPC2196: Biblioteca QMQM añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.912 [main] CommandExecute - Command: ADDLIBLE PSLIB36 *LAST
+[DEBUG] 2017-03-14 15:12:34.917 [main] CommandExecute - CPC2196: Biblioteca PSLIB36 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.917 [main] CommandExecute - Command: ADDLIBLE CCGITOOLS *LAST
+[DEBUG] 2017-03-14 15:12:34.923 [main] CommandExecute - CPC2196: Biblioteca CCGITOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.923 [main] CommandExecute - Command: ADDLIBLE RPGNEXTLIB *LAST
+[DEBUG] 2017-03-14 15:12:34.929 [main] CommandExecute - CPC2196: Biblioteca RPGNEXTLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.929 [main] CommandExecute - Command: ADDLIBLE CMQASRV *LAST
+[DEBUG] 2017-03-14 15:12:34.935 [main] CommandExecute - CPC2196: Biblioteca CMQASRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.935 [main] CommandExecute - Command: ADDLIBLE CMQMDAT *LAST
+[DEBUG] 2017-03-14 15:12:34.941 [main] CommandExecute - CPC2196: Biblioteca CMQMDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.941 [main] CommandExecute - Command: ADDLIBLE CPRTLOGSRV *LAST
+[DEBUG] 2017-03-14 15:12:34.949 [main] CommandExecute - CPC2196: Biblioteca CPRTLOGSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.949 [main] CommandExecute - Command: ADDLIBLE CIFSSRV *LAST
+[DEBUG] 2017-03-14 15:12:34.957 [main] CommandExecute - CPC2196: Biblioteca CIFSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.957 [main] CommandExecute - Command: ADDLIBLE CXMLSRV *LAST
+[DEBUG] 2017-03-14 15:12:34.964 [main] CommandExecute - CPC2196: Biblioteca CXMLSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.964 [main] CommandExecute - Command: ADDLIBLE CMQMCLS *LAST
+[DEBUG] 2017-03-14 15:12:34.971 [main] CommandExecute - CPC2196: Biblioteca CMQMCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.971 [main] CommandExecute - Command: ADDLIBLE BBCOSRC *LAST
+[DEBUG] 2017-03-14 15:12:34.977 [main] CommandExecute - CPC2196: Biblioteca BBCOSRC añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.977 [main] CommandExecute - Command: ADDLIBLE BBCOCLS *LAST
+[DEBUG] 2017-03-14 15:12:34.984 [main] CommandExecute - CPC2196: Biblioteca BBCOCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.985 [main] CommandExecute - Command: ADDLIBLE CCNTSRV *LAST
+[DEBUG] 2017-03-14 15:12:34.991 [main] CommandExecute - CPC2196: Biblioteca CCNTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.991 [main] CommandExecute - Command: ADDLIBLE CSRCSRV *LAST
+[DEBUG] 2017-03-14 15:12:34.997 [main] CommandExecute - CPC2196: Biblioteca CSRCSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:34.997 [main] CommandExecute - Command: ADDLIBLE CBASICSSRV *LAST
+[DEBUG] 2017-03-14 15:12:35.002 [main] CommandExecute - CPC2196: Biblioteca CBASICSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.002 [main] CommandExecute - Command: ADDLIBLE CSYSTOOLS *LAST
+[DEBUG] 2017-03-14 15:12:35.008 [main] CommandExecute - CPC2196: Biblioteca CSYSTOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.008 [main] CommandExecute - Command: ADDLIBLE RPGBEANLIB *LAST
+[DEBUG] 2017-03-14 15:12:35.015 [main] CommandExecute - CPC2196: Biblioteca RPGBEANLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.015 [main] CommandExecute - Command: ADDLIBLE CNBSSRV *LAST
+[DEBUG] 2017-03-14 15:12:35.021 [main] CommandExecute - CPC2196: Biblioteca CNBSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.021 [main] CommandExecute - Command: ADDLIBLE BBCOSRV *LAST
+[DEBUG] 2017-03-14 15:12:35.027 [main] CommandExecute - CPC2196: Biblioteca BBCOSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.027 [main] CommandExecute - Command: ADDLIBLE BBCOAPL *LAST
+[DEBUG] 2017-03-14 15:12:35.033 [main] CommandExecute - CPC2196: Biblioteca BBCOAPL añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.033 [main] CommandExecute - Command: ADDLIBLE CSYSTSRV *LAST
+[DEBUG] 2017-03-14 15:12:35.038 [main] CommandExecute - CPC2196: Biblioteca CSYSTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.039 [main] CommandExecute - Command: ADDLIBLE CCORSRV *LAST
+[DEBUG] 2017-03-14 15:12:35.044 [main] CommandExecute - CPC2196: Biblioteca CCORSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.044 [main] CommandExecute - Command: ADDLIBLE ICCMSRVPRO *LAST
+[DEBUG] 2017-03-14 15:12:35.050 [main] CommandExecute - CPC2196: Biblioteca ICCMSRVPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.050 [main] CommandExecute - Command: ADDLIBLE ADCMCLSPRO *LAST
+[DEBUG] 2017-03-14 15:12:35.056 [main] CommandExecute - CPC2196: Biblioteca ADCMCLSPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.056 [main] CommandExecute - Command: ADDLIBLE TCCMLIBPRO *LAST
+[DEBUG] 2017-03-14 15:12:35.063 [main] CommandExecute - CPC2196: Biblioteca TCCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.063 [main] CommandExecute - Command: ADDLIBLE TCCMDATPRO *LAST
+[DEBUG] 2017-03-14 15:12:35.068 [main] CommandExecute - CPC2196: Biblioteca TCCMDATPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.068 [main] CommandExecute - Command: ADDLIBLE CHTTSRV *LAST
+[DEBUG] 2017-03-14 15:12:35.073 [main] CommandExecute - CPC2196: Biblioteca CHTTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.074 [main] CommandExecute - Command: ADDLIBLE TTRDDAT *LAST
+[DEBUG] 2017-03-14 15:12:35.080 [main] CommandExecute - CPC2196: Biblioteca TTRDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.080 [main] CommandExecute - Command: ADDLIBLE TTRDLIB *LAST
+[DEBUG] 2017-03-14 15:12:35.085 [main] CommandExecute - CPC2196: Biblioteca TTRDLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.085 [main] CommandExecute - Command: ADDLIBLE PDE400 *LAST
+[DEBUG] 2017-03-14 15:12:35.091 [main] CommandExecute - CPC2196: Biblioteca PDE400 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.092 [main] CommandExecute - Command: ADDLIBLE CUBDDAT *LAST
+[DEBUG] 2017-03-14 15:12:35.097 [main] CommandExecute - CPC2196: Biblioteca CUBDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.097 [main] CommandExecute - Command: ADDLIBLE RPGUNIT *LAST
+[DEBUG] 2017-03-14 15:12:35.102 [main] CommandExecute - CPC2196: Biblioteca RPGUNIT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:12:35.102 [main] CommandExecute - Command: CHGCURLIB LIBEPC
+[DEBUG] 2017-03-14 15:12:35.108 [main] CommandExecute - CPC2198: Biblioteca actual cambiada por LIBEPC.
+[DEBUG] 2017-03-14 15:12:35.108 [main] CommandExecute - Command: DLTSPLF FILE(*SELECT)
+[DEBUG] 2017-03-14 15:12:35.325 [main] CommandExecute - CPC3305: 27 archivos suprimidos. 0 archivos no suprimidos.
+[INFO ] 2017-03-14 15:12:35.325 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3506, avpNumber=307, sourceNumber=009, description=BCO,1,BCOUSRLIB, buildOrder=1]
+[DEBUG] 2017-03-14 15:12:35.326 [main] CommandExecute - Command: CRTBNDRPG PGM(LIBEPC/DDP1004) SRCFILE(LIBEPC/Ñ009SRCPGM) SRCMBR(DDP1004) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:12:35.865 [main] CommandExecute - RNS9304: El programa DDP1004 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:10:59.
+[INFO ] 2017-03-14 15:12:35.865 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3203, avpNumber=311, sourceNumber=011, description=BCO,1,BCOCYFILES, buildOrder=2]
+[DEBUG] 2017-03-14 15:12:35.866 [main] CommandExecute - Command: RUNSQLTAG BIB(LIBEPC) SRC(Ñ011SRCSQL) MBR(BITAR11036) BIBPROD(LIBEPC) ELIM(S)
+[DEBUG] 2017-03-14 15:12:36.267 [main] CommandExecute -        : 
+[DEBUG] 2017-03-14 15:12:36.268 [main] CommandExecute - Command: RUNSQLTAG BIB(LIBEPC) SRC(Ñ011SRCSQL) MBR(BITAR12075) BIBPROD(LIBEPC) ELIM(S)
+[DEBUG] 2017-03-14 15:12:36.787 [main] CommandExecute -        : 
+[INFO ] 2017-03-14 15:12:36.788 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=295, avpNumber=791, sourceNumber=010, description=BCO,1,BBCOCLS, buildOrder=3]
+[DEBUG] 2017-03-14 15:12:36.788 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BITAR11036) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(BITAR11036) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:12:37.454 [main] CommandExecute - RNS9305: El módulo BITAR11036 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:11:01.
+[DEBUG] 2017-03-14 15:12:37.454 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BITAR12075) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(BITAR12075) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:12:38.014 [main] CommandExecute - RNS9305: El módulo BITAR12075 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:11:01.
+[DEBUG] 2017-03-14 15:12:38.015 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BITAR11036) MODULE(*LIBL/BITAR11036) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:12:38.131 [main] CommandExecute - CPC5D0B: Programa de servicio BITAR11036 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:12:38.131 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BITAR11036)
+[DEBUG] 2017-03-14 15:12:38.138 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:12:38.138 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BITAR12075) MODULE(*LIBL/BITAR12075) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:12:38.333 [main] CommandExecute - CPC5D0B: Programa de servicio BITAR12075 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:12:38.333 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BITAR12075)
+[DEBUG] 2017-03-14 15:12:38.340 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:12:38.340 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/CUMSTTB) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(CUMSTTB) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:12:40.478 [main] CommandExecute - RNS9305: El módulo CUMSTTB se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:11:04.
+[DEBUG] 2017-03-14 15:12:40.478 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/CUMSTTB) MODULE(*LIBL/CUMSTTB) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:12:40.781 [main] CommandExecute - CPC5D0B: Programa de servicio CUMSTTB creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:12:40.781 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(CUMSTTB)
+[DEBUG] 2017-03-14 15:12:40.788 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:12:40.788 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/EMLCTE) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(EMLCTE) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:12:41.847 [main] CommandExecute - RNS9305: El módulo EMLCTE se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:11:05.
+[DEBUG] 2017-03-14 15:12:41.847 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/EMLCTE) MODULE(*LIBL/EMLCTE) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:12:41.982 [main] CommandExecute - CPC5D0B: Programa de servicio EMLCTE creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:12:41.982 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(EMLCTE)
+[DEBUG] 2017-03-14 15:12:41.990 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[INFO ] 2017-03-14 15:12:41.990 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=377, avpNumber=793, sourceNumber=007, description=BCO,1,BBCOSRV, buildOrder=4]
+[DEBUG] 2017-03-14 15:12:41.990 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BPPPS00301) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BPPPS00301) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:12:42.324 [main] CommandExecute - RNS9305: El módulo BPPPS00301 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:11:06.
+[DEBUG] 2017-03-14 15:12:42.326 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BPPPS00302) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BPPPS00302) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:12:42.597 [main] CommandExecute - RNS9305: El módulo BPPPS00302 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:11:06.
+[DEBUG] 2017-03-14 15:12:42.597 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(BPPPS003) MODULE(*LIBL/BPPPS00300 *LIBL/BPPPS00301 *LIBL/BPPPS00302 *LIBL/BPPPS00303 *LIBL/BPPPS00304 *LIBL/BPPPS00305 *LIBL/BPPPS00306 *LIBL/BPPPS00307 *LIBL/BPPPS00308) EXPORT(*SRCFILE) SRCFILE(LIBEPC/Ñ007SRCSRV) TEXT('PPP-UTILIDADES MULTIPLE FORMATOS') OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:12:43.066 [main] CommandExecute - CPC5D0B: Programa de servicio BPPPS003 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:12:43.066 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BPPPS003)
+[DEBUG] 2017-03-14 15:12:43.074 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:12:43.074 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BACC36) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BACC36) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:12:44.681 [main] CommandExecute - RNS9305: El módulo BACC36 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:11:08.
+[DEBUG] 2017-03-14 15:12:44.681 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BACC36) MODULE(*LIBL/BACC36) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:12:44.891 [main] CommandExecute - CPC5D0B: Programa de servicio BACC36 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:12:44.891 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BACC36)
+[DEBUG] 2017-03-14 15:12:44.897 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:12:44.897 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BACC36CNTL) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BACC36CNTL) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:12:45.116 [main] CommandExecute - RNS9305: El módulo BACC36CNTL se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:11:08.
+[DEBUG] 2017-03-14 15:12:45.117 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BACC36CNTL) MODULE(*LIBL/BACC36CNTL) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:12:45.204 [main] CommandExecute - CPC5D0B: Programa de servicio BACC36CNTL creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:12:45.204 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BACC36CNTL)
+[DEBUG] 2017-03-14 15:12:45.213 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:12:45.213 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BCUM75) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BCUM75) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:12:47.006 [main] CommandExecute - RNS9305: El módulo BCUM75 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:11:10.
+[DEBUG] 2017-03-14 15:12:47.007 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BCUM75) MODULE(*LIBL/BCUM75) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:12:47.181 [main] CommandExecute - CPC5D0B: Programa de servicio BCUM75 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:12:47.182 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BCUM75)
+[DEBUG] 2017-03-14 15:12:47.188 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:12:47.188 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BCUM75CNTL) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BCUM75CNTL) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:12:47.722 [main] CommandExecute - RNS9305: El módulo BCUM75CNTL se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:11:11.
+[DEBUG] 2017-03-14 15:12:47.723 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BCUM75CNTL) MODULE(*LIBL/BCUM75CNTL) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:12:47.863 [main] CommandExecute - CPC5D0B: Programa de servicio BCUM75CNTL creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:12:47.863 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BCUM75CNTL)
+[DEBUG] 2017-03-14 15:12:47.869 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[INFO ] 2017-03-14 15:12:47.870 [main] BuildController - Build Ended.
+[INFO ] 2017-03-14 15:54:02.840 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-03-14 15:54:03.001 [main] CommandExecute - Connected to job: 138497/QUSER/QZRCSRVS
+[INFO ] 2017-03-14 15:54:03.002 [main] BuildController - Build Started.
+[INFO ] 2017-03-14 15:54:03.002 [main] BuildController - Loading Library List
+[DEBUG] 2017-03-14 15:54:03.002 [main] CommandExecute - Command: ADDLIBLE BCOCYFILES *LAST
+[DEBUG] 2017-03-14 15:54:03.016 [main] CommandExecute - CPC2196: Biblioteca BCOCYFILES añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.017 [main] CommandExecute - Command: ADDLIBLE QGPL *LAST
+[WARN ] 2017-03-14 15:54:03.033 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QGPL ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.033 [main] CommandExecute - Command: ADDLIBLE ADCMDATPRO *LAST
+[WARN ] 2017-03-14 15:54:03.042 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.042 [main] CommandExecute - Command: ADDLIBLE ADCMLIBPRO *LAST
+[WARN ] 2017-03-14 15:54:03.070 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.070 [main] CommandExecute - Command: ADDLIBLE P$CMDATPRO *LAST
+[WARN ] 2017-03-14 15:54:03.083 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.083 [main] CommandExecute - Command: ADDLIBLE P$CMLIBPRO *LAST
+[WARN ] 2017-03-14 15:54:03.093 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.094 [main] CommandExecute - Command: ADDLIBLE COMLIB *LAST
+[WARN ] 2017-03-14 15:54:03.103 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca COMLIB ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.103 [main] CommandExecute - Command: ADDLIBLE QTEMP *LAST
+[WARN ] 2017-03-14 15:54:03.118 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QTEMP ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.118 [main] CommandExecute - Command: ADDLIBLE PTCMLIBPRO *LAST
+[WARN ] 2017-03-14 15:54:03.130 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca PTCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.130 [main] CommandExecute - Command: ADDLIBLE BCOUSRLIB *LAST
+[DEBUG] 2017-03-14 15:54:03.139 [main] CommandExecute - CPC2196: Biblioteca BCOUSRLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.139 [main] CommandExecute - Command: ADDLIBLE ZFUNC *LAST
+[DEBUG] 2017-03-14 15:54:03.151 [main] CommandExecute - CPC2196: Biblioteca ZFUNC añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.151 [main] CommandExecute - Command: ADDLIBLE ZSNTB *LAST
+[DEBUG] 2017-03-14 15:54:03.159 [main] CommandExecute - CPC2196: Biblioteca ZSNTB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.159 [main] CommandExecute - Command: ADDLIBLE BCOUSRCRI *LAST
+[DEBUG] 2017-03-14 15:54:03.170 [main] CommandExecute - CPC2196: Biblioteca BCOUSRCRI añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.170 [main] CommandExecute - Command: ADDLIBLE IBSUSRR04 *LAST
+[DEBUG] 2017-03-14 15:54:03.181 [main] CommandExecute - CPC2196: Biblioteca IBSUSRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.188 [main] CommandExecute - Command: ADDLIBLE IBSSCRR04 *LAST
+[DEBUG] 2017-03-14 15:54:03.211 [main] CommandExecute - CPC2196: Biblioteca IBSSCRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.211 [main] CommandExecute - Command: ADDLIBLE IBSLIBR04 *LAST
+[DEBUG] 2017-03-14 15:54:03.224 [main] CommandExecute - CPC2196: Biblioteca IBSLIBR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.224 [main] CommandExecute - Command: ADDLIBLE RLCMLIBPRO *LAST
+[DEBUG] 2017-03-14 15:54:03.233 [main] CommandExecute - CPC2196: Biblioteca RLCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.233 [main] CommandExecute - Command: ADDLIBLE QS36F *LAST
+[DEBUG] 2017-03-14 15:54:03.243 [main] CommandExecute - CPC2196: Biblioteca QS36F añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.243 [main] CommandExecute - Command: ADDLIBLE EIBSR04M03 *LAST
+[DEBUG] 2017-03-14 15:54:03.254 [main] CommandExecute - CPC2196: Biblioteca EIBSR04M03 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.254 [main] CommandExecute - Command: ADDLIBLE QZRDSSRV *LAST
+[DEBUG] 2017-03-14 15:54:03.263 [main] CommandExecute - CPC2196: Biblioteca QZRDSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.263 [main] CommandExecute - Command: ADDLIBLE TFBSLIBPRO *LAST
+[DEBUG] 2017-03-14 15:54:03.273 [main] CommandExecute - CPC2196: Biblioteca TFBSLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.273 [main] CommandExecute - Command: ADDLIBLE QMQM *LAST
+[DEBUG] 2017-03-14 15:54:03.282 [main] CommandExecute - CPC2196: Biblioteca QMQM añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.282 [main] CommandExecute - Command: ADDLIBLE PSLIB36 *LAST
+[DEBUG] 2017-03-14 15:54:03.293 [main] CommandExecute - CPC2196: Biblioteca PSLIB36 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.294 [main] CommandExecute - Command: ADDLIBLE CCGITOOLS *LAST
+[DEBUG] 2017-03-14 15:54:03.303 [main] CommandExecute - CPC2196: Biblioteca CCGITOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.304 [main] CommandExecute - Command: ADDLIBLE RPGNEXTLIB *LAST
+[DEBUG] 2017-03-14 15:54:03.314 [main] CommandExecute - CPC2196: Biblioteca RPGNEXTLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.314 [main] CommandExecute - Command: ADDLIBLE CMQASRV *LAST
+[DEBUG] 2017-03-14 15:54:03.324 [main] CommandExecute - CPC2196: Biblioteca CMQASRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.324 [main] CommandExecute - Command: ADDLIBLE CMQMDAT *LAST
+[DEBUG] 2017-03-14 15:54:03.336 [main] CommandExecute - CPC2196: Biblioteca CMQMDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.336 [main] CommandExecute - Command: ADDLIBLE CPRTLOGSRV *LAST
+[DEBUG] 2017-03-14 15:54:03.352 [main] CommandExecute - CPC2196: Biblioteca CPRTLOGSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.352 [main] CommandExecute - Command: ADDLIBLE CIFSSRV *LAST
+[DEBUG] 2017-03-14 15:54:03.360 [main] CommandExecute - CPC2196: Biblioteca CIFSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.360 [main] CommandExecute - Command: ADDLIBLE CXMLSRV *LAST
+[DEBUG] 2017-03-14 15:54:03.371 [main] CommandExecute - CPC2196: Biblioteca CXMLSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.371 [main] CommandExecute - Command: ADDLIBLE CMQMCLS *LAST
+[DEBUG] 2017-03-14 15:54:03.385 [main] CommandExecute - CPC2196: Biblioteca CMQMCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.385 [main] CommandExecute - Command: ADDLIBLE BBCOSRC *LAST
+[DEBUG] 2017-03-14 15:54:03.397 [main] CommandExecute - CPC2196: Biblioteca BBCOSRC añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.398 [main] CommandExecute - Command: ADDLIBLE BBCOCLS *LAST
+[DEBUG] 2017-03-14 15:54:03.408 [main] CommandExecute - CPC2196: Biblioteca BBCOCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.409 [main] CommandExecute - Command: ADDLIBLE CCNTSRV *LAST
+[DEBUG] 2017-03-14 15:54:03.419 [main] CommandExecute - CPC2196: Biblioteca CCNTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.419 [main] CommandExecute - Command: ADDLIBLE CSRCSRV *LAST
+[DEBUG] 2017-03-14 15:54:03.430 [main] CommandExecute - CPC2196: Biblioteca CSRCSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.430 [main] CommandExecute - Command: ADDLIBLE CBASICSSRV *LAST
+[DEBUG] 2017-03-14 15:54:03.440 [main] CommandExecute - CPC2196: Biblioteca CBASICSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.440 [main] CommandExecute - Command: ADDLIBLE CSYSTOOLS *LAST
+[DEBUG] 2017-03-14 15:54:03.451 [main] CommandExecute - CPC2196: Biblioteca CSYSTOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.451 [main] CommandExecute - Command: ADDLIBLE RPGBEANLIB *LAST
+[DEBUG] 2017-03-14 15:54:03.461 [main] CommandExecute - CPC2196: Biblioteca RPGBEANLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.461 [main] CommandExecute - Command: ADDLIBLE CNBSSRV *LAST
+[DEBUG] 2017-03-14 15:54:03.471 [main] CommandExecute - CPC2196: Biblioteca CNBSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.472 [main] CommandExecute - Command: ADDLIBLE BBCOSRV *LAST
+[DEBUG] 2017-03-14 15:54:03.482 [main] CommandExecute - CPC2196: Biblioteca BBCOSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.482 [main] CommandExecute - Command: ADDLIBLE BBCOAPL *LAST
+[DEBUG] 2017-03-14 15:54:03.491 [main] CommandExecute - CPC2196: Biblioteca BBCOAPL añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.491 [main] CommandExecute - Command: ADDLIBLE CSYSTSRV *LAST
+[DEBUG] 2017-03-14 15:54:03.499 [main] CommandExecute - CPC2196: Biblioteca CSYSTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.499 [main] CommandExecute - Command: ADDLIBLE CCORSRV *LAST
+[DEBUG] 2017-03-14 15:54:03.509 [main] CommandExecute - CPC2196: Biblioteca CCORSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.509 [main] CommandExecute - Command: ADDLIBLE ICCMSRVPRO *LAST
+[DEBUG] 2017-03-14 15:54:03.516 [main] CommandExecute - CPC2196: Biblioteca ICCMSRVPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.517 [main] CommandExecute - Command: ADDLIBLE ADCMCLSPRO *LAST
+[DEBUG] 2017-03-14 15:54:03.525 [main] CommandExecute - CPC2196: Biblioteca ADCMCLSPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.525 [main] CommandExecute - Command: ADDLIBLE TCCMLIBPRO *LAST
+[DEBUG] 2017-03-14 15:54:03.533 [main] CommandExecute - CPC2196: Biblioteca TCCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.533 [main] CommandExecute - Command: ADDLIBLE TCCMDATPRO *LAST
+[DEBUG] 2017-03-14 15:54:03.542 [main] CommandExecute - CPC2196: Biblioteca TCCMDATPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.542 [main] CommandExecute - Command: ADDLIBLE CHTTSRV *LAST
+[DEBUG] 2017-03-14 15:54:03.576 [main] CommandExecute - CPC2196: Biblioteca CHTTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.576 [main] CommandExecute - Command: ADDLIBLE TTRDDAT *LAST
+[DEBUG] 2017-03-14 15:54:03.586 [main] CommandExecute - CPC2196: Biblioteca TTRDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.586 [main] CommandExecute - Command: ADDLIBLE TTRDLIB *LAST
+[DEBUG] 2017-03-14 15:54:03.597 [main] CommandExecute - CPC2196: Biblioteca TTRDLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.597 [main] CommandExecute - Command: ADDLIBLE PDE400 *LAST
+[DEBUG] 2017-03-14 15:54:03.606 [main] CommandExecute - CPC2196: Biblioteca PDE400 añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.607 [main] CommandExecute - Command: ADDLIBLE CUBDDAT *LAST
+[DEBUG] 2017-03-14 15:54:03.618 [main] CommandExecute - CPC2196: Biblioteca CUBDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.618 [main] CommandExecute - Command: ADDLIBLE RPGUNIT *LAST
+[DEBUG] 2017-03-14 15:54:03.631 [main] CommandExecute - CPC2196: Biblioteca RPGUNIT añadida a la lista de bibliotecas.
+[DEBUG] 2017-03-14 15:54:03.632 [main] CommandExecute - Command: CHGCURLIB LIBEPC
+[DEBUG] 2017-03-14 15:54:03.641 [main] CommandExecute - CPC2198: Biblioteca actual cambiada por LIBEPC.
+[DEBUG] 2017-03-14 15:54:03.641 [main] CommandExecute - Command: DLTSPLF FILE(*SELECT)
+[DEBUG] 2017-03-14 15:54:04.146 [main] CommandExecute - CPC3305: 27 archivos suprimidos. 0 archivos no suprimidos.
+[INFO ] 2017-03-14 15:54:04.146 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3506, avpNumber=307, sourceNumber=009, description=BCO,1,BCOUSRLIB, buildOrder=1]
+[DEBUG] 2017-03-14 15:54:04.147 [main] CommandExecute - Command: CRTBNDRPG PGM(LIBEPC/DDP1004) SRCFILE(LIBEPC/Ñ009SRCPGM) SRCMBR(DDP1004) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:54:05.078 [main] CommandExecute - RNS9304: El programa DDP1004 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:52:28.
+[INFO ] 2017-03-14 15:54:05.079 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3203, avpNumber=311, sourceNumber=011, description=BCO,1,BCOCYFILES, buildOrder=2]
+[DEBUG] 2017-03-14 15:54:05.079 [main] CommandExecute - Command: RUNSQLTAG BIB(LIBEPC) SRC(Ñ011SRCSQL) MBR(BITAR11036) BIBPROD(LIBEPC) ELIM(S)
+[DEBUG] 2017-03-14 15:54:05.844 [main] CommandExecute -        : 
+[DEBUG] 2017-03-14 15:54:05.845 [main] CommandExecute - Command: RUNSQLTAG BIB(LIBEPC) SRC(Ñ011SRCSQL) MBR(BITAR12075) BIBPROD(LIBEPC) ELIM(S)
+[DEBUG] 2017-03-14 15:54:06.590 [main] CommandExecute -        : 
+[INFO ] 2017-03-14 15:54:06.590 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=295, avpNumber=791, sourceNumber=010, description=BCO,1,BBCOCLS, buildOrder=3]
+[DEBUG] 2017-03-14 15:54:06.590 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BITAR11036) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(BITAR11036) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:54:08.028 [main] CommandExecute - RNS9305: El módulo BITAR11036 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:52:31.
+[DEBUG] 2017-03-14 15:54:08.028 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BITAR12075) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(BITAR12075) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:54:08.969 [main] CommandExecute - RNS9305: El módulo BITAR12075 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:52:32.
+[DEBUG] 2017-03-14 15:54:08.970 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BITAR11036) MODULE(*LIBL/BITAR11036) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:54:09.694 [main] CommandExecute - CPC5D0B: Programa de servicio BITAR11036 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:54:09.694 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BITAR11036)
+[DEBUG] 2017-03-14 15:54:09.725 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:54:09.726 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BITAR12075) MODULE(*LIBL/BITAR12075) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:54:09.907 [main] CommandExecute - CPC5D0B: Programa de servicio BITAR12075 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:54:09.907 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BITAR12075)
+[DEBUG] 2017-03-14 15:54:09.918 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:54:09.919 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/CUMSTTB) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(CUMSTTB) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:54:14.341 [main] CommandExecute - RNS9305: El módulo CUMSTTB se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:52:38.
+[DEBUG] 2017-03-14 15:54:14.341 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/CUMSTTB) MODULE(*LIBL/CUMSTTB) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:54:14.984 [main] CommandExecute - CPC5D0B: Programa de servicio CUMSTTB creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:54:14.984 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(CUMSTTB)
+[DEBUG] 2017-03-14 15:54:14.999 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:54:14.999 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/EMLCTE) SRCFILE(LIBEPC/Ñ010SRCMOD) SRCMBR(EMLCTE) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:54:17.190 [main] CommandExecute - RNS9305: El módulo EMLCTE se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:52:40.
+[DEBUG] 2017-03-14 15:54:17.191 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/EMLCTE) MODULE(*LIBL/EMLCTE) SRCFILE(LIBEPC/Ñ010SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:54:17.808 [main] CommandExecute - CPC5D0B: Programa de servicio EMLCTE creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:54:17.809 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(EMLCTE)
+[DEBUG] 2017-03-14 15:54:17.819 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[INFO ] 2017-03-14 15:54:17.819 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=377, avpNumber=793, sourceNumber=007, description=BCO,1,BBCOSRV, buildOrder=4]
+[DEBUG] 2017-03-14 15:54:17.819 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BPPPS00301) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BPPPS00301) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:54:18.871 [main] CommandExecute - RNS9305: El módulo BPPPS00301 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:52:42.
+[DEBUG] 2017-03-14 15:54:18.872 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BPPPS00302) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BPPPS00302) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:54:19.429 [main] CommandExecute - RNS9305: El módulo BPPPS00302 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:52:43.
+[DEBUG] 2017-03-14 15:54:19.429 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(BPPPS003) MODULE(*LIBL/BPPPS00300 *LIBL/BPPPS00301 *LIBL/BPPPS00302 *LIBL/BPPPS00303 *LIBL/BPPPS00304 *LIBL/BPPPS00305 *LIBL/BPPPS00306 *LIBL/BPPPS00307 *LIBL/BPPPS00308) EXPORT(*SRCFILE) SRCFILE(LIBEPC/Ñ007SRCSRV) TEXT('PPP-UTILIDADES MULTIPLE FORMATOS') OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:54:21.298 [main] CommandExecute - CPC5D0B: Programa de servicio BPPPS003 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:54:21.298 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BPPPS003)
+[DEBUG] 2017-03-14 15:54:21.307 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:54:21.307 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BACC36) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BACC36) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:54:24.384 [main] CommandExecute - RNS9305: El módulo BACC36 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:52:48.
+[DEBUG] 2017-03-14 15:54:24.384 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BACC36) MODULE(*LIBL/BACC36) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:54:24.800 [main] CommandExecute - CPC5D0B: Programa de servicio BACC36 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:54:24.800 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BACC36)
+[DEBUG] 2017-03-14 15:54:24.811 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:54:24.811 [main] CommandExecute - Command: CRTRPGMOD MODULE(LIBEPC/BACC36CNTL) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BACC36CNTL) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:54:25.190 [main] CommandExecute - RNS9305: El módulo BACC36CNTL se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:52:48.
+[DEBUG] 2017-03-14 15:54:25.190 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BACC36CNTL) MODULE(*LIBL/BACC36CNTL) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:54:25.676 [main] CommandExecute - CPC5D0B: Programa de servicio BACC36CNTL creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:54:25.676 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BACC36CNTL)
+[DEBUG] 2017-03-14 15:54:25.689 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:54:25.690 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BCUM75) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BCUM75) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:54:28.491 [main] CommandExecute - RNS9305: El módulo BCUM75 se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:52:52.
+[DEBUG] 2017-03-14 15:54:28.491 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BCUM75) MODULE(*LIBL/BCUM75) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:54:28.697 [main] CommandExecute - CPC5D0B: Programa de servicio BCUM75 creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:54:28.697 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BCUM75)
+[DEBUG] 2017-03-14 15:54:28.731 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:54:28.731 [main] CommandExecute - Command: CRTSQLRPGI OBJ(LIBEPC/BCUM75CNTL) SRCFILE(LIBEPC/Ñ007SRCMOD) SRCMBR(BCUM75CNTL) OBJTYPE(*MODULE) RPGPPOPT(*LVL2) TGTRLS(*CURRENT) DATFMT(*ISO) TIMFMT(*ISO) REPLACE(*YES)
+[DEBUG] 2017-03-14 15:54:29.601 [main] CommandExecute - RNS9305: El módulo BCUM75CNTL se ha situado en la biblioteca LIBEPC. La gravedad más alta es 00. Creado el 03/14/17 a las 15:52:53.
+[DEBUG] 2017-03-14 15:54:29.602 [main] CommandExecute - Command: CRTSRVPGM SRVPGM(LIBEPC/BCUM75CNTL) MODULE(*LIBL/BCUM75CNTL) SRCFILE(LIBEPC/Ñ007SRCSRV) OPTION(*DUPPROC) TGTRLS(*CURRENT)
+[DEBUG] 2017-03-14 15:54:29.767 [main] CommandExecute - CPC5D0B: Programa de servicio BCUM75CNTL creado en biblioteca LIBEPC.
+[DEBUG] 2017-03-14 15:54:29.767 [main] CommandExecute - Command: ADDBNDDIRE BNDDIR(LIBEPC/ENRBNDDIR) OBJ(BCUM75CNTL)
+[DEBUG] 2017-03-14 15:54:29.776 [main] CommandExecute - CPC5D05: 0 entradas añadidas, 1 entradas no añadidas al Directorio de enlace ENRBNDDIR en biblioteca LIBEPC.
+[INFO ] 2017-03-14 15:54:29.776 [main] BuildController - Build Ended.

@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+	<xs:element name="projectModel" type="ProjectModel">
+	</xs:element>
+	<xs:complexType name="ProjectModel">
+		<xs:all>
+			<xs:element name="release" type="xs:string" />
+			<xs:element name="analist" type="xs:string" />
+			<xs:element name="systemUser" type="xs:string" />
+			<xs:element name="scrumTeam" type="xs:string" minOccurs="0" />
+			<xs:element name="build" type="Build" minOccurs="0"/>
+			<xs:element name="install" type="Install" minOccurs="0"/>
+			<xs:element name="test" type="Test" minOccurs="0" />
+		</xs:all>
+	</xs:complexType>
+	<xs:complexType name="Install">
+		<xs:all>
+			<xs:element name="tablesTargetLibrary" type="AS400Name"/>
+			<xs:element name="programsTargetLibrary" type="AS400Name"/>
+			<xs:element name="tasks" type="TaskList" minOccurs="0"/>
+		</xs:all>
+	</xs:complexType>
+	<xs:complexType name="TaskList">
+		<xs:sequence>
+			<xs:element name="task" type="Task" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Task">
+		<xs:sequence>
+			<xs:element name="taskType" type="TaskType"/>
+			<xs:element name="taskCommand" type="xs:string"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Build">
+		<xs:all>
+			<xs:element name="currentLibrary" type="xs:string" />
+			<xs:element name="bindingDirectory" type="xs:string"/>
+			<xs:element name="libraryList" minOccurs="0" type="LibraryList">
+				<xs:unique name="uniqueLibrary">
+					<xs:selector xpath="library" />
+					<xs:field xpath="name"></xs:field>
+				</xs:unique>
+				<xs:unique name="uniqueSequence">
+					<xs:selector xpath="library" />
+					<xs:field xpath="sequence" />
+				</xs:unique>
+			</xs:element>
+			<xs:element name="pdeProyectList" type="PdeProyectList" />
+		</xs:all>
+	</xs:complexType>
+	<xs:complexType name="PdeProyectList">
+		<xs:sequence>
+			<xs:element name="pdeProject" type="PdeProject" minOccurs="1"
+				maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="PdeProject">
+		<xs:all>
+			<xs:element name="projectNumber" type="PositiveInteger" />
+			<xs:element name="avpNumber" type="PositiveInteger" />
+			<xs:element name="sourceNumber">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:pattern value="[0-9]{3}"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="description" type="xs:string" minOccurs="0"/>
+			<xs:element name="items" type="ItemList" />
+			<xs:element name="projectLibraryList" type="LibraryList" minOccurs="0"/>
+			<xs:element name="buildOrder" type="PositiveInteger" minOccurs="0"/>
+		</xs:all>
+	</xs:complexType>
+	<xs:complexType name="Item">
+		<xs:all>
+			<xs:element name="memberName" type="AS400Name" />
+			<xs:element name="sourceFileName" type="AS400Name" />
+			<xs:element name="sourceType" type="SourceType" />
+			<xs:element name="objectType" type="ObjectType" />
+			<xs:element name="memberDescription" type="xs:string" minOccurs="0"/>
+			<xs:element name="buildCommand" type="xs:string" minOccurs="0" />
+			<xs:element name="buildOrder" type="PositiveInteger" minOccurs="0"/>
+		</xs:all>
+	</xs:complexType>
+	<xs:complexType name="ItemList">
+		<xs:sequence>
+			<xs:element name="item" type="Item" minOccurs="1" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Library">
+		<xs:attribute name="name" type="AS400Name"/>
+		<xs:attribute name="sequence" type="PositiveInteger"/>
+	</xs:complexType>
+	<xs:complexType name="LibraryList">
+		<xs:sequence>
+			<xs:element name="library" type="Library" minOccurs="1"
+				maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="PositiveInteger">
+		<xs:restriction base="xs:positiveInteger">
+			<xs:minInclusive value="1" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="AS400Name">
+		<xs:restriction base="xs:string">
+			<xs:minLength value="1" />
+			<xs:maxLength value="10" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="SourceType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="SQLRPGLE" />
+			<xs:enumeration value="RPGLE" />
+			<xs:enumeration value="CLLE" />
+			<xs:enumeration value="SQL" />
+			<xs:enumeration value="BND" />
+			<xs:enumeration value="LF" />
+			<xs:enumeration value="TXT" />
+			<xs:enumeration value="DSPF" />
+			<xs:enumeration value="DTAARA" />
+			<xs:enumeration value="PRTF" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="TaskType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="CL" />
+			<xs:enumeration value="SQL" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ObjectType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="*PGM" />
+			<xs:enumeration value="*MODULE" />
+			<xs:enumeration value="*SRVPGM" />
+			<xs:enumeration value="*FILE" />
+			<xs:enumeration value="*DTAARA" />
+			<xs:enumeration value="*NONE" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="Test">
+		<xs:all>
+			<xs:element name="test"></xs:element>
+		</xs:all>
+	</xs:complexType>
+</xs:schema>

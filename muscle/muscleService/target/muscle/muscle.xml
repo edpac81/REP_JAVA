@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="muscle.xsd">
+  <release>release-1</release>
+  <analist>analist</analist>
+  <systemUser>systemUser</systemUser>
+  <build>
+    <bindingDirectory>bindingDirectory</bindingDirectory>
+    <pdeProyectList>
+      <pdeProject>
+        <projectNumber>1</projectNumber>
+        <avpNumber>1</avpNumber>
+        <sourceNumber>001</sourceNumber>
+        <items>
+          <item>
+            <memberName>nombre</memberName>
+            <sourceFileName>srcfilname</sourceFileName>
+            <sourceType>SQLRPGLE</sourceType>
+            <objectType>*PGM</objectType>
+          </item>
+        </items>
+      </pdeProject>
+    </pdeProyectList>
+  </build>
+</projectModel>

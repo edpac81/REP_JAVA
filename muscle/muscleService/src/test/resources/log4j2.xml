@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+	<Appenders>
+		<!-- Default Console Appender -->
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout>
+				<pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n
+				</pattern>
+			</PatternLayout>
+		</Console>
+
+		<!-- Trace level log file -->
+		<RollingFile name="muscle-log" fileName="logs/muscle.log"
+			filePattern="logs/muscle-%d{yyyy-MM-dd}.log">
+			<PatternLayout>
+				<pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n
+				</pattern>
+			</PatternLayout>
+			<Policies>
+				<TimeBasedTriggeringPolicy interval="1"
+					modulate="true" />
+				<SizeBasedTriggeringPolicy />
+			</Policies>
+			<DefaultRolloverStrategy max="20" />
+		</RollingFile>
+
+	</Appenders>
+	<Loggers>
+		<logger name="com.muscle" level="all" additivity="true">
+			<AppenderRef ref="muscle-log" level="trace" />
+		</logger>
+		<Root level="all" additivity="true">
+			<AppenderRef ref="Console" />
+		</Root>
+	</Loggers>
+</Configuration>

@@ -1,0 +1,120 @@
+[INFO ] 2017-10-10 11:59:40.347 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-10-10 11:59:43.526 [main] SpooledFileWriter - Spooled File writed: C:\workspace_java\muscle\muscleService\spooled\COMPILE-3-QPRTJOB-BCOINFEPC-290358.txt
+[INFO ] 2017-10-10 11:59:54.644 [main] SystemConnection - Logged as BCOINFEPC
+[INFO ] 2017-10-10 11:59:54.914 [main] CommandExecute - Connected to job: 429345/QUSER/QZRCSRVS
+[INFO ] 2017-10-10 11:59:54.914 [main] BuildController - Build Started.
+[INFO ] 2017-10-10 11:59:54.915 [main] BuildController - Loading Library List
+[DEBUG] 2017-10-10 11:59:54.915 [main] CommandExecute - Command: ADDLIBLE BCOCYFILES *LAST
+[DEBUG] 2017-10-10 11:59:55.018 [main] CommandExecute - CPC2196: Biblioteca BCOCYFILES añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:55.019 [main] CommandExecute - Command: ADDLIBLE QGPL *LAST
+[WARN ] 2017-10-10 11:59:55.126 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QGPL ya existe en la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:55.127 [main] CommandExecute - Command: ADDLIBLE ADCMDATPRO *LAST
+[WARN ] 2017-10-10 11:59:55.230 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:55.231 [main] CommandExecute - Command: ADDLIBLE ADCMLIBPRO *LAST
+[WARN ] 2017-10-10 11:59:55.330 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca ADCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:55.331 [main] CommandExecute - Command: ADDLIBLE P$CMDATPRO *LAST
+[WARN ] 2017-10-10 11:59:55.432 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMDATPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:55.433 [main] CommandExecute - Command: ADDLIBLE P$CMLIBPRO *LAST
+[WARN ] 2017-10-10 11:59:55.536 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca P$CMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:55.544 [main] CommandExecute - Command: ADDLIBLE COMLIB *LAST
+[WARN ] 2017-10-10 11:59:55.644 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca COMLIB ya existe en la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:55.645 [main] CommandExecute - Command: ADDLIBLE QTEMP *LAST
+[WARN ] 2017-10-10 11:59:55.790 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca QTEMP ya existe en la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:55.790 [main] CommandExecute - Command: ADDLIBLE PTCMLIBPRO *LAST
+[WARN ] 2017-10-10 11:59:55.891 [main] BuildController - java.lang.Exception: CPF2103: La biblioteca PTCMLIBPRO ya existe en la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:55.892 [main] CommandExecute - Command: ADDLIBLE BCOUSRLIB *LAST
+[DEBUG] 2017-10-10 11:59:55.990 [main] CommandExecute - CPC2196: Biblioteca BCOUSRLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:55.990 [main] CommandExecute - Command: ADDLIBLE ZFUNC *LAST
+[DEBUG] 2017-10-10 11:59:56.092 [main] CommandExecute - CPC2196: Biblioteca ZFUNC añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:56.093 [main] CommandExecute - Command: ADDLIBLE ZSNTB *LAST
+[DEBUG] 2017-10-10 11:59:56.193 [main] CommandExecute - CPC2196: Biblioteca ZSNTB añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:56.194 [main] CommandExecute - Command: ADDLIBLE BCOUSRCRI *LAST
+[DEBUG] 2017-10-10 11:59:56.295 [main] CommandExecute - CPC2196: Biblioteca BCOUSRCRI añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:56.297 [main] CommandExecute - Command: ADDLIBLE IBSUSRR04 *LAST
+[DEBUG] 2017-10-10 11:59:56.418 [main] CommandExecute - CPC2196: Biblioteca IBSUSRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:56.419 [main] CommandExecute - Command: ADDLIBLE IBSSCRR04 *LAST
+[DEBUG] 2017-10-10 11:59:56.517 [main] CommandExecute - CPC2196: Biblioteca IBSSCRR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:56.518 [main] CommandExecute - Command: ADDLIBLE IBSLIBR04 *LAST
+[DEBUG] 2017-10-10 11:59:56.617 [main] CommandExecute - CPC2196: Biblioteca IBSLIBR04 añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:56.618 [main] CommandExecute - Command: ADDLIBLE RLCMLIBPRO *LAST
+[DEBUG] 2017-10-10 11:59:56.720 [main] CommandExecute - CPC2196: Biblioteca RLCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:56.721 [main] CommandExecute - Command: ADDLIBLE QS36F *LAST
+[DEBUG] 2017-10-10 11:59:56.820 [main] CommandExecute - CPC2196: Biblioteca QS36F añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:56.820 [main] CommandExecute - Command: ADDLIBLE EIBSR04M03 *LAST
+[DEBUG] 2017-10-10 11:59:56.922 [main] CommandExecute - CPC2196: Biblioteca EIBSR04M03 añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:56.922 [main] CommandExecute - Command: ADDLIBLE QZRDSSRV *LAST
+[DEBUG] 2017-10-10 11:59:57.021 [main] CommandExecute - CPC2196: Biblioteca QZRDSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:57.021 [main] CommandExecute - Command: ADDLIBLE TFBSLIBPRO *LAST
+[DEBUG] 2017-10-10 11:59:57.121 [main] CommandExecute - CPC2196: Biblioteca TFBSLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:57.122 [main] CommandExecute - Command: ADDLIBLE QMQM *LAST
+[DEBUG] 2017-10-10 11:59:57.224 [main] CommandExecute - CPC2196: Biblioteca QMQM añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:57.225 [main] CommandExecute - Command: ADDLIBLE PSLIB36 *LAST
+[DEBUG] 2017-10-10 11:59:57.326 [main] CommandExecute - CPC2196: Biblioteca PSLIB36 añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:57.331 [main] CommandExecute - Command: ADDLIBLE CCGITOOLS *LAST
+[DEBUG] 2017-10-10 11:59:57.441 [main] CommandExecute - CPC2196: Biblioteca CCGITOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:57.443 [main] CommandExecute - Command: ADDLIBLE RPGNEXTLIB *LAST
+[DEBUG] 2017-10-10 11:59:57.546 [main] CommandExecute - CPC2196: Biblioteca RPGNEXTLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:57.547 [main] CommandExecute - Command: ADDLIBLE CMQASRV *LAST
+[DEBUG] 2017-10-10 11:59:57.646 [main] CommandExecute - CPC2196: Biblioteca CMQASRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:57.647 [main] CommandExecute - Command: ADDLIBLE CMQMDAT *LAST
+[DEBUG] 2017-10-10 11:59:57.748 [main] CommandExecute - CPC2196: Biblioteca CMQMDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:57.749 [main] CommandExecute - Command: ADDLIBLE CPRTLOGSRV *LAST
+[DEBUG] 2017-10-10 11:59:57.856 [main] CommandExecute - CPC2196: Biblioteca CPRTLOGSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:57.858 [main] CommandExecute - Command: ADDLIBLE CIFSSRV *LAST
+[DEBUG] 2017-10-10 11:59:57.956 [main] CommandExecute - CPC2196: Biblioteca CIFSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:57.957 [main] CommandExecute - Command: ADDLIBLE CXMLSRV *LAST
+[DEBUG] 2017-10-10 11:59:58.055 [main] CommandExecute - CPC2196: Biblioteca CXMLSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:58.056 [main] CommandExecute - Command: ADDLIBLE CMQMCLS *LAST
+[DEBUG] 2017-10-10 11:59:58.156 [main] CommandExecute - CPC2196: Biblioteca CMQMCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:58.157 [main] CommandExecute - Command: ADDLIBLE BBCOSRC *LAST
+[DEBUG] 2017-10-10 11:59:58.258 [main] CommandExecute - CPC2196: Biblioteca BBCOSRC añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:58.258 [main] CommandExecute - Command: ADDLIBLE BBCOCLS *LAST
+[DEBUG] 2017-10-10 11:59:58.354 [main] CommandExecute - CPC2196: Biblioteca BBCOCLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:58.354 [main] CommandExecute - Command: ADDLIBLE CCNTSRV *LAST
+[DEBUG] 2017-10-10 11:59:58.452 [main] CommandExecute - CPC2196: Biblioteca CCNTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:58.453 [main] CommandExecute - Command: ADDLIBLE CSRCSRV *LAST
+[DEBUG] 2017-10-10 11:59:58.555 [main] CommandExecute - CPC2196: Biblioteca CSRCSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:58.555 [main] CommandExecute - Command: ADDLIBLE CBASICSSRV *LAST
+[DEBUG] 2017-10-10 11:59:58.653 [main] CommandExecute - CPC2196: Biblioteca CBASICSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:58.654 [main] CommandExecute - Command: ADDLIBLE CSYSTOOLS *LAST
+[DEBUG] 2017-10-10 11:59:58.757 [main] CommandExecute - CPC2196: Biblioteca CSYSTOOLS añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:58.758 [main] CommandExecute - Command: ADDLIBLE RPGBEANLIB *LAST
+[DEBUG] 2017-10-10 11:59:58.857 [main] CommandExecute - CPC2196: Biblioteca RPGBEANLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:58.866 [main] CommandExecute - Command: ADDLIBLE CNBSSRV *LAST
+[DEBUG] 2017-10-10 11:59:58.967 [main] CommandExecute - CPC2196: Biblioteca CNBSSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:58.968 [main] CommandExecute - Command: ADDLIBLE BBCOSRV *LAST
+[DEBUG] 2017-10-10 11:59:59.070 [main] CommandExecute - CPC2196: Biblioteca BBCOSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:59.072 [main] CommandExecute - Command: ADDLIBLE BBCOAPL *LAST
+[DEBUG] 2017-10-10 11:59:59.172 [main] CommandExecute - CPC2196: Biblioteca BBCOAPL añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:59.173 [main] CommandExecute - Command: ADDLIBLE CSYSTSRV *LAST
+[DEBUG] 2017-10-10 11:59:59.276 [main] CommandExecute - CPC2196: Biblioteca CSYSTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:59.277 [main] CommandExecute - Command: ADDLIBLE CCORSRV *LAST
+[DEBUG] 2017-10-10 11:59:59.378 [main] CommandExecute - CPC2196: Biblioteca CCORSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:59.378 [main] CommandExecute - Command: ADDLIBLE ICCMSRVPRO *LAST
+[DEBUG] 2017-10-10 11:59:59.477 [main] CommandExecute - CPC2196: Biblioteca ICCMSRVPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:59.478 [main] CommandExecute - Command: ADDLIBLE ADCMCLSPRO *LAST
+[DEBUG] 2017-10-10 11:59:59.583 [main] CommandExecute - CPC2196: Biblioteca ADCMCLSPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:59.583 [main] CommandExecute - Command: ADDLIBLE TCCMLIBPRO *LAST
+[DEBUG] 2017-10-10 11:59:59.681 [main] CommandExecute - CPC2196: Biblioteca TCCMLIBPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:59.681 [main] CommandExecute - Command: ADDLIBLE TCCMDATPRO *LAST
+[DEBUG] 2017-10-10 11:59:59.783 [main] CommandExecute - CPC2196: Biblioteca TCCMDATPRO añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:59.784 [main] CommandExecute - Command: ADDLIBLE CHTTSRV *LAST
+[DEBUG] 2017-10-10 11:59:59.932 [main] CommandExecute - CPC2196: Biblioteca CHTTSRV añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 11:59:59.932 [main] CommandExecute - Command: ADDLIBLE TTRDDAT *LAST
+[DEBUG] 2017-10-10 12:00:00.033 [main] CommandExecute - CPC2196: Biblioteca TTRDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 12:00:00.034 [main] CommandExecute - Command: ADDLIBLE TTRDLIB *LAST
+[DEBUG] 2017-10-10 12:00:00.132 [main] CommandExecute - CPC2196: Biblioteca TTRDLIB añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 12:00:00.133 [main] CommandExecute - Command: ADDLIBLE PDE400 *LAST
+[DEBUG] 2017-10-10 12:00:00.232 [main] CommandExecute - CPC2196: Biblioteca PDE400 añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 12:00:00.233 [main] CommandExecute - Command: ADDLIBLE CUBDDAT *LAST
+[DEBUG] 2017-10-10 12:00:00.331 [main] CommandExecute - CPC2196: Biblioteca CUBDDAT añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 12:00:00.332 [main] CommandExecute - Command: ADDLIBLE RPGUNIT *LAST
+[DEBUG] 2017-10-10 12:00:00.432 [main] CommandExecute - CPC2196: Biblioteca RPGUNIT añadida a la lista de bibliotecas.
+[DEBUG] 2017-10-10 12:00:00.432 [main] CommandExecute - Command: CHGCURLIB LIBEPC
+[DEBUG] 2017-10-10 12:00:00.533 [main] CommandExecute - CPC2198: Biblioteca actual cambiada por LIBEPC.
+[DEBUG] 2017-10-10 12:00:00.534 [main] CommandExecute - Command: DLTSPLF FILE(*SELECT)
+[DEBUG] 2017-10-10 12:00:00.747 [main] CommandExecute - CPC3305: 19 archivos suprimidos. 0 archivos no suprimidos.
+[INFO ] 2017-10-10 12:00:00.749 [main] BuildController - Start build PDEProject: PdeProject [projectNumber=3506, avpNumber=307, sourceNumber=009, description=BCO,1,BCOUSRLIB, buildOrder=1]
+[DEBUG] 2017-10-10 12:00:00.751 [main] CommandExecute - Command: CRTBNDRPG PGM(LIBEPC/DDP1004) SRCFILE(LIBEPC/Ñ009SRCPGM) SRCMBR(DDP1004) REPLACE(*YES)
+[INFO ] 2017-10-10 12:00:01.321 [main] JobLogPrinter - jobLogFile Writed: C:\workspace_java\muscle\muscleService\joblogs\QZRCSRVS-QUSER-429345.txt
+[ERROR] 2017-10-10 12:00:02.084 [main] MainController - java.lang.Exception: RNS9306: Imposible abrir el miembro DDP1004 del archivo Ñ009SRCPGM en la biblioteca LIBEPC.
