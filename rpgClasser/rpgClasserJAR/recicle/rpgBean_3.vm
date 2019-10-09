@@ -1,0 +1,209 @@
+## *************************** 
+## TEMPLATE GLOBALS
+## ***************************
+#set($beanType = $bean.name + "Type")
+#set($likeTypeKW = "like("+${beanType}+") const")
+#set($likeTypeKW2 = "like("+${beanType}+")")
+#set($localBean = "v"+$utils.getMethodName($bean.name))
+#set($localRef = "p"+$utils.getMethodName($bean.name))
+#set($likeBasedKW = "likeds(this) based("+$localRef+")")
+##
+#set($txtMemberName = $bean.getTxtMember().getMemberName())
+#set($txtMemberLibr = $bean.getTxtMember().getLibraryName())
+#set($txtMemberFile = $bean.getTxtMember().getObjectName())
+##
+#set($rpgMemberName = $bean.getRpgMember().getMemberName())
+
+      * BEAN NAME: $bean.Name
+     H NOMAIN
+     H BNDDIR('CEXCEPBNDD':'OBJECTBD')   
+     
+      /INCLUDE LIBEPC/QBV1EXA,OBJECTH
+      /INCLUDE $txtMemberLibr/$txtMemberFile,$txtMemberName
+      /INCLUDE LIBEPC/QBV1TXT,CEXCEPSQLH
+      
+      // Private atributtes	
+     d this            ds                  qualified template     
+#foreach( $field in $bean.getFields() )
+     $utils.getDspecs($field,"@p","inz")
+#end
+## *************************** 
+## MACROS
+## ***************************
+#macro(testSQL $varName)
+       CEXCEPSQL_testStatement(sqlCode:sqlState);
+       
+       if sqlCode = 0;
+         $varName = *on;
+       endif;
+       
+       return $varName;
+#end
+## ***************************
+#macro(procSpecs $procName $rType $rLen $rDec $rKW)
+#set($fullPrName = $rpgMemberName+"_"+$procName)
+     $utils.getPspecs($fullPrName,"","","","b","export")
+     $utils.getDspecs("",$rType,$rLen,$rDec,"pi",$rKW)
+#end
+## ***************************
+#macro(startProc $varName $includeVar)
+     $utils.getDspecs($localBean,"","","","ds",$likeBasedKW)
+#if($includeVar)
+     $utils.getDspecs($varName,"n","","","s","inz(*off)")
+#end
+      /free
+#end
+## ***************************
+#macro(endProc)
+      /end-free
+     P                 e
+#end
+## *************************** 
+## CONSTRUCTOR
+## ***************************
+
+      // default constructor
+#procSpecs("new" "" "" "" "")
+     $utils.getDspecs($localRef,"","","","@p",$likeTypeKW2)
+     
+#startProc("" false)
+       object_new($localRef:%size(this));
+       clear $localBean;
+       return;
+#endProc
+##
+## *************************** 
+## SELECT FOR KEY FIELDS 
+## ***************************
+#if($bean.isIncludeSelect())
+#procSpecs("getRecord" "n" "" "" "")
+     $utils.getDspecs($localRef,"","","","@p",$likeTypeKW)
+#foreach( $field in $bean.getKeyFields() )
+#set( $parmName = "p" + $utils.getMethodName( $field.getName() ) )
+     $utils.getDspecs($parmName,$field.getType(),$field.getLength(),$field.getDecimals(),"@p","const")
+#end     
+
+#startProc("exists" true)
+       clear $localBean;
+       exec sql
+         SELECT
+#foreach( $field in $bean.getFields() )
+           $field.getName()$utils.getComma($bean,$field,false)
+#end
+         INTO :$localBean
+         FROM $rpgMemberName
+#foreach( $field in $bean.getKeyFields() )
+         $utils.getWhereStmt($bean,$field,true) $field.getName() = :p$field.getName() $utils.getSemiCol($bean,$field,true) 
+#end
+ 
+#testSQL("exists")  
+#endProc    
+#end  
+## 
+## ***************************
+## INSERT
+## ***************************
+#if($bean.isIncludeInsert())
+#procSpecs("insert" "n" "" "" "")
+     $utils.getDspecs($localRef,"","","","@p",$likeTypeKW)
+
+#startProc("success" true)
+       exec sql
+         INSERT INTO $rpgMemberName(
+#foreach( $field in $bean.getFields() )
+           $field.getName()$utils.getComma($bean,$field,false)
+#end
+         )
+         VALUES(
+#foreach( $field in $bean.getFields() )
+           :$localBean.$field.getName()$utils.getComma($bean,$field,false)
+#end
+         ); 
+         
+#testSQL("success")
+#endProc 
+#end
+##
+## ***************************
+## UPDATE    
+## ***************************
+#if($bean.isIncludeUpdate())
+#procSpecs("update" "n" "" "" "")
+     $utils.getDspecs($localRef,"","","","@p",$likeTypeKW)
+     
+#startProc("success" true)
+       exec sql
+         UPDATE $rpgMemberName
+         SET
+#foreach( $field in $bean.getFields() )
+#if(!$field.isKey())
+           $field.getName() = :$localBean.$field.getName()$utils.getComma($bean,$field,false)
+#end 
+#end          
+#foreach( $field in $bean.getKeyFields() )
+         $utils.getWhereStmt($bean,$field,true) $field.getName() = :$localBean.$field.getName() $utils.getSemiCol($bean,$field,true) 
+#end
+
+#testSQL("success")
+#endProc
+#end
+##
+## ***************************
+## DELETE    
+## ***************************
+#if($bean.isIncludeDelete())
+#procSpecs("delete" "n" "" "" "")
+     $utils.getDspecs($localRef,"","","","@p",$likeTypeKW)
+     
+#startProc("success" true)
+       exec sql
+         DELETE FROM $rpgMemberName        
+#foreach( $field in $bean.getKeyFields() )
+         $utils.getWhereStmt($bean,$field,true) $field.getName() = :$localBean.$field.getName() $utils.getSemiCol($bean,$field,true) 
+#end
+
+#testSQL("success")
+#endProc
+#end
+## 
+## ***************************
+## SETTERS
+## ***************************
+      // SETTERS
+      // ****************************************
+## Iterate over all of the bean fields and build setters methods
+#foreach( $field in $bean.getFields() )
+##      //Sets the $bean.Name's $field.name field
+##      //@param $localRef        The $bean.Name's $field.name field
+#procSpecs($utils.getMethodName("set", $field.name ) "" "" "" "")
+     $utils.getDspecs($localRef,"","","","@p",$likeTypeKW)
+#set( $parmName = "p" + $utils.getMethodName( $field.getName() ) )
+     $utils.getDspecs($parmName,$field.getType(),$field.getLength(),$field.getDecimals(),"@p","const")
+
+#startProc("" false)
+       ${localBean}.${field.name} = $parmName;
+#endProc  
+#end
+##
+## ***************************
+## GETTERS
+## ***************************
+      // GETTERS
+      // ****************************************
+## Iterate over all of the bean fields and build getters methods
+#foreach( $field in $bean.getFields() )
+##      //Returns the $bean.Name's $field.name field
+##      //@return      The $bean.Name's $field.name field ($field.getLength() $field.getType() $field.getDecimals())     
+#if( $field.getType().equals( "n" ) )
+## Booleans should start with is
+#procSpecs($utils.getMethodName("is", $field.name ) $field.getType() $field.getLength() $field.getDecimals() "")
+#else
+## Non-booleans should start with get
+#procSpecs($utils.getMethodName("get", $field.name ) $field.getType() $field.getLength() $field.getDecimals() "")
+#end
+     $utils.getDspecs($localRef,"","","","@p",$likeTypeKW)
+     
+#startProc("" false)
+       return ${localBean}.${field.name};
+#endProc 
+#end

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: eparajeles
+Class-Path: . lib/velocity-1.7.jar lib/commons-collections-3.2.1.jar l
+ ib/commons-lang-2.4.jar lib/commons-csv-1.1.jar lib/jt400-6.7.jar lib
+ /log4j-api-2.2.jar lib/log4j-core-2.2.jar
+Build-Jdk: 1.8.0_60
+Created-By: Maven Integration for Eclipse
+

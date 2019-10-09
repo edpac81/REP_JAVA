@@ -1,0 +1,14 @@
+name,type,length,decimals,isKey
+NUMCTA,s,9,0,true
+FECTRN,z,,,true
+NUMCAJ,s,6,0,true
+SECCAJ,s,6,0,true
+REFCAJ,s,11,0,false
+TIPTRN,a,2,,false
+ORGTRN,a,10,,false
+MTOTRN,s,15,2,false
+MONTRN,a,3,,false
+MTOAPD,s,15,2,false
+NOMJOB,a,10,,false
+NUMJOB,a,6,,false
+USUJOB,a,10,,false

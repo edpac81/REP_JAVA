@@ -1,0 +1,122 @@
+## *************************** 
+## GLOBALS
+## ***************************
+#set($beanType = $bean.name + "Type")
+#set($likeTypeKW = "like(handler_dfn) const")
+#set($likeTypeKW2 = "like("+${beanType}+")")
+#set($localBean = "v"+$utils.getMethodName($bean.name))
+#set($localRef = "p"+$utils.getMethodName($bean.name))
+#set( $keywords =  "template")
+#set($rpgMemberName = $bean.getRpgMember().getMemberName())
+#set($defined = $bean.name+"_INC")
+##
+#macro(procSpecs $procName $rType $rLen $rDec $rKW)
+#set($fullPrName = $rpgMemberName+"_"+$procName)
+$utils.getFreeDspecs("dcl-pr",$fullPrName,$rType,$rLen,$rDec,$rKW)
+#end
+**free
+/if defined ($defined)
+/eof
+/else 
+/define $defined
+/endif
+
+$utils.getFreeDspecs("dcl-s",$beanType,"pointer","","",$keywords)
+##
+## *************************** 
+## CONSTRUCTOR
+## ***************************
+     
+#procSpecs("new" "" "" "" "")
+  $utils.getFreeDspecs("@p",$localRef,"","","",$likeTypeKW2)
+end-pr;
+
+##
+## *************************** 
+## SELECT FOR KEY FIELDS 
+## ***************************
+#if($bean.isIncludeIsOnFile())
+#procSpecs("isOnFile" "ind" "" "" "")
+  $utils.getFreeDspecs("@p",$localRef,"","","",$likeTypeKW)
+#foreach( $field in $bean.getKeyFields() )
+#set( $parmName = "p" + $utils.getMethodName( $field.getName() ) )
+  $utils.getFreeDspecs("@p",$parmName,$field.getType(),$field.getLength(),$field.getDecimals(),"const")
+#end
+end-pr;
+
+#end
+## *************************** 
+## SELECT FOR KEY FIELDS 
+## ***************************
+#if($bean.isIncludeSelect())
+#procSpecs("getRecord" "ind" "" "" "")
+  $utils.getFreeDspecs("@p",$localRef,"","","",$likeTypeKW)
+#foreach( $field in $bean.getKeyFields() )
+#set( $parmName = "p" + $utils.getMethodName( $field.getName() ) )
+  $utils.getFreeDspecs("@p",$parmName,$field.getType(),$field.getLength(),$field.getDecimals(),"const")
+#end 
+end-pr;
+
+#end
+## 
+## ***************************
+## INSERT
+## ***************************
+#if($bean.isIncludeInsert())
+#procSpecs("insert" "ind" "" "" "")
+  $utils.getFreeDspecs("@p",$localRef,"","","",$likeTypeKW)
+end-pr;
+
+#end
+##
+## ***************************
+## UPDATE    
+## ***************************
+#if($bean.isIncludeUpdate())
+#procSpecs("update" "ind" "" "" "")
+  $utils.getFreeDspecs("@p",$localRef,"","","",$likeTypeKW)
+end-pr;
+
+#end
+##
+## ***************************
+## DELETE    
+## ***************************
+#if($bean.isIncludeDelete())
+#procSpecs("delete" "ind" "" "" "")
+  $utils.getFreeDspecs("@p",$localRef,"","","",$likeTypeKW)
+end-pr;
+
+#end
+## 
+## ***************************
+## SETTERS
+## ***************************
+#if($bean.isIncludeSetters())
+#foreach( $field in $bean.getFields() )
+#procSpecs($utils.getMethodName("set", $field.name ) "" "" "" "")
+  $utils.getFreeDspecs("@p",$localRef,"","","",$likeTypeKW)
+#set( $parmName = "p" + $utils.getMethodName( $field.getName() ) )
+  $utils.getFreeDspecs("@p",$parmName,$field.getType(),$field.getLength(),$field.getDecimals(),"const")    
+end-pr;  
+
+#end
+#end
+##
+## ***************************
+## GETTERS
+## ***************************
+#if($bean.isIncludeGetters())
+#foreach( $field in $bean.getFields() )    
+#if( $field.getType().equals( "ind" ) )
+## Booleans should start with is
+#procSpecs($utils.getMethodName("is", $field.name ) $field.getType() $field.getLength() $field.getDecimals() "")
+#else
+## Non-booleans should start with get
+#procSpecs($utils.getMethodName("get", $field.name ) $field.getType() $field.getLength() $field.getDecimals() "")
+#end
+  $utils.getFreeDspecs("@p",$localRef,"","","",$likeTypeKW)
+end-pr; 
+
+#end
+#end

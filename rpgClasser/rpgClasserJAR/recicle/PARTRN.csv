@@ -1,0 +1,8 @@
+name,type,length,decimals,isKey
+debitAmount,s,15,2,false
+debitCurrency,a,3,,false
+creditAmount,s,15,2,false
+creditCurrency,a,3,,false
+trnDescription,a,40,,false
+trnReference,s,11,0,false
+trnValueDate,d,,,false

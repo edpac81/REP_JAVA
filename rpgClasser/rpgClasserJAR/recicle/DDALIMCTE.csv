@@ -1,0 +1,14 @@
+name,type,length,decimals,isKey
+CODBCO,a,2,,true
+CODAPL,a,5,,true
+CODSRV,a,5,,true
+TIPCTE,a,1,,true
+MONLIM,a,3,,false
+MTOLIM,s,15,2,false
+CODSTS,a,1,,false
+USUING,a,18,,false
+FECING,z,,,false
+USUACT,a,18,,false     
+FECACT,z,,,false 
+USUADM,a,18,,false     
+FECADM,z,,,false 

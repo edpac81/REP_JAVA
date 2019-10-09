@@ -1,0 +1,51 @@
+package $bean.PackageName;
+
+/**
+ * A $bean.Name JavaBean
+ */
+public class $bean.Name
+{
+#foreach( $field in $bean.getFields().keySet() )
+    private $bean.getFields().get( $field ) $field;
+#end
+#*
+ * Define a default constructor
+ *#
+    /**
+     * Default constructor
+     */
+    public ${bean.Name}()
+    {
+    }
+
+## Iterate over all of the bean fields and build get and set methods
+#foreach( $field in $bean.getFields().keySet() )
+#set( $type = $bean.getFields().get( $field ) )
+    /**
+     * Returns the $bean.Name's $field field
+     *
+     * @return      The $bean.Name's $field field
+     */
+#if( $bean.getFields().get( $field ).equals( "boolean" ) )
+## Booleans should start with is
+    public $type is$utils.getMethodName( $field )()
+#else
+## Non-booleans should start with get
+    public $type get$utils.getMethodName( $field )()
+#end
+    {
+        return $field;
+    }
+
+    /**
+     * Sets the $bean.Name's $field field
+     *
+     * @param $field        The $bean.Name's $field field
+     */
+    public void set$utils.getMethodName( $field )( $type $field )
+    {
+        this.$field = $field;
+    }
+
+#end
+}

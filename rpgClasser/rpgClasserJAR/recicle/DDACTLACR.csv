@@ -1,0 +1,14 @@
+name,type,length,decimals,isKey
+CODBCO,a,2,,true     
+CODAPL,a,5,,true
+CODSRV,a,5,,true
+NUMCTA,s,9,0,true
+GSTSBL,a,64,,true     
+FUM,z,,,false
+FEI,z,,,false
+MTORCL,s,15,2,false
+MTOACR,s,15,2,false
+MTOPND,s,15,2,false
+NUMCAJ,s,6,0,false
+SECCAJ,s,6,0,false
+FECTRN,z,,,false 

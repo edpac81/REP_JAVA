@@ -1,0 +1,9 @@
+name,type,length,decimals,isKey
+@sourceAccount,*,,,false
+@cntrlcnt,*,,,false
+trnSrcAmount,s,15,2,false
+trnSrcCurrency,a,3,,false
+trnTrgAmount,s,15,2,false
+trnTrgCurrency,a,3,,false
+exrSale,s,11,6,false
+exrPurchase,s,11,6,false

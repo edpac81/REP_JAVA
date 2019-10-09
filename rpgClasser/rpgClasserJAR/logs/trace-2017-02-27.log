@@ -1,0 +1,131 @@
+[TRACE] 2017-02-27 11:15:56.906 [main] ClasserLogger - Table: LIBEPC/BITAR11036
+[TRACE] 2017-02-27 11:16:28.345 [main] ClasserLogger - Added field: IDNREQ|type=i|length=10|decimals=0
+[TRACE] 2017-02-27 11:16:28.346 [main] ClasserLogger - Added field: FECREQ|type=z|length=|decimals=
+[TRACE] 2017-02-27 11:16:28.346 [main] ClasserLogger - Added field: CODAPL|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:16:28.346 [main] ClasserLogger - Added field: NOMJOB|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:16:28.346 [main] ClasserLogger - Added field: USRJOB|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:16:28.347 [main] ClasserLogger - Added field: NUMJOB|type=p|length=6|decimals=0
+[TRACE] 2017-02-27 11:16:28.347 [main] ClasserLogger - Added field: NOMPRG|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:16:28.347 [main] ClasserLogger - Added field: CANREQ|type=a|length=30|decimals=
+[TRACE] 2017-02-27 11:16:28.348 [main] ClasserLogger - Added field: NOMSVD|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:16:28.348 [main] ClasserLogger - Added field: FECRPT|type=z|length=|decimals=
+[TRACE] 2017-02-27 11:16:28.348 [main] ClasserLogger - Added field: CODERR|type=a|length=7|decimals=
+[TRACE] 2017-02-27 11:16:28.349 [main] ClasserLogger - Added field: MSGERR|type=a|length=132|decimals=
+[TRACE] 2017-02-27 11:16:28.349 [main] ClasserLogger - Added field: NUMCTA|type=p|length=9|decimals=0
+[TRACE] 2017-02-27 11:16:28.349 [main] ClasserLogger - Added field: EMLECT|type=a|length=100|decimals=
+[TRACE] 2017-02-27 11:16:28.349 [main] ClasserLogger - Added field: BANACT|type=a|length=1|decimals=
+[TRACE] 2017-02-27 11:16:28.350 [main] ClasserLogger - Added field: EDORPT|type=a|length=1|decimals=
+[TRACE] 2017-02-27 11:20:59.400 [main] ClasserLogger - Table: LIBEPC/BITAR11036
+[TRACE] 2017-02-27 11:24:22.538 [main] ClasserLogger - Added field: IDNREQ|type=i|length=10|decimals=0
+[TRACE] 2017-02-27 11:24:22.538 [main] ClasserLogger - Added field: FECREQ|type=z|length=|decimals=
+[TRACE] 2017-02-27 11:24:22.540 [main] ClasserLogger - Added field: CODAPL|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:24:22.541 [main] ClasserLogger - Added field: NOMJOB|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:24:22.542 [main] ClasserLogger - Added field: USRJOB|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:24:22.542 [main] ClasserLogger - Added field: NUMJOB|type=p|length=6|decimals=0
+[TRACE] 2017-02-27 11:24:22.543 [main] ClasserLogger - Added field: NOMPRG|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:24:22.543 [main] ClasserLogger - Added field: CANREQ|type=a|length=30|decimals=
+[TRACE] 2017-02-27 11:24:22.543 [main] ClasserLogger - Added field: NOMSVD|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:24:22.544 [main] ClasserLogger - Added field: FECRPT|type=z|length=|decimals=
+[TRACE] 2017-02-27 11:24:22.544 [main] ClasserLogger - Added field: CODERR|type=a|length=7|decimals=
+[TRACE] 2017-02-27 11:24:22.544 [main] ClasserLogger - Added field: MSGERR|type=a|length=132|decimals=
+[TRACE] 2017-02-27 11:24:22.544 [main] ClasserLogger - Added field: NUMCTA|type=p|length=9|decimals=0
+[TRACE] 2017-02-27 11:24:22.545 [main] ClasserLogger - Added field: EMLECT|type=a|length=100|decimals=
+[TRACE] 2017-02-27 11:24:22.545 [main] ClasserLogger - Added field: BANACT|type=a|length=1|decimals=
+[TRACE] 2017-02-27 11:24:22.546 [main] ClasserLogger - Added field: EDORPT|type=a|length=1|decimals=
+[TRACE] 2017-02-27 11:24:34.940 [main] ClasserLogger - /QSYS.LIB/LIBEPC.LIB/QENR004MOD.FILE/BITAR11036.MBR Writed successfully (577 records).
+[TRACE] 2017-02-27 11:24:40.127 [main] ClasserLogger - /QSYS.LIB/LIBEPC.LIB/QENR004TXT.FILE/BITAR11036.MBR Writed successfully (170 records).
+[TRACE] 2017-02-27 11:35:43.317 [main] ClasserLogger - Table: LIBEPC/BITAR11036
+[TRACE] 2017-02-27 11:36:21.395 [main] ClasserLogger - Added field: IDNREQ|type=i|length=10|decimals=0
+[TRACE] 2017-02-27 11:36:21.396 [main] ClasserLogger - Added field: FECREQ|type=z|length=|decimals=
+[TRACE] 2017-02-27 11:36:21.396 [main] ClasserLogger - Added field: CODAPL|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:36:21.396 [main] ClasserLogger - Added field: NOMJOB|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:36:21.396 [main] ClasserLogger - Added field: USRJOB|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:36:21.396 [main] ClasserLogger - Added field: NUMJOB|type=p|length=6|decimals=0
+[TRACE] 2017-02-27 11:36:21.396 [main] ClasserLogger - Added field: NOMPRG|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:36:21.396 [main] ClasserLogger - Added field: CANREQ|type=a|length=30|decimals=
+[TRACE] 2017-02-27 11:36:21.396 [main] ClasserLogger - Added field: NOMSVD|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:36:21.396 [main] ClasserLogger - Added field: FECRPT|type=z|length=|decimals=
+[TRACE] 2017-02-27 11:36:21.396 [main] ClasserLogger - Added field: CODERR|type=a|length=7|decimals=
+[TRACE] 2017-02-27 11:36:21.396 [main] ClasserLogger - Added field: MSGERR|type=a|length=132|decimals=
+[TRACE] 2017-02-27 11:36:21.396 [main] ClasserLogger - Added field: NUMCTA|type=p|length=9|decimals=0
+[TRACE] 2017-02-27 11:36:21.396 [main] ClasserLogger - Added field: EMLECT|type=a|length=100|decimals=
+[TRACE] 2017-02-27 11:36:21.396 [main] ClasserLogger - Added field: BANACT|type=a|length=1|decimals=
+[TRACE] 2017-02-27 11:36:21.397 [main] ClasserLogger - Added field: EDORPT|type=a|length=1|decimals=
+[TRACE] 2017-02-27 11:36:33.083 [main] ClasserLogger - /QSYS.LIB/LIBEPC.LIB/QENR004MOD.FILE/BITAR11036.MBR Writed successfully (577 records).
+[TRACE] 2017-02-27 11:36:39.292 [main] ClasserLogger - /QSYS.LIB/LIBEPC.LIB/QENR004TXT.FILE/BITAR11036.MBR Writed successfully (170 records).
+[TRACE] 2017-02-27 11:40:51.931 [main] ClasserLogger - Table: LIBEPC/BITAR11036
+[TRACE] 2017-02-27 11:41:06.490 [main] ClasserLogger - Added field: IDNREQ|type=i|length=10|decimals=0
+[TRACE] 2017-02-27 11:41:06.491 [main] ClasserLogger - Added field: FECREQ|type=z|length=|decimals=
+[TRACE] 2017-02-27 11:41:06.491 [main] ClasserLogger - Added field: CODAPL|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:41:06.491 [main] ClasserLogger - Added field: NOMJOB|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:41:06.491 [main] ClasserLogger - Added field: USRJOB|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:41:06.491 [main] ClasserLogger - Added field: NUMJOB|type=p|length=6|decimals=0
+[TRACE] 2017-02-27 11:41:06.491 [main] ClasserLogger - Added field: NOMPRG|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:41:06.491 [main] ClasserLogger - Added field: CANREQ|type=a|length=30|decimals=
+[TRACE] 2017-02-27 11:41:06.491 [main] ClasserLogger - Added field: NOMSVD|type=a|length=10|decimals=
+[TRACE] 2017-02-27 11:41:06.491 [main] ClasserLogger - Added field: FECRPT|type=z|length=|decimals=
+[TRACE] 2017-02-27 11:41:06.491 [main] ClasserLogger - Added field: CODERR|type=a|length=7|decimals=
+[TRACE] 2017-02-27 11:41:06.491 [main] ClasserLogger - Added field: MSGERR|type=a|length=132|decimals=
+[TRACE] 2017-02-27 11:41:06.491 [main] ClasserLogger - Added field: NUMCTA|type=p|length=9|decimals=0
+[TRACE] 2017-02-27 11:41:06.491 [main] ClasserLogger - Added field: EMLECT|type=a|length=100|decimals=
+[TRACE] 2017-02-27 11:41:06.491 [main] ClasserLogger - Added field: BANACT|type=a|length=1|decimals=
+[TRACE] 2017-02-27 11:41:06.491 [main] ClasserLogger - Added field: EDORPT|type=a|length=1|decimals=
+[TRACE] 2017-02-27 11:41:19.581 [main] ClasserLogger - /QSYS.LIB/LIBEPC.LIB/QENR004MOD.FILE/BITAR11036.MBR Writed successfully (577 records).
+[TRACE] 2017-02-27 11:41:25.894 [main] ClasserLogger - /QSYS.LIB/LIBEPC.LIB/QENR004TXT.FILE/BITAR11036.MBR Writed successfully (170 records).
+[TRACE] 2017-02-27 12:19:24.993 [main] ClasserLogger - Table: LIBEPC/BITAR11036
+[TRACE] 2017-02-27 12:19:40.081 [main] ClasserLogger - Added field: IDNREQ|type=i|length=10|decimals=0
+[TRACE] 2017-02-27 12:19:40.081 [main] ClasserLogger - Added field: FECREQ|type=z|length=|decimals=
+[TRACE] 2017-02-27 12:19:40.081 [main] ClasserLogger - Added field: CODAPL|type=a|length=10|decimals=
+[TRACE] 2017-02-27 12:19:40.081 [main] ClasserLogger - Added field: NOMJOB|type=a|length=10|decimals=
+[TRACE] 2017-02-27 12:19:40.081 [main] ClasserLogger - Added field: USRJOB|type=a|length=10|decimals=
+[TRACE] 2017-02-27 12:19:40.081 [main] ClasserLogger - Added field: NUMJOB|type=p|length=6|decimals=0
+[TRACE] 2017-02-27 12:19:40.081 [main] ClasserLogger - Added field: NOMPRG|type=a|length=10|decimals=
+[TRACE] 2017-02-27 12:19:40.081 [main] ClasserLogger - Added field: CANREQ|type=a|length=30|decimals=
+[TRACE] 2017-02-27 12:19:40.081 [main] ClasserLogger - Added field: NOMSVD|type=a|length=10|decimals=
+[TRACE] 2017-02-27 12:19:40.082 [main] ClasserLogger - Added field: FECRPT|type=z|length=|decimals=
+[TRACE] 2017-02-27 12:19:40.082 [main] ClasserLogger - Added field: CODERR|type=a|length=7|decimals=
+[TRACE] 2017-02-27 12:19:40.082 [main] ClasserLogger - Added field: MSGERR|type=a|length=132|decimals=
+[TRACE] 2017-02-27 12:19:40.082 [main] ClasserLogger - Added field: NUMCTA|type=p|length=9|decimals=0
+[TRACE] 2017-02-27 12:19:40.082 [main] ClasserLogger - Added field: EMLECT|type=a|length=100|decimals=
+[TRACE] 2017-02-27 12:19:40.082 [main] ClasserLogger - Added field: BANACT|type=a|length=1|decimals=
+[TRACE] 2017-02-27 12:19:40.082 [main] ClasserLogger - Added field: EDORPT|type=a|length=1|decimals=
+[TRACE] 2017-02-27 12:20:23.130 [main] ClasserLogger - /QSYS.LIB/LIBEPC.LIB/QENR004MOD.FILE/BITAR11036.MBR Writed successfully (577 records).
+[TRACE] 2017-02-27 12:20:28.507 [main] ClasserLogger - /QSYS.LIB/LIBEPC.LIB/QENR004TXT.FILE/BITAR11036.MBR Writed successfully (170 records).
+[TRACE] 2017-02-27 12:27:53.804 [main] ClasserLogger - Table: LIBEPC/BITAR11036
+[TRACE] 2017-02-27 12:28:08.230 [main] ClasserLogger - Added field: IDNREQ|type=i|length=10|decimals=0
+[TRACE] 2017-02-27 12:28:08.230 [main] ClasserLogger - Added field: FECREQ|type=z|length=|decimals=
+[TRACE] 2017-02-27 12:28:08.230 [main] ClasserLogger - Added field: CODAPL|type=a|length=10|decimals=
+[TRACE] 2017-02-27 12:28:08.230 [main] ClasserLogger - Added field: NOMJOB|type=a|length=10|decimals=
+[TRACE] 2017-02-27 12:28:08.230 [main] ClasserLogger - Added field: USRJOB|type=a|length=10|decimals=
+[TRACE] 2017-02-27 12:28:08.230 [main] ClasserLogger - Added field: NUMJOB|type=p|length=6|decimals=0
+[TRACE] 2017-02-27 12:28:08.230 [main] ClasserLogger - Added field: NOMPRG|type=a|length=10|decimals=
+[TRACE] 2017-02-27 12:28:08.231 [main] ClasserLogger - Added field: CANREQ|type=a|length=30|decimals=
+[TRACE] 2017-02-27 12:28:08.231 [main] ClasserLogger - Added field: NOMSVD|type=a|length=10|decimals=
+[TRACE] 2017-02-27 12:28:08.231 [main] ClasserLogger - Added field: FECRPT|type=z|length=|decimals=
+[TRACE] 2017-02-27 12:28:08.231 [main] ClasserLogger - Added field: CODERR|type=a|length=7|decimals=
+[TRACE] 2017-02-27 12:28:08.231 [main] ClasserLogger - Added field: MSGERR|type=a|length=132|decimals=
+[TRACE] 2017-02-27 12:28:08.231 [main] ClasserLogger - Added field: NUMCTA|type=p|length=9|decimals=0
+[TRACE] 2017-02-27 12:28:08.231 [main] ClasserLogger - Added field: EMLECT|type=a|length=100|decimals=
+[TRACE] 2017-02-27 12:28:08.231 [main] ClasserLogger - Added field: BANACT|type=a|length=1|decimals=
+[TRACE] 2017-02-27 12:28:08.231 [main] ClasserLogger - Added field: EDORPT|type=a|length=1|decimals=
+[TRACE] 2017-02-27 12:28:19.617 [main] ClasserLogger - /QSYS.LIB/LIBEPC.LIB/QENR004MOD.FILE/BITAR11036.MBR Writed successfully (577 records).
+[TRACE] 2017-02-27 12:28:24.574 [main] ClasserLogger - /QSYS.LIB/LIBEPC.LIB/QENR004TXT.FILE/BITAR11036.MBR Writed successfully (170 records).
+[TRACE] 2017-02-27 12:28:24.576 [main] ClasserLogger - Table: LIBEPC/BITAR11036
+[TRACE] 2017-02-27 12:28:28.050 [main] ClasserLogger - Added field: IDNREQ|type=i|length=10|decimals=0
+[TRACE] 2017-02-27 12:28:28.051 [main] ClasserLogger - Added field: FECREQ|type=z|length=|decimals=
+[TRACE] 2017-02-27 12:28:28.051 [main] ClasserLogger - Added field: CODAPL|type=a|length=10|decimals=
+[TRACE] 2017-02-27 12:28:28.051 [main] ClasserLogger - Added field: NOMJOB|type=a|length=10|decimals=
+[TRACE] 2017-02-27 12:28:28.051 [main] ClasserLogger - Added field: USRJOB|type=a|length=10|decimals=
+[TRACE] 2017-02-27 12:28:28.051 [main] ClasserLogger - Added field: NUMJOB|type=p|length=6|decimals=0
+[TRACE] 2017-02-27 12:28:28.051 [main] ClasserLogger - Added field: NOMPRG|type=a|length=10|decimals=
+[TRACE] 2017-02-27 12:28:28.051 [main] ClasserLogger - Added field: CANREQ|type=a|length=30|decimals=
+[TRACE] 2017-02-27 12:28:28.051 [main] ClasserLogger - Added field: NOMSVD|type=a|length=10|decimals=
+[TRACE] 2017-02-27 12:28:28.051 [main] ClasserLogger - Added field: FECRPT|type=z|length=|decimals=
+[TRACE] 2017-02-27 12:28:28.051 [main] ClasserLogger - Added field: CODERR|type=a|length=7|decimals=
+[TRACE] 2017-02-27 12:28:28.051 [main] ClasserLogger - Added field: MSGERR|type=a|length=132|decimals=
+[TRACE] 2017-02-27 12:28:28.051 [main] ClasserLogger - Added field: NUMCTA|type=p|length=9|decimals=0
+[TRACE] 2017-02-27 12:28:28.051 [main] ClasserLogger - Added field: EMLECT|type=a|length=100|decimals=
+[TRACE] 2017-02-27 12:28:28.051 [main] ClasserLogger - Added field: BANACT|type=a|length=1|decimals=
+[TRACE] 2017-02-27 12:28:28.051 [main] ClasserLogger - Added field: EDORPT|type=a|length=1|decimals=
+[TRACE] 2017-02-27 12:28:41.122 [main] ClasserLogger - /QSYS.LIB/LIBEPC.LIB/QENR004MOD.FILE/BITAR11036.MBR Writed successfully (577 records).
+[TRACE] 2017-02-27 12:28:45.961 [main] ClasserLogger - /QSYS.LIB/LIBEPC.LIB/QENR004TXT.FILE/BITAR11036.MBR Writed successfully (170 records).

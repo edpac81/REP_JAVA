@@ -1,0 +1,8 @@
+name,type,length,decimals,isKey
+accountNumber,s,9,0,false
+timestampTransaccion,z,,,false
+atmNumber,s,6,0,false
+atmSequence,s,6,0,false
+atmReference,s,11,0,false
+depositAmount,s,15,2,false
+depositCurrency,a,3,,false

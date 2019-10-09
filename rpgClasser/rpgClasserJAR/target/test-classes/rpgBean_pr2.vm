@@ -1,0 +1,113 @@
+## *************************** 
+## GLOBALS
+## ***************************
+#set($beanType = $bean.name + "Type")
+#set($likeTypeKW = "like("+${beanType}+") const")
+#set($likeTypeKW2 = "like("+${beanType}+")")
+#set($localBean = "v"+$utils.getMethodName($bean.name))
+#set($localRef = "p"+$utils.getMethodName($bean.name))
+#set( $keywords =  "template inz(*null)")
+#set($rpgMemberName = $bean.getRpgMember().getMemberName())
+#set($defined = $bean.name+"_INC")
+##
+#macro(procSpecs $procName $rType $rLen $rDec $rKW)
+#set($fullPrName = $rpgMemberName+"_"+$procName)
+     $utils.getDspecs($fullPrName,$rType,$rLen,$rDec,"pr",$rKW)
+#end
+      /if defined ($defined)
+      /eof
+      /else 
+      /define $defined
+      /endif
+
+     $utils.getDspecs($beanType,"*","","","s",$keywords)
+##
+## *************************** 
+## CONSTRUCTOR
+## ***************************
+     
+#procSpecs("new" "" "" "" "")
+     $utils.getDspecs($localRef,"","","","@p",$likeTypeKW2)
+##
+## *************************** 
+## SELECT FOR KEY FIELDS 
+## ***************************
+#if($bean.isIncludeIsOnFile())
+
+#procSpecs("isOnFile" "n" "" "" "")
+     $utils.getDspecs($localRef,"","","","@p",$likeTypeKW)
+#foreach( $field in $bean.getKeyFields() )
+#set( $parmName = "p" + $utils.getMethodName( $field.getName() ) )
+     $utils.getDspecs($parmName,$field.getType(),$field.getLength(),$field.getDecimals(),"@p","const")
+#end
+#end
+## *************************** 
+## SELECT FOR KEY FIELDS 
+## ***************************
+#if($bean.isIncludeSelect())
+
+#procSpecs("getRecord" "n" "" "" "")
+     $utils.getDspecs($localRef,"","","","@p",$likeTypeKW)
+#foreach( $field in $bean.getKeyFields() )
+#set( $parmName = "p" + $utils.getMethodName( $field.getName() ) )
+     $utils.getDspecs($parmName,$field.getType(),$field.getLength(),$field.getDecimals(),"@p","const")
+#end  
+#end
+## 
+## ***************************
+## INSERT
+## ***************************
+#if($bean.isIncludeInsert())
+
+#procSpecs("insert" "n" "" "" "")
+     $utils.getDspecs($localRef,"","","","@p",$likeTypeKW)
+#end
+##
+## ***************************
+## UPDATE    
+## ***************************
+#if($bean.isIncludeUpdate())
+
+#procSpecs("update" "n" "" "" "")
+     $utils.getDspecs($localRef,"","","","@p",$likeTypeKW)
+#end
+##
+## ***************************
+## DELETE    
+## ***************************
+#if($bean.isIncludeDelete())
+
+#procSpecs("delete" "n" "" "" "")
+     $utils.getDspecs($localRef,"","","","@p",$likeTypeKW)
+#end
+
+## 
+## ***************************
+## SETTERS
+## ***************************
+#if($bean.isIncludeSetters())
+#foreach( $field in $bean.getFields() )
+#procSpecs($utils.getMethodName("set", $field.name ) "" "" "" "")
+     $utils.getDspecs($localRef,"","","","@p",$likeTypeKW)
+#set( $parmName = "p" + $utils.getMethodName( $field.getName() ) )
+     $utils.getDspecs($parmName,$field.getType(),$field.getLength(),$field.getDecimals(),"@p","const")    
+     
+#end
+#end
+##
+## ***************************
+## GETTERS
+## ***************************
+#if($bean.isIncludeGetters())
+#foreach( $field in $bean.getFields() )    
+#if( $field.getType().equals( "n" ) )
+## Booleans should start with is
+#procSpecs($utils.getMethodName("is", $field.name ) $field.getType() $field.getLength() $field.getDecimals() "")
+#else
+## Non-booleans should start with get
+#procSpecs($utils.getMethodName("get", $field.name ) $field.getType() $field.getLength() $field.getDecimals() "")
+#end
+     $utils.getDspecs($localRef,"","","","@p",$likeTypeKW)
+     
+#end
+#end

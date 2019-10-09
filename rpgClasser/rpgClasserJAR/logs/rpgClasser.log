@@ -1,0 +1,1035 @@
+[TRACE] 2018-10-10 09:22:09.829 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 09:22:09.898 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 09:22:09.905 [main] CSVInputReader - CSV File Input 
+[TRACE] 2018-10-10 09:22:09.921 [main] CSVInputReader - DAOModel_CIFPAR Added field: legalType|type=char|length=1|decimals=
+[TRACE] 2018-10-10 09:22:09.922 [main] CSVInputReader - DAOModel_CIFPAR Added field: residencyCountryCode|type=char|length=3|decimals=
+[TRACE] 2018-10-10 09:22:09.922 [main] CSVInputReader - DAOModel_CIFPAR Added field: homePhoneNumber|type=zoned|length=11|decimals=
+[TRACE] 2018-10-10 09:22:09.922 [main] CSVInputReader - DAOModel_CIFPAR Added field: birthDate|type=date|length=|decimals=
+[TRACE] 2018-10-10 09:22:21.183 [main] MemberWritter - OutFile /QSYS.LIB/LIBEPC.LIB/QCIF001MOD.FILE/CIFPAR.MBR Writed successfully (103 records).
+[TRACE] 2018-10-10 09:22:25.715 [main] MemberWritter - OutFile /QSYS.LIB/LIBEPC.LIB/QCIF001TXT.FILE/CIFPAR.MBR Writed successfully (49 records).
+[TRACE] 2018-10-10 09:22:25.715 [main] DAOInterface - DAOController finished.
+[TRACE] 2018-10-10 11:07:17.440 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 11:07:17.476 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 11:07:17.478 [main] CSVInputReader - CSV File Input 
+[TRACE] 2018-10-10 11:07:17.486 [main] CSVInputReader - DAOModel_CIFPAR2 Added field: legalType|type=char|length=1|decimals=
+[TRACE] 2018-10-10 11:07:17.486 [main] CSVInputReader - DAOModel_CIFPAR2 Added field: residencyCountryCode|type=char|length=3|decimals=
+[TRACE] 2018-10-10 11:07:17.486 [main] CSVInputReader - DAOModel_CIFPAR2 Added field: homePhoneNumber|type=zoned|length=11|decimals=
+[TRACE] 2018-10-10 11:07:17.486 [main] CSVInputReader - DAOModel_CIFPAR2 Added field: birthDate|type=date|length=|decimals=
+[TRACE] 2018-10-10 11:07:28.291 [main] MemberWritter - OutFile /QSYS.LIB/LIBEPC.LIB/QCIF001MOD.FILE/CIFPAR2.MBR Writed successfully (103 records).
+[TRACE] 2018-10-10 11:07:33.263 [main] MemberWritter - OutFile /QSYS.LIB/LIBEPC.LIB/QCIF001TXT.FILE/CIFPAR2.MBR Writed successfully (49 records).
+[TRACE] 2018-10-10 11:07:33.263 [main] DAOInterface - DAOController finished.
+[TRACE] 2018-10-10 11:10:05.519 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 11:10:05.546 [main] TableInputReader - Table Input: LIBEPC/BITAR11036
+[TRACE] 2018-10-10 11:10:05.546 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 11:10:11.914 [main] TableInputReader - DAOModel_BITAR11036 Added field: IDNREQ|type=i|length=10|decimals=0
+[TRACE] 2018-10-10 11:10:11.914 [main] TableInputReader - DAOModel_BITAR11036 Added field: FECREQ|type=z|length=|decimals=
+[TRACE] 2018-10-10 11:10:11.915 [main] TableInputReader - DAOModel_BITAR11036 Added field: CODAPL|type=a|length=10|decimals=
+[TRACE] 2018-10-10 11:10:11.915 [main] TableInputReader - DAOModel_BITAR11036 Added field: NOMJOB|type=a|length=10|decimals=
+[TRACE] 2018-10-10 11:10:11.915 [main] TableInputReader - DAOModel_BITAR11036 Added field: USRJOB|type=a|length=10|decimals=
+[TRACE] 2018-10-10 11:10:11.915 [main] TableInputReader - DAOModel_BITAR11036 Added field: NUMJOB|type=p|length=6|decimals=0
+[TRACE] 2018-10-10 11:10:11.915 [main] TableInputReader - DAOModel_BITAR11036 Added field: NOMPRG|type=a|length=10|decimals=
+[TRACE] 2018-10-10 11:10:11.915 [main] TableInputReader - DAOModel_BITAR11036 Added field: CANREQ|type=a|length=30|decimals=
+[TRACE] 2018-10-10 11:10:11.915 [main] TableInputReader - DAOModel_BITAR11036 Added field: NOMSVD|type=a|length=10|decimals=
+[TRACE] 2018-10-10 11:10:11.915 [main] TableInputReader - DAOModel_BITAR11036 Added field: FECRPT|type=z|length=|decimals=
+[TRACE] 2018-10-10 11:10:11.916 [main] TableInputReader - DAOModel_BITAR11036 Added field: CODERR|type=a|length=7|decimals=
+[TRACE] 2018-10-10 11:10:11.916 [main] TableInputReader - DAOModel_BITAR11036 Added field: MSGERR|type=a|length=132|decimals=
+[TRACE] 2018-10-10 11:10:11.916 [main] TableInputReader - DAOModel_BITAR11036 Added field: NUMCTA|type=p|length=9|decimals=0
+[TRACE] 2018-10-10 11:10:11.916 [main] TableInputReader - DAOModel_BITAR11036 Added field: EMLECT|type=a|length=100|decimals=
+[TRACE] 2018-10-10 11:10:11.916 [main] TableInputReader - DAOModel_BITAR11036 Added field: BANACT|type=a|length=1|decimals=
+[TRACE] 2018-10-10 11:10:11.916 [main] TableInputReader - DAOModel_BITAR11036 Added field: EDORPT|type=a|length=1|decimals=
+[ERROR] 2018-10-10 11:10:19.781 [main] DAOInterface - DAOController failed.
+com.ibm.as400.access.ExtendedIllegalArgumentException: javaValue (  return exists;                                                                                                                                        ): Length is not valid.
+	at com.ibm.as400.access.AS400Text.toBytes(AS400Text.java:425) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400Text.toBytes(AS400Text.java:347) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.Record.setField(Record.java:1616) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.output.MemberWritter.writeRecords(MemberWritter.java:60) ~[classes/:?]
+	at com.output.DAOMemberWriter.writeDAO(DAOMemberWriter.java:32) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:50) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:138) [classes/:?]
+	at test.TestRPGDAO.test_01_ConstructorWithOpn(TestRPGDAO.java:35) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+[TRACE] 2018-10-10 11:13:06.637 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 11:13:06.658 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 11:13:06.658 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 11:13:11.606 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=a|length=10|decimals=
+[TRACE] 2018-10-10 11:13:11.607 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=a|length=10|decimals=
+[TRACE] 2018-10-10 11:13:11.641 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=a|length=10|decimals=
+[TRACE] 2018-10-10 11:13:11.641 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=a|length=10|decimals=
+[TRACE] 2018-10-10 11:13:11.641 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=a|length=255|decimals=
+[TRACE] 2018-10-10 11:13:11.641 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=a|length=18|decimals=
+[TRACE] 2018-10-10 11:13:11.641 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=z|length=|decimals=
+[TRACE] 2018-10-10 11:13:11.641 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=a|length=18|decimals=
+[TRACE] 2018-10-10 11:13:11.642 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=z|length=|decimals=
+[TRACE] 2018-10-10 11:13:11.785 [main] DAOInterface - DAOController finished.
+[TRACE] 2018-10-10 11:20:22.871 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 11:20:22.897 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 11:20:22.897 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 11:20:27.264 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:20:27.265 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:20:27.297 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:20:27.297 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:20:27.298 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 11:20:27.298 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:20:27.299 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:20:27.299 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:20:27.299 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:20:27.438 [main] DAOInterface - DAOController finished.
+[TRACE] 2018-10-10 11:23:54.737 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 11:23:54.762 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 11:23:54.762 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 11:24:00.201 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:24:00.201 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:24:00.213 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:24:00.213 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:24:00.213 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 11:24:00.213 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:24:00.213 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:24:00.213 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:24:00.213 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:24:00.346 [main] DAOInterface - DAOController finished.
+[TRACE] 2018-10-10 11:28:40.266 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 11:28:40.288 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 11:28:40.288 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 11:28:45.305 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:28:45.305 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:28:45.343 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:28:45.344 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:28:45.344 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 11:28:45.344 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:28:45.344 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:28:45.344 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:28:45.344 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:28:45.484 [main] DAOInterface - DAOController finished.
+[TRACE] 2018-10-10 11:31:43.424 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 11:31:43.446 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 11:31:43.446 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 11:31:48.086 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:31:48.087 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:31:48.113 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:31:48.113 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:31:48.113 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 11:31:48.113 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:31:48.114 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:31:48.114 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:31:48.114 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:31:48.255 [main] DAOInterface - DAOController finished.
+[TRACE] 2018-10-10 11:33:01.436 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 11:33:01.457 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 11:33:01.458 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 11:33:05.961 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:33:05.961 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:33:05.975 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:33:05.975 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:33:05.975 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 11:33:05.975 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:33:05.975 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:33:05.975 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:33:05.975 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:33:06.117 [main] DAOInterface - DAOController finished.
+[TRACE] 2018-10-10 11:33:35.195 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 11:33:35.220 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 11:33:35.220 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 11:33:44.125 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:33:44.125 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:33:44.159 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:33:44.160 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:33:44.160 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 11:33:44.160 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:33:44.160 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:33:44.160 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:33:44.160 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:33:44.316 [main] DAOInterface - DAOController finished.
+[TRACE] 2018-10-10 11:34:59.872 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 11:34:59.896 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 11:34:59.896 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 11:35:05.944 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:35:05.944 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:35:05.957 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:35:05.957 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:35:05.957 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 11:35:05.957 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:35:05.957 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:35:05.957 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:35:05.957 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:35:06.103 [main] DAOInterface - DAOController finished.
+[TRACE] 2018-10-10 11:37:41.305 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 11:37:41.332 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 11:37:41.332 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 11:37:49.044 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:37:49.044 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:37:49.059 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:37:49.059 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:37:49.059 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 11:37:49.060 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:37:49.060 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:37:49.060 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:37:49.060 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:37:49.195 [main] DAOInterface - DAOController finished.
+[TRACE] 2018-10-10 11:39:22.774 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 11:39:22.804 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 11:39:22.804 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 11:39:27.250 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:39:27.250 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:39:27.292 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:39:27.293 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 11:39:27.293 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 11:39:27.293 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:39:27.293 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:39:27.293 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 11:39:27.293 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 11:39:27.439 [main] DAOInterface - DAOController finished.
+[TRACE] 2018-10-10 12:07:08.480 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 12:07:08.501 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 12:07:08.501 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 12:07:15.435 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 12:07:15.436 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 12:07:15.471 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 12:07:15.472 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 12:07:15.472 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 12:07:15.472 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 12:07:15.472 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 12:07:15.472 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 12:07:15.472 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[ERROR] 2018-10-10 12:07:52.722 [main] DAOInterface - DAOController failed.
+com.ibm.as400.access.ExtendedIllegalArgumentException: javaValue (  return exists;                                                                                                                                        ): Length is not valid.
+	at com.ibm.as400.access.AS400Text.toBytes(AS400Text.java:425) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400Text.toBytes(AS400Text.java:347) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.Record.setField(Record.java:1616) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.output.MemberWritter.writeRecords(MemberWritter.java:60) ~[classes/:?]
+	at com.output.DAOMemberWriter.writeDAO(DAOMemberWriter.java:32) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:50) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:138) [classes/:?]
+	at test.TestRPGDAO.test_01_ConstructorWithOpn(TestRPGDAO.java:35) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+[TRACE] 2018-10-10 12:09:10.318 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 12:09:10.343 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 12:09:10.343 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 12:09:23.281 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 12:09:23.282 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 12:09:23.306 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 12:09:23.306 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 12:09:23.306 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 12:09:23.306 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 12:09:23.307 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 12:09:23.307 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 12:09:23.307 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[ERROR] 2018-10-10 12:18:00.962 [main] DAOInterface - DAOController failed.
+com.ibm.as400.access.ExtendedIllegalArgumentException: javaValue (  return exists;                                                                                                                                        ): Length is not valid.
+	at com.ibm.as400.access.AS400Text.toBytes(AS400Text.java:425) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400Text.toBytes(AS400Text.java:347) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.Record.setField(Record.java:1616) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.output.MemberWritter.writeRecords(MemberWritter.java:60) ~[classes/:?]
+	at com.output.DAOMemberWriter.writeDAO(DAOMemberWriter.java:32) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:50) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:138) [classes/:?]
+	at test.TestRPGDAO.test_01_ConstructorWithOpn(TestRPGDAO.java:35) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+[TRACE] 2018-10-10 12:22:46.263 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 12:22:46.287 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 12:22:46.287 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 12:22:56.242 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 12:22:56.243 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 12:22:56.268 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 12:22:56.268 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 12:22:56.268 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 12:22:56.268 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 12:22:56.269 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 12:22:56.269 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 12:22:56.269 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[ERROR] 2018-10-10 12:25:18.006 [main] DAOInterface - DAOController failed.
+com.ibm.as400.access.ExtendedIllegalArgumentException: javaValue (  return exists;                                                                                                                                        ): Length is not valid.
+	at com.ibm.as400.access.AS400Text.toBytes(AS400Text.java:425) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400Text.toBytes(AS400Text.java:347) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.Record.setField(Record.java:1616) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.output.MemberWritter.writeRecords(MemberWritter.java:60) ~[classes/:?]
+	at com.output.DAOMemberWriter.writeDAO(DAOMemberWriter.java:32) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:50) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:138) [classes/:?]
+	at test.TestRPGDAO.test_01_ConstructorWithOpn(TestRPGDAO.java:35) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+[TRACE] 2018-10-10 12:26:22.860 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 12:26:22.881 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 12:26:22.881 [main] DAOInterface - Objects builded.
+[ERROR] 2018-10-10 12:26:22.932 [main] DAOInterface - DAOController failed.
+java.net.SocketException: Permission denied: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[?:1.8.0_60]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79) ~[?:1.8.0_60]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_60]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_60]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_60]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_60]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_60]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at com.ibm.as400.access.PortMapper.getSocketConnection(PortMapper.java:259) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.PortMapper.getServerSocket(PortMapper.java:160) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400ImplRemote.signonConnect(AS400ImplRemote.java:2275) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400ImplRemote.signon(AS400ImplRemote.java:2193) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.sendSignonRequest(AS400.java:2885) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.promptSignon(AS400.java:2474) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.signon(AS400.java:3760) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400FileRecordDescription.chooseImpl(AS400FileRecordDescription.java:214) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400FileRecordDescription.retrieveRecordFormat(AS400FileRecordDescription.java:487) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.input.TableInputReader.loadModel(TableInputReader.java:41) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:38) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:138) [classes/:?]
+	at test.TestRPGDAO.test_01_ConstructorWithOpn(TestRPGDAO.java:35) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+[TRACE] 2018-10-10 12:26:43.057 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 12:26:43.078 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 12:26:43.078 [main] DAOInterface - Objects builded.
+[ERROR] 2018-10-10 12:26:43.127 [main] DAOInterface - DAOController failed.
+java.net.SocketException: Permission denied: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[?:1.8.0_60]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79) ~[?:1.8.0_60]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_60]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_60]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_60]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_60]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_60]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at com.ibm.as400.access.PortMapper.getSocketConnection(PortMapper.java:259) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.PortMapper.getServerSocket(PortMapper.java:160) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400ImplRemote.signonConnect(AS400ImplRemote.java:2275) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400ImplRemote.signon(AS400ImplRemote.java:2193) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.sendSignonRequest(AS400.java:2885) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.promptSignon(AS400.java:2474) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.signon(AS400.java:3760) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400FileRecordDescription.chooseImpl(AS400FileRecordDescription.java:214) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400FileRecordDescription.retrieveRecordFormat(AS400FileRecordDescription.java:487) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.input.TableInputReader.loadModel(TableInputReader.java:41) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:38) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:138) [classes/:?]
+	at test.TestRPGDAO.test_01_ConstructorWithOpn(TestRPGDAO.java:35) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+[TRACE] 2018-10-10 12:27:26.800 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 12:27:26.824 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 12:27:26.825 [main] DAOInterface - Objects builded.
+[ERROR] 2018-10-10 12:27:36.336 [main] DAOInterface - DAOController failed.
+java.net.SocketException: Permission denied: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[?:1.8.0_60]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79) ~[?:1.8.0_60]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_60]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_60]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_60]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_60]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_60]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at com.ibm.as400.access.PortMapper.getSocketConnection(PortMapper.java:259) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.PortMapper.getServerSocket(PortMapper.java:160) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400ImplRemote.signonConnect(AS400ImplRemote.java:2275) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400ImplRemote.signon(AS400ImplRemote.java:2193) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.sendSignonRequest(AS400.java:2885) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.promptSignon(AS400.java:2474) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.signon(AS400.java:3760) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400FileRecordDescription.chooseImpl(AS400FileRecordDescription.java:214) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400FileRecordDescription.retrieveRecordFormat(AS400FileRecordDescription.java:487) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.input.TableInputReader.loadModel(TableInputReader.java:41) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:38) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:138) [classes/:?]
+	at test.TestRPGDAO.test_01_ConstructorWithOpn(TestRPGDAO.java:35) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+[TRACE] 2018-10-10 13:59:24.856 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 13:59:24.895 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 13:59:24.895 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 13:59:30.698 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 13:59:30.699 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 13:59:30.735 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 13:59:30.735 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 13:59:30.736 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 13:59:30.736 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 13:59:30.736 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 13:59:30.736 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 13:59:30.736 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[ERROR] 2018-10-10 13:59:37.893 [main] DAOInterface - DAOController failed.
+com.ibm.as400.access.ExtendedIllegalArgumentException: javaValue (  return exists;                                                                                                                                        ): Length is not valid.
+	at com.ibm.as400.access.AS400Text.toBytes(AS400Text.java:425) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400Text.toBytes(AS400Text.java:347) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.Record.setField(Record.java:1616) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.output.MemberWritter.writeRecords(MemberWritter.java:60) ~[classes/:?]
+	at com.output.DAOMemberWriter.writeDAO(DAOMemberWriter.java:32) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:50) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:138) [classes/:?]
+	at test.TestRPGDAO.test_01_ConstructorWithOpn(TestRPGDAO.java:35) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+[TRACE] 2018-10-10 14:00:48.814 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 14:00:48.838 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 14:00:48.839 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 14:00:58.486 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:00:58.487 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:00:58.512 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:00:58.513 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:00:58.513 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 14:00:58.513 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 14:00:58.513 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 14:00:58.513 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 14:00:58.513 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[ERROR] 2018-10-10 14:02:19.917 [main] DAOInterface - DAOController failed.
+com.ibm.as400.access.ExtendedIllegalArgumentException: javaValue (  return exists;                                                                                                                                        ): Length is not valid.
+	at com.ibm.as400.access.AS400Text.toBytes(AS400Text.java:425) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400Text.toBytes(AS400Text.java:347) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.Record.setField(Record.java:1616) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.output.MemberWritter.writeRecords(MemberWritter.java:60) ~[classes/:?]
+	at com.output.DAOMemberWriter.writeDAO(DAOMemberWriter.java:32) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:50) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:138) [classes/:?]
+	at test.TestRPGDAO.test_01_ConstructorWithOpn(TestRPGDAO.java:35) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+[TRACE] 2018-10-10 14:03:07.125 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 14:03:07.149 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 14:03:07.150 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 14:03:14.896 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:03:14.896 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:03:14.927 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:03:14.927 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:03:14.927 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 14:03:14.927 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 14:03:14.927 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 14:03:14.928 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 14:03:14.928 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[ERROR] 2018-10-10 14:04:08.917 [main] DAOInterface - DAOController failed.
+com.ibm.as400.access.ExtendedIllegalArgumentException: javaValue (  return exists;                                                                                                                                        ): Length is not valid.
+	at com.ibm.as400.access.AS400Text.toBytes(AS400Text.java:425) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400Text.toBytes(AS400Text.java:347) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.Record.setField(Record.java:1616) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.output.MemberWritter.writeRecords(MemberWritter.java:60) ~[classes/:?]
+	at com.output.DAOMemberWriter.writeDAO(DAOMemberWriter.java:32) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:50) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:138) [classes/:?]
+	at test.TestRPGDAO.test_01_ConstructorWithOpn(TestRPGDAO.java:35) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+[TRACE] 2018-10-10 14:04:54.480 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 14:04:54.504 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 14:04:54.505 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 14:04:59.409 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:04:59.409 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:04:59.444 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:04:59.444 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:04:59.444 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 14:04:59.444 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 14:04:59.444 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 14:04:59.444 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 14:04:59.444 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[ERROR] 2018-10-10 14:08:43.043 [main] DAOInterface - DAOController failed.
+com.ibm.as400.access.ExtendedIllegalArgumentException: javaValue (  return exists;                                                                                                                                        ): Length is not valid.
+	at com.ibm.as400.access.AS400Text.toBytes(AS400Text.java:425) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400Text.toBytes(AS400Text.java:347) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.Record.setField(Record.java:1616) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.output.MemberWritter.writeRecords(MemberWritter.java:60) ~[classes/:?]
+	at com.output.DAOMemberWriter.writeDAO(DAOMemberWriter.java:32) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:50) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:138) [classes/:?]
+	at test.TestRPGDAO.test_01_ConstructorWithOpn(TestRPGDAO.java:35) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+[TRACE] 2018-10-10 14:08:48.778 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 14:08:48.801 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 14:08:48.801 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 14:08:53.492 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:08:53.492 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:08:53.528 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:08:53.528 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:08:53.529 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 14:08:53.529 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 14:08:53.529 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 14:08:53.529 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 14:08:53.529 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 14:14:14.347 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 14:14:14.373 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 14:14:14.374 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 14:14:19.302 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:14:19.303 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:14:19.336 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:14:19.336 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:14:19.337 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 14:14:19.337 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 14:14:19.337 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 14:14:19.337 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 14:14:19.337 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 14:14:31.233 [main] MemberWritter - OutFile /QSYS.LIB/LIBEPC.LIB/QCIF001MOD.FILE/ALEATABMNI.MBR Writed successfully (346 records).
+[TRACE] 2018-10-10 14:14:37.112 [main] MemberWritter - OutFile /QSYS.LIB/LIBEPC.LIB/QCIF001TXT.FILE/ALEATABMNI.MBR Writed successfully (118 records).
+[TRACE] 2018-10-10 14:14:37.112 [main] DAOInterface - DAOController finished.
+[TRACE] 2018-10-10 14:16:48.295 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 14:16:48.318 [main] TableInputReader - Table Input: LIBEPC/ALEATABMNI
+[TRACE] 2018-10-10 14:16:48.318 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 14:16:53.325 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)BIBTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:16:53.325 [main] TableInputReader - DAOModel_ALEATABMNI Added field: (K)NOMTAB|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:16:53.352 [main] TableInputReader - DAOModel_ALEATABMNI Added field: BIBPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:16:53.352 [main] TableInputReader - DAOModel_ALEATABMNI Added field: NOMPRG|type=char|length=10|decimals=
+[TRACE] 2018-10-10 14:16:53.352 [main] TableInputReader - DAOModel_ALEATABMNI Added field: MTDPRS|type=char|length=255|decimals=
+[TRACE] 2018-10-10 14:16:53.353 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USIREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 14:16:53.353 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEIREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 14:16:53.353 [main] TableInputReader - DAOModel_ALEATABMNI Added field: USMREG|type=char|length=18|decimals=
+[TRACE] 2018-10-10 14:16:53.353 [main] TableInputReader - DAOModel_ALEATABMNI Added field: FEMREG|type=timestamp|length=|decimals=
+[TRACE] 2018-10-10 14:17:04.664 [main] MemberWritter - OutFile /QSYS.LIB/LIBEPC.LIB/QCIF001MOD.FILE/ALEATABMNI.MBR Writed successfully (346 records).
+[TRACE] 2018-10-10 14:17:11.653 [main] MemberWritter - OutFile /QSYS.LIB/LIBEPC.LIB/QCIF001TXT.FILE/ALEATABMNI.MBR Writed successfully (118 records).
+[TRACE] 2018-10-10 14:17:11.654 [main] DAOInterface - DAOController finished.
+[TRACE] 2018-10-10 18:09:34.307 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 18:09:34.342 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 18:09:34.343 [main] CSVInputReader - CSV File Input 
+[TRACE] 2018-10-10 18:09:34.348 [main] CSVInputReader - DAOModel_EXACLS Added field: legalType|type=char|length=1|decimals=
+[TRACE] 2018-10-10 18:09:34.348 [main] CSVInputReader - DAOModel_EXACLS Added field: residencyCountryCode|type=char|length=3|decimals=
+[TRACE] 2018-10-10 18:09:34.348 [main] CSVInputReader - DAOModel_EXACLS Added field: homePhoneNumber|type=zoned|length=11|decimals=
+[TRACE] 2018-10-10 18:09:34.348 [main] CSVInputReader - DAOModel_EXACLS Added field: birthDate|type=date|length=|decimals=
+[ERROR] 2018-10-10 18:09:34.490 [main] DAOInterface - DAOController failed.
+java.lang.NullPointerException
+	at com.output.MemberWritter.validateFile(MemberWritter.java:82) ~[classes/:?]
+	at com.output.MemberWritter.writeRecords(MemberWritter.java:47) ~[classes/:?]
+	at com.output.DAOMemberWriter.writeDAO(DAOMemberWriter.java:32) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:50) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:153) [classes/:?]
+	at test.TestRPGDAO.test_05_csv(TestRPGDAO.java:172) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+[TRACE] 2018-10-10 18:10:45.646 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 18:11:40.866 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 18:11:42.067 [main] CSVInputReader - CSV File Input 
+[TRACE] 2018-10-10 18:11:42.107 [main] CSVInputReader - DAOModel_EXACLS Added field: legalType|type=char|length=1|decimals=
+[TRACE] 2018-10-10 18:11:42.108 [main] CSVInputReader - DAOModel_EXACLS Added field: residencyCountryCode|type=char|length=3|decimals=
+[TRACE] 2018-10-10 18:11:42.109 [main] CSVInputReader - DAOModel_EXACLS Added field: homePhoneNumber|type=zoned|length=11|decimals=
+[TRACE] 2018-10-10 18:11:42.110 [main] CSVInputReader - DAOModel_EXACLS Added field: birthDate|type=date|length=|decimals=
+[ERROR] 2018-10-10 18:11:42.715 [main] DAOInterface - DAOController failed.
+java.lang.NullPointerException
+	at com.output.MemberWritter.validateFile(MemberWritter.java:82) ~[classes/:?]
+	at com.output.MemberWritter.writeRecords(MemberWritter.java:47) ~[classes/:?]
+	at com.output.DAOMemberWriter.writeDAO(DAOMemberWriter.java:32) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:50) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:153) [classes/:?]
+	at test.TestRPGDAO.test_05_csv(TestRPGDAO.java:172) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+[TRACE] 2018-10-10 18:12:40.398 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 18:12:51.922 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 18:12:58.216 [main] CSVInputReader - CSV File Input 
+[TRACE] 2018-10-10 18:12:58.227 [main] CSVInputReader - DAOModel_EXACLS Added field: legalType|type=char|length=1|decimals=
+[TRACE] 2018-10-10 18:12:58.228 [main] CSVInputReader - DAOModel_EXACLS Added field: residencyCountryCode|type=char|length=3|decimals=
+[TRACE] 2018-10-10 18:12:58.228 [main] CSVInputReader - DAOModel_EXACLS Added field: homePhoneNumber|type=zoned|length=11|decimals=
+[TRACE] 2018-10-10 18:12:58.228 [main] CSVInputReader - DAOModel_EXACLS Added field: birthDate|type=date|length=|decimals=
+[ERROR] 2018-10-10 18:15:15.078 [main] DAOInterface - DAOController failed.
+java.lang.NullPointerException
+	at com.output.MemberWritter.validateFile(MemberWritter.java:82) ~[classes/:?]
+	at com.output.MemberWritter.writeRecords(MemberWritter.java:47) ~[classes/:?]
+	at com.output.DAOMemberWriter.writeDAO(DAOMemberWriter.java:32) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:50) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:153) [classes/:?]
+	at test.TestRPGDAO.test_05_csv(TestRPGDAO.java:172) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+[TRACE] 2018-10-10 18:15:51.079 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 18:15:51.114 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 18:15:51.116 [main] CSVInputReader - CSV File Input 
+[TRACE] 2018-10-10 18:15:51.122 [main] CSVInputReader - DAOModel_EXACLS Added field: legalType|type=char|length=1|decimals=
+[TRACE] 2018-10-10 18:15:51.122 [main] CSVInputReader - DAOModel_EXACLS Added field: residencyCountryCode|type=char|length=3|decimals=
+[TRACE] 2018-10-10 18:15:51.122 [main] CSVInputReader - DAOModel_EXACLS Added field: homePhoneNumber|type=zoned|length=11|decimals=
+[TRACE] 2018-10-10 18:15:51.123 [main] CSVInputReader - DAOModel_EXACLS Added field: birthDate|type=date|length=|decimals=
+[TRACE] 2018-10-10 18:16:39.011 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 18:16:39.064 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 18:16:39.066 [main] CSVInputReader - CSV File Input 
+[TRACE] 2018-10-10 18:16:39.073 [main] CSVInputReader - DAOModel_EXACLS Added field: legalType|type=char|length=1|decimals=
+[TRACE] 2018-10-10 18:16:39.074 [main] CSVInputReader - DAOModel_EXACLS Added field: residencyCountryCode|type=char|length=3|decimals=
+[TRACE] 2018-10-10 18:16:39.074 [main] CSVInputReader - DAOModel_EXACLS Added field: homePhoneNumber|type=zoned|length=11|decimals=
+[TRACE] 2018-10-10 18:16:39.074 [main] CSVInputReader - DAOModel_EXACLS Added field: birthDate|type=date|length=|decimals=
+[TRACE] 2018-10-10 18:17:59.032 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 18:17:59.076 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 18:17:59.077 [main] CSVInputReader - CSV File Input 
+[TRACE] 2018-10-10 18:17:59.082 [main] CSVInputReader - DAOModel_EXACLS Added field: legalType|type=char|length=1|decimals=
+[TRACE] 2018-10-10 18:17:59.082 [main] CSVInputReader - DAOModel_EXACLS Added field: residencyCountryCode|type=char|length=3|decimals=
+[TRACE] 2018-10-10 18:17:59.082 [main] CSVInputReader - DAOModel_EXACLS Added field: homePhoneNumber|type=zoned|length=11|decimals=
+[TRACE] 2018-10-10 18:17:59.082 [main] CSVInputReader - DAOModel_EXACLS Added field: birthDate|type=date|length=|decimals=
+[TRACE] 2018-10-10 18:22:49.358 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 18:23:40.951 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 18:24:42.963 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 18:24:43.724 [main] CSVInputReader - CSV File Input 
+[TRACE] 2018-10-10 18:24:43.756 [main] CSVInputReader - DAOModel_EXACLS Added field: legalType|type=char|length=1|decimals=
+[TRACE] 2018-10-10 18:24:43.757 [main] CSVInputReader - DAOModel_EXACLS Added field: residencyCountryCode|type=char|length=3|decimals=
+[TRACE] 2018-10-10 18:24:43.757 [main] CSVInputReader - DAOModel_EXACLS Added field: homePhoneNumber|type=zoned|length=11|decimals=
+[TRACE] 2018-10-10 18:24:43.757 [main] CSVInputReader - DAOModel_EXACLS Added field: birthDate|type=date|length=|decimals=
+[TRACE] 2018-10-10 18:25:00.248 [main] MemberWritter - OutFile /QSYS.LIB/LIBEPC.LIB/QCIF001MOD.FILE/EXACLS.MBR Writed successfully (103 records).
+[TRACE] 2018-10-10 18:25:03.541 [main] MemberWritter - OutFile /QSYS.LIB/LIBEPC.LIB/QCIF001TXT.FILE/EXACLS.MBR Writed successfully (49 records).
+[TRACE] 2018-10-10 18:25:03.542 [main] DAOInterface - DAOController finished.
+[TRACE] 2018-10-10 19:36:49.840 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 19:36:49.875 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 19:36:49.876 [main] CSVInputReader - CSV File Input
+[TRACE] 2018-10-10 19:36:49.880 [main] CSVInputReader - DAOModel_EXACLS2 Added field: legalType|type=char|length=1|decimals=
+[TRACE] 2018-10-10 19:36:49.881 [main] CSVInputReader - DAOModel_EXACLS2 Added field: residencyCountryCode|type=char|length=3|decimals=
+[TRACE] 2018-10-10 19:36:49.881 [main] CSVInputReader - DAOModel_EXACLS2 Added field: homePhoneNumber|type=zoned|length=11|decimals=
+[TRACE] 2018-10-10 19:36:49.881 [main] CSVInputReader - DAOModel_EXACLS2 Added field: birthDate|type=date|length=|decimals=
+[ERROR] 2018-10-10 19:37:02.854 [main] DAOInterface - DAOController failed.
+java.net.UnknownHostException: CRI400F
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184) ~[?:1.8.0_60]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_60]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_60]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at com.ibm.as400.access.PortMapper.getSocketConnection(PortMapper.java:259) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.PortMapper.getServerSocket(PortMapper.java:160) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400ImplRemote.signonConnect(AS400ImplRemote.java:2275) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400ImplRemote.signon(AS400ImplRemote.java:2193) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.sendSignonRequest(AS400.java:2885) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.promptSignon(AS400.java:2474) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.signon(AS400.java:3760) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.connectService(AS400.java:1134) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.IFSFile.chooseImpl(IFSFile.java:609) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.IFSFile.exists0(IFSFile.java:1065) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.IFSFile.exists(IFSFile.java:1087) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.output.MemberWritter.validateFile(MemberWritter.java:83) ~[classes/:?]
+	at com.output.MemberWritter.writeRecords(MemberWritter.java:47) ~[classes/:?]
+	at com.output.ClassMemberWriter.writeDAO(ClassMemberWriter.java:32) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:50) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:167) [classes/:?]
+	at test.TestRPGDAO.test_05_csv(TestRPGDAO.java:172) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+[TRACE] 2018-10-10 19:47:01.802 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 19:48:48.168 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 19:48:59.293 [main] CSVInputReader - CSV File Input
+[TRACE] 2018-10-10 19:48:59.310 [main] CSVInputReader - DAOModel_EXACLS2 Added field: legalType|type=char|length=1|decimals=
+[TRACE] 2018-10-10 19:48:59.310 [main] CSVInputReader - DAOModel_EXACLS2 Added field: residencyCountryCode|type=char|length=3|decimals=
+[TRACE] 2018-10-10 19:48:59.311 [main] CSVInputReader - DAOModel_EXACLS2 Added field: homePhoneNumber|type=zoned|length=11|decimals=
+[TRACE] 2018-10-10 19:48:59.311 [main] CSVInputReader - DAOModel_EXACLS2 Added field: birthDate|type=date|length=|decimals=
+[ERROR] 2018-10-10 19:49:54.535 [main] DAOInterface - DAOController failed.
+java.net.UnknownHostException: CRI400F
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184) ~[?:1.8.0_60]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_60]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_60]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at com.ibm.as400.access.PortMapper.getSocketConnection(PortMapper.java:259) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.PortMapper.getServerSocket(PortMapper.java:160) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400ImplRemote.signonConnect(AS400ImplRemote.java:2275) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400ImplRemote.signon(AS400ImplRemote.java:2193) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.sendSignonRequest(AS400.java:2885) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.promptSignon(AS400.java:2474) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.signon(AS400.java:3760) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.connectService(AS400.java:1134) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.IFSFile.chooseImpl(IFSFile.java:609) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.IFSFile.exists0(IFSFile.java:1065) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.IFSFile.exists(IFSFile.java:1087) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.output.MemberWritter.validateFile(MemberWritter.java:83) ~[classes/:?]
+	at com.output.MemberWritter.writeRecords(MemberWritter.java:47) ~[classes/:?]
+	at com.output.ClassMemberWriter.writeDAO(ClassMemberWriter.java:32) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:50) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:167) [classes/:?]
+	at test.TestRPGDAO.test_05_csv(TestRPGDAO.java:172) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]
+[TRACE] 2018-10-10 19:50:17.921 [main] DAOInterface - Interface started.
+[TRACE] 2018-10-10 19:50:17.964 [main] DAOInterface - Objects builded.
+[TRACE] 2018-10-10 19:50:17.965 [main] CSVInputReader - CSV File Input
+[TRACE] 2018-10-10 19:50:17.971 [main] CSVInputReader - DAOModel_EXACLS2 Added field: legalType|type=char|length=1|decimals=
+[TRACE] 2018-10-10 19:50:17.972 [main] CSVInputReader - DAOModel_EXACLS2 Added field: residencyCountryCode|type=char|length=3|decimals=
+[TRACE] 2018-10-10 19:50:17.972 [main] CSVInputReader - DAOModel_EXACLS2 Added field: homePhoneNumber|type=zoned|length=11|decimals=
+[TRACE] 2018-10-10 19:50:17.972 [main] CSVInputReader - DAOModel_EXACLS2 Added field: birthDate|type=date|length=|decimals=
+[ERROR] 2018-10-10 19:52:43.827 [main] DAOInterface - DAOController failed.
+java.net.UnknownHostException: CRI400F
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184) ~[?:1.8.0_60]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_60]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_60]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at com.ibm.as400.access.PortMapper.getSocketConnection(PortMapper.java:259) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.PortMapper.getServerSocket(PortMapper.java:160) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400ImplRemote.signonConnect(AS400ImplRemote.java:2275) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400ImplRemote.signon(AS400ImplRemote.java:2193) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.sendSignonRequest(AS400.java:2885) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.promptSignon(AS400.java:2474) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.signon(AS400.java:3760) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.AS400.connectService(AS400.java:1134) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.IFSFile.chooseImpl(IFSFile.java:609) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.IFSFile.exists0(IFSFile.java:1065) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.ibm.as400.access.IFSFile.exists(IFSFile.java:1087) ~[jt400-6.7.jar:JTOpen 6.7]
+	at com.output.MemberWritter.validateFile(MemberWritter.java:83) ~[classes/:?]
+	at com.output.MemberWritter.writeRecords(MemberWritter.java:47) ~[classes/:?]
+	at com.output.ClassMemberWriter.writeDAO(ClassMemberWriter.java:32) ~[classes/:?]
+	at com.control.DAOGeneratorController.execute(DAOGeneratorController.java:50) ~[classes/:?]
+	at com.control.DAOInterface.executeController(DAOInterface.java:167) [classes/:?]
+	at test.TestRPGDAO.test_05_csv(TestRPGDAO.java:172) [test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_60]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382) [.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192) [.cp/:?]

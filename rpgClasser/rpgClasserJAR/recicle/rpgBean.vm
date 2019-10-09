@@ -1,0 +1,69 @@
+
+      * BEAN NAME: $bean.Name
+     H NOMAIN
+     H BNDDIR('OBJECTBD')    
+     
+      /INCLUDE LIBEPC/QBV1EXA,OBJECTH        
+      /INCLUDE LIBEPC/$bean.getTxtFileName(),$bean.getTxtSrcName()
+      /INCLUDE LIBEPC/QBV1TXT,TESTSQLH
+      
+      // Private atributtes	
+     d this            ds                  qualified template     
+#foreach( $field in $bean.getFields() )
+     $utils.getDspecs($field,"@p","inz")
+#end
+
+      // default constructor
+#set($contructorName = $bean.getRpgSrcName() + "_new...")
+#set($beanType = $bean.name + "Type")
+#set($localBean = "v"+$utils.getMethodName($bean.name))
+#set($localRef = "p"+$utils.getMethodName($bean.name))
+     P $contructorName
+     P                 b                   export
+     d                 pi                  like( $beanType )
+      /free
+       return object_new(%size(this));
+      /end-free
+     P                 e  
+
+## Iterate over all of the bean fields and build get and set methods
+#foreach( $field in $bean.getFields() )
+
+      //Returns the $bean.Name's $field.name field
+      //@return      The $bean.Name's $field.name field ($field.getLength() $field.getType() $field.getDecimals())     
+#if( $field.getType().equals( "n" ) )
+## Booleans should start with is
+     P $bean.getRpgSrcName()_is$utils.getMethodName( $field.name )...
+#else
+## Non-booleans should start with get
+     P $bean.getRpgSrcName()_get$utils.getMethodName( $field.name )...
+#end      
+     P                 b                   export
+     $utils.getDspecs("",$field.getType(),$field.getLength(),$field.getDecimals(),"pi","")
+#set( $keywords =  "like( "+${beanType}+" ) const")
+     $utils.getDspecs($localRef,"","","","@p",$keywords)
+     
+#set( $keywords =  "likeds(this) based("+$localRef+")")
+     $utils.getDspecs($localBean,"","","","ds",$keywords)
+      /free
+       return ${localBean}.${field.name};
+      /end-free
+     P                 e 
+
+      //Sets the $bean.Name's $field.name field
+      //@param $localRef        The $bean.Name's $field.name field
+     P $bean.getRpgSrcName()_set$utils.getMethodName( $field.name )...
+     P                 b                   export
+     d                 pi 
+#set( $keywords =  "like( "+${beanType}+" ) const")
+     $utils.getDspecs($localRef,"","","","@p",$keywords)
+#set( $parmName = "p" + $utils.getMethodName( $field.getName() ) )
+     $utils.getDspecs($parmName,$field.getType(),$field.getLength(),$field.getDecimals(),"@p","const")
+
+#set( $keywords =  "likeds(this) based("+$localRef+")")
+     $utils.getDspecs($localBean,"","","","ds",$keywords)
+      /free
+       ${localBean}.${field.name} = $parmName;
+      /end-free
+     P                 e  
+#end
