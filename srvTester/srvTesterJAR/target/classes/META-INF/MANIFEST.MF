@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: eparajeles
+Class-Path: . lib/poi-3.9.jar lib/commons-codec-1.5.jar lib/poi-ooxml-
+ 3.9.jar lib/poi-examples-3.9.jar lib/poi-excelant-3.9.jar lib/ant-1.8
+ .2.jar lib/ant-launcher-1.8.2.jar lib/poi-scratchpad-3.9.jar lib/stax
+ -api-1.0.1.jar lib/dom4j-1.6.1.jar lib/xml-apis-1.0.b2.jar lib/xmlbea
+ ns-2.3.0.jar lib/poi-ooxml-schemas-3.9.jar lib/log4j-api-2.2.jar lib/
+ log4j-core-2.2.jar lib/jgoodies-forms-1.6.0.jar lib/jgoodies-common-1
+ .4.0.jar lib/com.ibm.mq-5.3.07.jar lib/connector-api-1.5.jar
+Build-Jdk: 1.8.0_60
+Created-By: Maven Integration for Eclipse
+Main-Class: com.tester.fxview.MainView
+

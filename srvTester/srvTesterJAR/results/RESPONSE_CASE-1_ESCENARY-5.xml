@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><message><header><operationCode>11038</operationCode></header><key>
+		<accountNumber>908424864</accountNumber>
+		<fromDate>2015-11-08</fromDate>
+		<toDate>2015-11-09</toDate>
+		<includeRecentType>2</includeRecentType>
+		<serviceScript>RESXML11038.XML</serviceScript>
+	</key><body>		<transactions>		</transactions></body></message>

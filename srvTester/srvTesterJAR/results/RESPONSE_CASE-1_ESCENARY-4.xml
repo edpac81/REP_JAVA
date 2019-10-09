@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><message><header><operationCode>11038</operationCode><origin><country>CR</country><channel>CMQGP4</channel><server>CRI400F</server></origin><errors><error><code>ACC0025</code><description><![CDATA[Rango de fecha recibido es inválido]]></description></error></errors></header><key>
+		<accountNumber>908424864</accountNumber>
+		<fromDate>2015-11-09</fromDate>
+		<toDate>2015-11-08</toDate>
+		<includeRecentType>2</includeRecentType>
+		<serviceScript>RESXML11038.XML</serviceScript>
+	</key><body></body></message>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn" name="srvTester" packages="">
+  <Appenders>
+	<Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n"/>
+    </Console>
+    <File name="logFile" fileName="logs/srvTester.log">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n"/>
+    </File>
+  </Appenders>
+  <Loggers>
+	<logger name="com.tester.logger.STLogger" level="all">
+		<appender-ref ref="logFile"/>
+	</logger>
+    <root level="trace">
+      <appender-ref ref="Console"/>
+    </root>
+  </Loggers>
+</Configuration>
